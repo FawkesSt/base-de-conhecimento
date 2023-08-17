@@ -1,7 +1,7 @@
 ---
 description: >-
-  Bem-vindo a base de conhecimento leadlovers, aqui você vai aprender todas as
-  habilidades para colocar em práticas sua estratégia.
+  Bem-vindo à base de conhecimento da leadlovers, aqui você vai aprender todas
+  as habilidades necessárias para colocar em prática sua estratégia.
 layout:
   title:
     visible: true
