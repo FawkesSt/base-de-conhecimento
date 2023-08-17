@@ -4,7 +4,12 @@
 
 ## Backup
 
-* [Page 1](backup/page-1.md)
+* [backup](backup/backup/README.md)
+  * [Integração WooCommerce e Leadlovers via Pluga](backup/backup/integracao-woocommerce-e-leadlovers-via-pluga.md)
+  * [Integração Sympla e leadlovers via Pluga](backup/backup/integracao-sympla-e-leadlovers-via-pluga.md)
+  * [Integração Leadlovers e Google Sheets via Pluga](backup/backup/integracao-leadlovers-e-google-sheets-via-pluga.md)
+  * [Como integrar a leadlovers com o ClickUp via Pluga](backup/backup/como-integrar-a-leadlovers-com-o-clickup-via-pluga.md)
+  * [Integração leadlovers e PagSeguro via Pluga](backup/backup/integracao-leadlovers-e-pagseguro-via-pluga.md)
 
 ## Máquinas
 
