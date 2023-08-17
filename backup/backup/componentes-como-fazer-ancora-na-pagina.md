@@ -1,7 +1,5 @@
 # Componentes: Como fazer âncora na página
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2021/12/1-1.png)](https://legado.leadlovers.site/wp-content/uploads/2021/12/1-1.png)
-
 Objetivo: Ensinar como vincular um link, botão ou menu a outro elemento da página.\
 Para que serve: Com uma âncora configurada, é possível fazer com que ao clicar em um link, botão ou menu a página role até a parte desejada.\
 Requisitos obrigatórios: Ter uma página criada no Construtor por Componentes, o editor padrão da leadlovers.

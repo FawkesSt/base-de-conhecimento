@@ -1,7 +1,5 @@
 # Componentes: Como criar um formulário dentro do editor
 
-![](https://legado.leadlovers.site/wp-content/uploads/2021/12/1.png)
-
 Objetivo: Ensinar como inserir e editar um formulário dentro do Construtor por Componentes.\
 Para que serve: É essencial que em sua página de captura tenha um formulário para os contatos preencherem. Quanto mais personalizado e atraente ele for, maior será a chance do cadastro ser concluído.\
 Requisitos obrigatórios: 1. Ter uma página criada no Construtor por Componentes, o editor padrão de páginas da leadlovers. 2. Se pretende inserir um Formulário Dinâmico, é necessário criar os [campos de captura](https://suporte.love/como-criar-campos-dinamicos-e-como-criar-formulario-dinamico/) antes.
