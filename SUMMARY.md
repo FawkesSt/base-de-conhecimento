@@ -28,6 +28,10 @@
 
 * [Page 3](integracoes/page-3.md)
 
+## DNS e domínios
+
+* [Page 9](dns-e-dominios/page-9.md)
+
 ## Páginas
 
 * [Page 4](paginas/page-4.md)
@@ -39,3 +43,11 @@
 ## EAD
 
 * [Page 6](ead/page-6.md)
+
+## Financeiro
+
+* [Page 8](financeiro/page-8.md)
+
+## Configurações gerais
+
+* [Page 7](configuracoes-gerais/page-7.md)
