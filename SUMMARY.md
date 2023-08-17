@@ -16,22 +16,26 @@
   * [Componentes: Como fazer âncora na página](backup/backup/componentes-como-fazer-ancora-na-pagina.md)
   * [Componentes: Como criar um formulário dentro do editor](backup/backup/componentes-como-criar-um-formulario-dentro-do-editor.md)
 
+## Contas
+
+* [Page 1](contas/page-1.md)
+
 ## Máquinas
 
 * [Page 2](maquinas/page-2.md)
 
-## Group 2
+## Integrações
 
-* [Page 3](group-2/page-3.md)
+* [Page 3](integracoes/page-3.md)
 
-## Group 3
+## Páginas
 
-* [Page 4](group-3/page-4.md)
+* [Page 4](paginas/page-4.md)
 
-## Group 4
+## CRM
 
-* [Page 5](group-4/page-5.md)
+* [Page 5](crm/page-5.md)
 
-## Group 5
+## EAD
 
-* [Page 6](group-5/page-6.md)
+* [Page 6](ead/page-6.md)
