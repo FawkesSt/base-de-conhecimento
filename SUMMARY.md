@@ -10,6 +10,11 @@
   * [Integração Leadlovers e Google Sheets via Pluga](backup/backup/integracao-leadlovers-e-google-sheets-via-pluga.md)
   * [Como integrar a leadlovers com o ClickUp via Pluga](backup/backup/como-integrar-a-leadlovers-com-o-clickup-via-pluga.md)
   * [Integração leadlovers e PagSeguro via Pluga](backup/backup/integracao-leadlovers-e-pagseguro-via-pluga.md)
+  * [Componentes: Uma visão geral do editor](backup/backup/componentes-uma-visao-geral-do-editor.md)
+  * [Componentes: Como criar um menu no editor](backup/backup/componentes-como-criar-um-menu-no-editor.md)
+  * [Componentes: Como criar páginas de Políticas de Privacidade e Termos de Uso](backup/backup/componentes-como-criar-paginas-de-politicas-de-privacidade-e-termos-de-uso.md)
+  * [Componentes: Como fazer âncora na página](backup/backup/componentes-como-fazer-ancora-na-pagina.md)
+  * [Componentes: Como criar um formulário dentro do editor](backup/backup/componentes-como-criar-um-formulario-dentro-do-editor.md)
 
 ## Máquinas
 
