@@ -2,10 +2,6 @@
 
 * [🏁 Comece por aqui](README.md)
 
-## Backup
-
-* [backup](backup/backup.md)
-
 ## Contas
 
 * [Page 1](contas/page-1.md)
