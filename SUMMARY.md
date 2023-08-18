@@ -2,13 +2,18 @@
 
 * [🏁 Comece por aqui](README.md)
 
-## Contatos
+## Automações
 
-* [Gestão de contatos](contatos/gestao-de-contatos.md)
-  * [Link com ações automatizadas: Como criar e utilizar](contatos/gestao-de-contatos/link-com-acoes-automatizadas-como-criar-e-utilizar.md)
-* [Importar contatos](contatos/importar-contatos.md)
-  * [Regras de Importação de Leads por .TXT](contatos/importar-contatos/regras-de-importacao-de-leads-por-.txt.md)
-  * [Como cadastrar um lead manualmente?](contatos/importar-contatos/como-cadastrar-um-lead-manualmente.md)
+* [Máquina de Email](automacoes/maquina-de-email.md)
+* [Máquina de WhatsApp](automacoes/maquina-de-whatsapp.md)
+* [Máquina de Instagram](automacoes/maquina-de-instagram.md)
+* [Outras máquinas](automacoes/outras-maquinas/README.md)
+  * [Telegram](automacoes/outras-maquinas/telegram.md)
+  * [SMS](automacoes/outras-maquinas/sms.md)
+  * [Voz](automacoes/outras-maquinas/voz.md)
+* [Envio pontual](automacoes/envio-pontual/README.md)
+  * [Email markering](automacoes/envio-pontual/email-markering.md)
+  * [Broadcast](automacoes/envio-pontual/broadcast.md)
 
 ## Contas
 
@@ -18,15 +23,29 @@
 * [Contas de Telegram](contas/contas-de-telegram.md)
 * [Contas de Instagram](contas/contas-de-instagram.md)
 
-## Automações
+## Contatos
 
-* [Envio pontual](automacoes/envio-pontual/README.md)
-  * [Email markering](automacoes/envio-pontual/email-markering.md)
-  * [Broadcast](automacoes/envio-pontual/broadcast.md)
-* [Máquina de Email](automacoes/maquina-de-email.md)
-* [Máquina de WhatsApp](automacoes/maquina-de-whatsapp.md)
-* [Máquina de Instagram](automacoes/maquina-de-instagram.md)
-* [Outras máquinas](automacoes/outras-maquinas.md)
+* [Gestão de contatos](contatos/gestao-de-contatos.md)
+  * [Link com ações automatizadas: Como criar e utilizar](contatos/gestao-de-contatos/link-com-acoes-automatizadas-como-criar-e-utilizar.md)
+* [Importar contatos](contatos/importar-contatos.md)
+  * [Regras de Importação de Leads por .TXT](contatos/importar-contatos/regras-de-importacao-de-leads-por-.txt.md)
+  * [Como cadastrar um lead manualmente?](contatos/importar-contatos/como-cadastrar-um-lead-manualmente.md)
+
+## DNS e domínios
+
+* [DNS de email](dns-e-dominios/dns-de-email.md)
+* [Apontamento de domínio](dns-e-dominios/apontamento-de-dominio.md)
+
+## Páginas
+
+* [Construtor de páginas](paginas/construtor-de-paginas/README.md)
+  * [Componentes: Como criar um formulário dentro do editor](paginas/construtor-de-paginas/componentes-como-criar-um-formulario-dentro-do-editor.md)
+  * [Componentes: Como fazer âncora na página](paginas/construtor-de-paginas/componentes-como-fazer-ancora-na-pagina.md)
+  * [Componentes: Como criar páginas de Políticas de Privacidade e Termos de Uso](paginas/construtor-de-paginas/componentes-como-criar-paginas-de-politicas-de-privacidade-e-termos-de-uso.md)
+  * [Componentes: Uma visão geral do editor](paginas/construtor-de-paginas/componentes-uma-visao-geral-do-editor.md)
+  * [Componentes: Como criar um menu no editor](paginas/construtor-de-paginas/componentes-como-criar-um-menu-no-editor.md)
+* [Chatbot](paginas/chatbot.md)
+* [Analytics](paginas/analytics.md)
 
 ## Integrações
 
@@ -53,22 +72,6 @@
 * [Gestão de alunos](ead/gestao-de-alunos.md)
 * [Integrações](ead/integracoes.md)
 * [Domínios](ead/dominios.md)
-
-## Páginas
-
-* [Construtor de páginas](paginas/construtor-de-paginas/README.md)
-  * [Componentes: Como criar um formulário dentro do editor](paginas/construtor-de-paginas/componentes-como-criar-um-formulario-dentro-do-editor.md)
-  * [Componentes: Como fazer âncora na página](paginas/construtor-de-paginas/componentes-como-fazer-ancora-na-pagina.md)
-  * [Componentes: Como criar páginas de Políticas de Privacidade e Termos de Uso](paginas/construtor-de-paginas/componentes-como-criar-paginas-de-politicas-de-privacidade-e-termos-de-uso.md)
-  * [Componentes: Uma visão geral do editor](paginas/construtor-de-paginas/componentes-uma-visao-geral-do-editor.md)
-  * [Componentes: Como criar um menu no editor](paginas/construtor-de-paginas/componentes-como-criar-um-menu-no-editor.md)
-* [Chatbot](paginas/chatbot.md)
-* [Analytics](paginas/analytics.md)
-
-## DNS e domínios
-
-* [DNS de email](dns-e-dominios/dns-de-email.md)
-* [Apontamento de domínio](dns-e-dominios/apontamento-de-dominio.md)
 
 ## Minha Conta
 
