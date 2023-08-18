@@ -10,7 +10,8 @@
 
 ## Máquinas
 
-* [Page 2](maquinas/page-2.md)
+* [Máquina de Email](maquinas/maquina-de-email.md)
+* [Máquina de WhatsApp](maquinas/maquina-de-whatsapp.md)
 
 ## Integrações
 
