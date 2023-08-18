@@ -92,12 +92,3 @@ OBS: Opção de mover ou remover, está disponível apenas em funis.
 
 Caso não saiba como incluir o Link com ações automatizadas em um e-mail, esse material poderá te auxiliar. Ele detalha as [**funcionalidades do e-mail e aonde utilizar o Link com ações automatizadas.**](https://suporte.love/apresentando-a-sequencia-de-e-mails/)&#x20;
 
-**Suporte**
-
-Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante\
-este procedimento, por favor, **entre em contato com o nosso suporte**!
-
-![🏁](https://s.w.org/images/core/emoji/14.0.0/svg/1f3c1.svg) **É isso, terminamos por aqui!**\
-com\
-amor ![❤](https://s.w.org/images/core/emoji/14.0.0/svg/2764.svg)\
-equipe **leadlovers™**
