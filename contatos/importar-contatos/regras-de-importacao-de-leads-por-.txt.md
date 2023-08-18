@@ -1,4 +1,4 @@
-# Suporte.love
+# Regras de Importação de Leads por .TXT
 
 **Objetivo:** Aprender a como montar uma lista de leads em .TXT para importar no leadlovers.
 

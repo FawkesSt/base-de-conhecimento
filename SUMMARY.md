@@ -4,11 +4,11 @@
 
 ## Contatos
 
-* [Gestão de contatos](contatos/gestao-de-contatos/README.md)
-  * [Suporte.love](contatos/gestao-de-contatos/suporte.love.md)
+* [Gestão de contatos](contatos/gestao-de-contatos.md)
   * [Link com ações automatizadas: Como criar e utilizar](contatos/gestao-de-contatos/link-com-acoes-automatizadas-como-criar-e-utilizar.md)
-* [Importar contatos](contatos/importar-contatos/README.md)
-  * [Suporte.love](contatos/importar-contatos/suporte.love.md)
+* [Importar contatos](contatos/importar-contatos.md)
+  * [Regras de Importação de Leads por .TXT](contatos/importar-contatos/regras-de-importacao-de-leads-por-.txt.md)
+  * [Como cadastrar um lead manualmente?](contatos/importar-contatos/como-cadastrar-um-lead-manualmente.md)
 
 ## Contas
 

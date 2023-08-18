@@ -1,4 +1,4 @@
-# Suporte.love
+# Como cadastrar um lead manualmente?
 
 **Objetivo:** Mostrar o passo a passo de como criar\
 **Para que serve:** Cadastrar um lead manualmente direto em uma máquina e funil especifico de sua conta leadlovers.\
