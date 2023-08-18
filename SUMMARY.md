@@ -12,7 +12,7 @@
   * [SMS](automacoes/outras-maquinas/sms.md)
   * [Voz](automacoes/outras-maquinas/voz.md)
 * [Envio pontual](automacoes/envio-pontual/README.md)
-  * [Email markering](automacoes/envio-pontual/email-markering.md)
+  * [Email Marketing](automacoes/envio-pontual/email-marketing.md)
   * [Broadcast](automacoes/envio-pontual/broadcast.md)
 
 ## Contas
