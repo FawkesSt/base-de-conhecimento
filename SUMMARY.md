@@ -28,11 +28,12 @@
 
 ## Páginas
 
-* [Componentes: Como criar um menu no editor](paginas/componentes-como-criar-um-menu-no-editor.md)
-* [Componentes: Uma visão geral do editor](paginas/componentes-uma-visao-geral-do-editor.md)
-* [Componentes: Como criar páginas de Políticas de Privacidade e Termos de Uso](paginas/componentes-como-criar-paginas-de-politicas-de-privacidade-e-termos-de-uso.md)
-* [Componentes: Como fazer âncora na página](paginas/componentes-como-fazer-ancora-na-pagina.md)
-* [Componentes: Como criar um formulário dentro do editor](paginas/componentes-como-criar-um-formulario-dentro-do-editor.md)
+* [Construtor de páginas](paginas/construtor-de-paginas/README.md)
+  * [Componentes: Como criar um formulário dentro do editor](paginas/construtor-de-paginas/componentes-como-criar-um-formulario-dentro-do-editor.md)
+  * [Componentes: Como fazer âncora na página](paginas/construtor-de-paginas/componentes-como-fazer-ancora-na-pagina.md)
+  * [Componentes: Como criar páginas de Políticas de Privacidade e Termos de Uso](paginas/construtor-de-paginas/componentes-como-criar-paginas-de-politicas-de-privacidade-e-termos-de-uso.md)
+  * [Componentes: Uma visão geral do editor](paginas/construtor-de-paginas/componentes-uma-visao-geral-do-editor.md)
+  * [Componentes: Como criar um menu no editor](paginas/construtor-de-paginas/componentes-como-criar-um-menu-no-editor.md)
 
 ## CRM
 
@@ -49,18 +50,3 @@
 ## Configurações gerais
 
 * [Page 7](configuracoes-gerais/page-7.md)
-
-***
-
-* [Import](import/README.md)
-  * [Suporte.love](import/suporte.love.md)
-* [Import](import-1/README.md)
-  * [Suporte.love](import-1/suporte.love.md)
-* [Import](import-2/README.md)
-  * [Suporte.love](import-2/suporte.love.md)
-* [Import](import-3/README.md)
-  * [Suporte.love](import-3/suporte.love.md)
-* [Import](import-4/README.md)
-  * [Suporte.love](import-4/suporte.love.md)
-* [Import](import-5/README.md)
-  * [Suporte.love](import-5/suporte.love.md)
