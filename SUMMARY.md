@@ -4,6 +4,7 @@
 
 ## Contas
 
+* [Conta de Email](contas/conta-de-email.md)
 * [Conta de WhatsApp](contas/page-1.md)
   * [Reautenticando WhatsApp Business Cloud API](contas/conta-de-whatsapp/reautenticando-whatsapp-business-cloud-api.md)
 
