@@ -4,8 +4,7 @@
 
 ## Contas
 
-* [Conta de Email](contas/conta-de-email/README.md)
-  * [Contas de e-mail: O que é Reputação do E-mail?](contas/conta-de-email/contas-de-e-mail-o-que-e-reputacao-do-e-mail.md)
+* [Conta de Email](contas/conta-de-email.md)
 * [Conta de WhatsApp](contas/page-1.md)
   * [Reautenticando WhatsApp Business Cloud API](contas/conta-de-whatsapp/reautenticando-whatsapp-business-cloud-api.md)
 
@@ -62,3 +61,5 @@
   * [Suporte.love](import-3/suporte.love.md)
 * [Import](import-4/README.md)
   * [Suporte.love](import-4/suporte.love.md)
+* [Import](import-5/README.md)
+  * [Suporte.love](import-5/suporte.love.md)
