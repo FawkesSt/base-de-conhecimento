@@ -1,6 +1,6 @@
 # Ferramentas de integração
 
-## O que são ferramentas de integração
+## O que são ferramentas de integração?
 
 **Zapier** e **Pluga** são ambas ferramentas de automação de fluxo de trabalho que permitem integrar aplicativos diferentes para automatizar tarefas e melhorar a eficiência operacional.
 
