@@ -57,7 +57,7 @@
     * [Integração Sympla e leadlovers via Pluga](integracoes/ferramentas-de-integracao/integracoes-pluga/integracao-sympla-e-leadlovers-via-pluga.md)
     * [Integração Google Sheets  e leadlovers via Pluga](integracoes/ferramentas-de-integracao/integracoes-pluga/integracao-google-sheets-e-leadlovers-via-pluga.md)
     * [Integração ClickUp e leadlovers via Pluga](integracoes/ferramentas-de-integracao/integracoes-pluga/integracao-clickup-e-leadlovers-via-pluga.md)
-  * [Integração Zapier](integracoes/ferramentas-de-integracao/integracao-zapier.md)
+  * [Integrações Zapier](integracoes/ferramentas-de-integracao/integracoes-zapier.md)
 * [Pagamentos](integracoes/pagamentos.md)
 * [Webhooks](integracoes/webhooks.md)
 * [Facebook LeadAds](integracoes/facebook-leadads.md)
