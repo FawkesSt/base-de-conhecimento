@@ -7,7 +7,7 @@
 * [Máquina de Email](automacoes/maquina-de-email.md)
 * [Máquina de WhatsApp](automacoes/maquina-de-whatsapp.md)
 * [Máquina de Instagram](automacoes/maquina-de-instagram.md)
-* [Outras máquinas](automacoes/outras-maquinas/README.md)
+* [Outras Máquinas](automacoes/outras-maquinas/README.md)
   * [Telegram](automacoes/outras-maquinas/telegram.md)
   * [SMS](automacoes/outras-maquinas/sms.md)
   * [Voz](automacoes/outras-maquinas/voz.md)
