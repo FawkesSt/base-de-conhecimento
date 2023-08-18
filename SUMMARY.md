@@ -43,10 +43,10 @@
 
 * [Page 6](ead/page-6.md)
 
-## Financeiro
+## Minha Conta
 
-* [Page 8](financeiro/page-8.md)
+* [Page 8](minha-conta/page-8.md)
 
 ## Configurações gerais
 
-* [Page 7](configuracoes-gerais/page-7.md)
+* [Lorem ipsum](configuracoes-gerais/lorem-ipsum.md)
