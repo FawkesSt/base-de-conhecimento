@@ -40,11 +40,11 @@
 ## Páginas
 
 * [Construtor de páginas](paginas/construtor-de-paginas/README.md)
+  * [Componentes: Uma visão geral do editor](paginas/construtor-de-paginas/componentes-uma-visao-geral-do-editor.md)
   * [Componentes: Como criar um formulário dentro do editor](paginas/construtor-de-paginas/componentes-como-criar-um-formulario-dentro-do-editor.md)
   * [Componentes: Como fazer âncora na página](paginas/construtor-de-paginas/componentes-como-fazer-ancora-na-pagina.md)
-  * [Componentes: Como criar páginas de Políticas de Privacidade e Termos de Uso](paginas/construtor-de-paginas/componentes-como-criar-paginas-de-politicas-de-privacidade-e-termos-de-uso.md)
-  * [Componentes: Uma visão geral do editor](paginas/construtor-de-paginas/componentes-uma-visao-geral-do-editor.md)
   * [Componentes: Como criar um menu no editor](paginas/construtor-de-paginas/componentes-como-criar-um-menu-no-editor.md)
+  * [Componentes: Como criar páginas de Políticas de Privacidade e Termos de Uso](paginas/construtor-de-paginas/componentes-como-criar-paginas-de-politicas-de-privacidade-e-termos-de-uso.md)
 * [Chatbot](paginas/chatbot.md)
 * [Analytics](paginas/analytics.md)
 
@@ -57,7 +57,7 @@
     * [Integração Sympla e leadlovers via Pluga](integracoes/ferramentas-de-integracao/integracoes-pluga/integracao-sympla-e-leadlovers-via-pluga.md)
     * [Integração Google Sheets  e leadlovers via Pluga](integracoes/ferramentas-de-integracao/integracoes-pluga/integracao-google-sheets-e-leadlovers-via-pluga.md)
     * [Integração ClickUp e leadlovers via Pluga](integracoes/ferramentas-de-integracao/integracoes-pluga/integracao-clickup-e-leadlovers-via-pluga.md)
-  * [Integrações Zapier](integracoes/ferramentas-de-integracao/integracoes-zapier.md)
+  * [Integrações Zapier](integracoes/ferramentas-de-integracao/integracao-zapier.md)
 * [Pagamentos](integracoes/pagamentos.md)
 * [Webhooks](integracoes/webhooks.md)
 * [Facebook LeadAds](integracoes/facebook-leadads.md)
