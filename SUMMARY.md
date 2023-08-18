@@ -4,7 +4,9 @@
 
 ## Contas
 
-* [Conta de Email](contas/conta-de-email.md)
+* [Conta de Email](contas/conta-de-email/README.md)
+  * [Relatório de Entregabilidade](contas/conta-de-email/relatorio-de-entregabilidade.md)
+  * [Contas de e-mail: O que é Reputação do E-mail?](contas/conta-de-email/contas-de-e-mail-o-que-e-reputacao-do-e-mail.md)
 * [Conta de WhatsApp](contas/page-1.md)
   * [Reautenticando WhatsApp Business Cloud API](contas/conta-de-whatsapp/reautenticando-whatsapp-business-cloud-api.md)
 
