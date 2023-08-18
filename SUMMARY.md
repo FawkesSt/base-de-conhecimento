@@ -4,13 +4,14 @@
 
 ## Automações
 
-* [Máquina de Email](automacoes/maquina-de-email.md)
-* [Máquina de WhatsApp](automacoes/maquina-de-whatsapp.md)
-* [Máquina de Instagram](automacoes/maquina-de-instagram.md)
-* [Outras Máquinas](automacoes/outras-maquinas/README.md)
-  * [Telegram](automacoes/outras-maquinas/telegram.md)
-  * [SMS](automacoes/outras-maquinas/sms.md)
-  * [Voz](automacoes/outras-maquinas/voz.md)
+* [Máquinas](automacoes/maquinas/README.md)
+  * [Máquina de Email](automacoes/maquinas/maquina-de-email.md)
+  * [Máquina de WhatsApp](automacoes/maquinas/maquina-de-whatsapp.md)
+  * [Máquina de Instagram](automacoes/maquinas/maquina-de-instagram.md)
+  * [Outras Máquinas](automacoes/maquinas/outras-maquinas/README.md)
+    * [Telegram](automacoes/maquinas/outras-maquinas/telegram.md)
+    * [SMS](automacoes/maquinas/outras-maquinas/sms.md)
+    * [Voz](automacoes/maquinas/outras-maquinas/voz.md)
 * [Envio pontual](automacoes/envio-pontual/README.md)
   * [Email Marketing](automacoes/envio-pontual/email-marketing.md)
   * [Broadcast](automacoes/envio-pontual/broadcast.md)
@@ -49,13 +50,14 @@
 
 ## Integrações
 
-* [Integrações Pluga](integracoes/integracoes-pluga/README.md)
-  * [Integração PagSeguro e leadlovers via Pluga](integracoes/integracoes-pluga/integracao-pagseguro-e-leadlovers-via-pluga.md)
-  * [Integração WooCommerce e leadlovers via Pluga](integracoes/integracoes-pluga/integracao-woocommerce-e-leadlovers-via-pluga.md)
-  * [Integração Sympla e leadlovers via Pluga](integracoes/integracoes-pluga/integracao-sympla-e-leadlovers-via-pluga.md)
-  * [Integração Google Sheets  e leadlovers via Pluga](integracoes/integracoes-pluga/integracao-google-sheets-e-leadlovers-via-pluga.md)
-  * [Integração ClickUp e leadlovers via Pluga](integracoes/integracoes-pluga/integracao-clickup-e-leadlovers-via-pluga.md)
-* [Integração Zapier](integracoes/integracao-zapier.md)
+* [Ferramentas de integração](integracoes/ferramentas-de-integracao/README.md)
+  * [Integrações Pluga](integracoes/ferramentas-de-integracao/integracoes-pluga/README.md)
+    * [Integração PagSeguro e leadlovers via Pluga](integracoes/ferramentas-de-integracao/integracoes-pluga/integracao-pagseguro-e-leadlovers-via-pluga.md)
+    * [Integração WooCommerce e leadlovers via Pluga](integracoes/ferramentas-de-integracao/integracoes-pluga/integracao-woocommerce-e-leadlovers-via-pluga.md)
+    * [Integração Sympla e leadlovers via Pluga](integracoes/ferramentas-de-integracao/integracoes-pluga/integracao-sympla-e-leadlovers-via-pluga.md)
+    * [Integração Google Sheets  e leadlovers via Pluga](integracoes/ferramentas-de-integracao/integracoes-pluga/integracao-google-sheets-e-leadlovers-via-pluga.md)
+    * [Integração ClickUp e leadlovers via Pluga](integracoes/ferramentas-de-integracao/integracoes-pluga/integracao-clickup-e-leadlovers-via-pluga.md)
+  * [Integração Zapier](integracoes/ferramentas-de-integracao/integracao-zapier.md)
 * [Pagamentos](integracoes/pagamentos.md)
 * [Webhooks](integracoes/webhooks.md)
 * [Facebook LeadAds](integracoes/facebook-leadads.md)
