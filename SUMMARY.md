@@ -12,11 +12,12 @@
 
 ## Integrações
 
-* [Integração WooCommerce e Leadlovers via Pluga](integracoes/integracao-woocommerce-e-leadlovers-via-pluga.md)
-* [Integração Sympla e leadlovers via Pluga](integracoes/integracao-sympla-e-leadlovers-via-pluga.md)
-* [Integração Leadlovers e Google Sheets via Pluga](integracoes/integracao-leadlovers-e-google-sheets-via-pluga.md)
-* [Como integrar a leadlovers com o ClickUp via Pluga](integracoes/como-integrar-a-leadlovers-com-o-clickup-via-pluga.md)
-* [Integração leadlovers e PagSeguro via Pluga](integracoes/integracao-leadlovers-e-pagseguro-via-pluga.md)
+* [Integrações Pluga](integracoes/integracoes-pluga/README.md)
+  * [Integração PagSeguro e leadlovers via Pluga](integracoes/integracoes-pluga/integracao-pagseguro-e-leadlovers-via-pluga.md)
+  * [Integração WooCommerce e leadlovers via Pluga](integracoes/integracoes-pluga/integracao-woocommerce-e-leadlovers-via-pluga.md)
+  * [Integração Sympla e leadlovers via Pluga](integracoes/integracoes-pluga/integracao-sympla-e-leadlovers-via-pluga.md)
+  * [Integração Google Sheets  e leadlovers via Pluga](integracoes/integracoes-pluga/integracao-google-sheets-e-leadlovers-via-pluga.md)
+  * [Integração ClickUp e leadlovers via Pluga](integracoes/integracoes-pluga/integracao-clickup-e-leadlovers-via-pluga.md)
 
 ## DNS e domínios
 
