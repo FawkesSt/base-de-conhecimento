@@ -4,8 +4,11 @@
 
 ## Contatos
 
-* [Gestão de contatos](contatos/gestao-de-contatos.md)
-* [Importar contatos](contatos/importar-contatos.md)
+* [Gestão de contatos](contatos/gestao-de-contatos/README.md)
+  * [Suporte.love](contatos/gestao-de-contatos/suporte.love.md)
+  * [Link com ações automatizadas: Como criar e utilizar](contatos/gestao-de-contatos/link-com-acoes-automatizadas-como-criar-e-utilizar.md)
+* [Importar contatos](contatos/importar-contatos/README.md)
+  * [Suporte.love](contatos/importar-contatos/suporte.love.md)
 
 ## Contas
 
