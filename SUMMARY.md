@@ -4,7 +4,7 @@
 
 ## Contas
 
-* [Conta de WhatsApp](contas/conta-de-whatsapp/README.md)
+* [Conta de WhatsApp](contas/page-1.md)
   * [Reautenticando WhatsApp Business Cloud API](contas/conta-de-whatsapp/reautenticando-whatsapp-business-cloud-api.md)
 
 ## Máquinas
@@ -52,3 +52,5 @@
 
 * [Import](import/README.md)
   * [Suporte.love](import/suporte.love.md)
+* [Import](import-1/README.md)
+  * [Suporte.love](import-1/suporte.love.md)
