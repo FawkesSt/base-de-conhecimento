@@ -88,3 +88,4 @@
 
 * [backlog](backlog/README.md)
   * [Como inserir Scripts nas páginas da leadlovers](backlog/como-inserir-scripts-nas-paginas-da-leadlovers.md)
+  * [Curso Online (EAD) como Importar clientes](backlog/curso-online-ead-como-importar-clientes.md)
