@@ -4,29 +4,8 @@
 de 08/06/2022. Funcionalidade se chamava **Link inteligente** na\
 versão 3.0.
 
-*
-  *
-*
-  * **Objetivo:** Aprender os passos básicos do Link com ações\
-    automatizadas e como utilizar.
-*
-  * **Para que serve:** Os links com ações automatizadas, são links que você cria\
-    em sua conta leadlovers, após configurado funciona como um gatilho.
-*
-  * Através desse link é possível realizar ações em quem clicar neste link.
-*
-  * **Requisito(s) Obrigatórios: 1.** Ter uma máquina criada.
-
-**Este artigo abrange os seguintes tópicos:**
-
-*
-  *
-*
-  * [Como Funciona?](broken-reference)
-*
-  * [Criando o Link com ações automatizadas](broken-reference)
-*
-  * [Configuração do gatilho](broken-reference)
+* **Objetivo:** Aprender os passos básicos do Link com ações\
+  automatizadas e como utilizar.
 
 ### **Como funciona?**
 
