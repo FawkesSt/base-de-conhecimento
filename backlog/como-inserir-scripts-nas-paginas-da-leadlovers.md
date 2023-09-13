@@ -56,3 +56,15 @@ Observe que a instrução é quase sempre a mesma: adicionar o script (a tag, o 
 
 **IMPORTANTE:** Sempre teste os scripts antes de divulgar as páginas.
 
+
+
+
+
+**🏁 É isso, terminamos por aqui!**
+
+Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante\
+este procedimento, por favor, entre em contato com **o nosso suporte**!
+
+com amor ❤\
+equipe **leadlovers™**
+
