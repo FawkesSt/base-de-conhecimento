@@ -103,3 +103,4 @@
   * [Como editar um cartão no CRM](backlog/como-editar-um-cartao-no-crm.md)
   * [Como realizar Ações da Coluna no CRM](backlog/como-realizar-acoes-da-coluna-no-crm.md)
   * [Disparo único – Como criar, editar e configurar as Campanhas na leadlovers](backlog/disparo-unico-como-criar-editar-e-configurar-as-campanhas-na-leadlovers.md)
+  * [Contas de e-mail: O que é Reputação do E-mail?](backlog/contas-de-e-mail-o-que-e-reputacao-do-e-mail.md)
