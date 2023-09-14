@@ -107,3 +107,4 @@
   * [Integração leadlovers e MemberKit](backlog/integracao-leadlovers-e-memberkit.md)
   * [Como integrar a leadlovers e LinkedIn Ads via pluga](backlog/como-integrar-a-leadlovers-e-linkedin-ads-via-pluga.md)
   * [Como levar leads para outros sistemas pelo Zapier](backlog/como-levar-leads-para-outros-sistemas-pelo-zapier.md)
+  * [Como trazer leads de outros sistemas pelo Zapier](backlog/como-trazer-leads-de-outros-sistemas-pelo-zapier.md)
