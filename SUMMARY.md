@@ -116,3 +116,4 @@
   * [O que é e como utilizar o Pixel Externo do leadlovers](backlog/o-que-e-e-como-utilizar-o-pixel-externo-do-leadlovers.md)
   * [Como fazer as configurações de DNS de E-mail na KingHost?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-na-kinghost.md)
   * [Como fazer as configurações de DNS de E-mail na GoDaddy?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-na-godaddy.md)
+  * [Como fazer as configurações de DNS de E-mail no Hostgator?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-hostgator.md)
