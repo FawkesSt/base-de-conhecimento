@@ -100,3 +100,4 @@
   * [O que são as Ações automatizadas e como utilizar](backlog/o-que-sao-as-acoes-automatizadas-e-como-utilizar.md)
   * [Como criar uma negociação no CRM?](backlog/como-criar-uma-negociacao-no-crm.md)
   * [Como funciona a gestão de contatos na leadlovers](backlog/como-funciona-a-gestao-de-contatos-na-leadlovers.md)
+  * [Como editar um cartão no CRM](backlog/como-editar-um-cartao-no-crm.md)
