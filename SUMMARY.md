@@ -114,3 +114,4 @@
   * [Curso (EAD):Integração Hotmart](backlog/curso-ead-integracao-hotmart.md)
   * [Como gerar o Pixel do Facebook?](backlog/como-gerar-o-pixel-do-facebook.md)
   * [O que é e como utilizar o Pixel Externo do leadlovers](backlog/o-que-e-e-como-utilizar-o-pixel-externo-do-leadlovers.md)
+  * [Como fazer as configurações de DNS de E-mail na KingHost?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-na-kinghost.md)
