@@ -111,3 +111,4 @@
   * [Como realizar Teste AB em páginas](backlog/como-realizar-teste-ab-em-paginas.md)
   * [Como integrar o ListBoss da Hotmart com a leadlovers?](backlog/como-integrar-o-listboss-da-hotmart-com-a-leadlovers.md)
   * [Como fazer as configurações de DNS de E-mail na Locaweb?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-na-locaweb.md)
+  * [Curso (EAD):Integração Hotmart](backlog/curso-ead-integracao-hotmart.md)
