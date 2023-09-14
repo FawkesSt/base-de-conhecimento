@@ -102,3 +102,4 @@
   * [Como funciona a gestão de contatos na leadlovers](backlog/como-funciona-a-gestao-de-contatos-na-leadlovers.md)
   * [Como editar um cartão no CRM](backlog/como-editar-um-cartao-no-crm.md)
   * [Como realizar Ações da Coluna no CRM](backlog/como-realizar-acoes-da-coluna-no-crm.md)
+  * [Disparo único – Como criar, editar e configurar as Campanhas na leadlovers](backlog/disparo-unico-como-criar-editar-e-configurar-as-campanhas-na-leadlovers.md)
