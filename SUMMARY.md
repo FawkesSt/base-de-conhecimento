@@ -96,3 +96,6 @@
   * [Como funciona a leadlovers](backlog/como-funciona-a-leadlovers.md)
   * [Como gerar cadastros pelo Lead Ads](backlog/como-gerar-cadastros-pelo-lead-ads.md)
   * [Como criar um Webhook?](backlog/como-criar-um-webhook.md)
+  * [Como importar leads na leadlovers](backlog/como-importar-leads-na-leadlovers.md)
+  * [O que são as Ações automatizadas e como utilizar](backlog/o-que-sao-as-acoes-automatizadas-e-como-utilizar.md)
+  * [Como criar uma negociação no CRM?](backlog/como-criar-uma-negociacao-no-crm.md)
