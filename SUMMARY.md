@@ -99,4 +99,4 @@
   * [Como importar leads na leadlovers](backlog/como-importar-leads-na-leadlovers.md)
   * [O que são as Ações automatizadas e como utilizar](backlog/o-que-sao-as-acoes-automatizadas-e-como-utilizar.md)
   * [Como criar uma negociação no CRM?](backlog/como-criar-uma-negociacao-no-crm.md)
-  * [Suporte.love](backlog/suporte.love.md)
+  * [Como funciona a gestão de contatos na leadlovers](backlog/como-funciona-a-gestao-de-contatos-na-leadlovers.md)
