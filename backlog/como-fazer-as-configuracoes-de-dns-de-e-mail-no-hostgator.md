@@ -126,6 +126,3 @@ Esse passo é essencial para garantir que os registros funcionem corretamente.
 
 ![](https://suporte.love/wp-content/uploads/2022/12/download.png)
 
-![](https://legado.leadlovers.site/wp-content/uploads/2020/09/1f3c1.svg) **É isso, terminamos por aqui!**\
-com amor ![❤](https://legado.leadlovers.site/wp-content/uploads/2020/09/2764.svg)\
-equipe **leadlovers™**
