@@ -109,3 +109,4 @@
   * [Como levar leads para outros sistemas pelo Zapier](backlog/como-levar-leads-para-outros-sistemas-pelo-zapier.md)
   * [Como trazer leads de outros sistemas pelo Zapier](backlog/como-trazer-leads-de-outros-sistemas-pelo-zapier.md)
   * [Como realizar Teste AB em páginas](backlog/como-realizar-teste-ab-em-paginas.md)
+  * [Como integrar o ListBoss da Hotmart com a leadlovers?](backlog/como-integrar-o-listboss-da-hotmart-com-a-leadlovers.md)
