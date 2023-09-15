@@ -141,16 +141,3 @@ para publicar sua integração.
 
 No nosso exemplo, nós acrescentamos uma linha na planilha e, como tudo ocorreu com sucesso, o lead entrou na leadlovers com a origem **“API LL”**.
 
-**Suporte**
-
-Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante este procedimento, por favor, **entre em contato com o nosso suporte**!
-
-**Artigos Relacionados**
-
-**–**[ Como levar leads para outros sistemas pelo Zapier](https://suporte.love/como-levar-leads-para-outros-sistemas-pelo-zapier/)\
-**–**[ Como trazer leads de outros sistemas pelo Pluga](https://suporte.love/como-trazer-leads-de-outros-sistemas-pelo-pluga/)\
-**–**[ Como levar leads para outros sistemas pelo Pluga](https://suporte.love/como-levar-leads-para-outros-sistemas-pelo-pluga/)
-
-🏁 **É isso, terminamos por aqui!**\
-com amor ❤\
-equipe **leadlovers™**

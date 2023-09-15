@@ -1,7 +1,5 @@
 # Como funciona a gestão de contatos na leadlovers
 
-**Atenção:** Artigo da versão 4.0 da leadlovers, disponível a partir
-
 **Objetivo:** Ensinar o que são e como adicionar novos contatos na leadlovers.\
 **Para que serve:** Depois que criar a sua conta, você pode começar a capturar, cadastrar e administrar os seus contatos.
 
@@ -57,8 +55,3 @@ Selecionando essa alternativa, o sistema te levará diretamente para a tela de c
 
 Se surgir qualquer dúvida, situação ou se precisar de ajuda durante este procedimento,\
 entre em contato com o nosso suporte! Lembre-se: você sempre pode contar conosco🥰
-
-🏁 **É isso, terminamos por aqui!**\
-com\
-amor ❤\
-equipe **leadlovers™**

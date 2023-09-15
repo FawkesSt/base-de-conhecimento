@@ -73,15 +73,3 @@ Caso você deseje melhorar a entregabilidade do e-mail, entenda alguns critério
 * Se o lead já reportou algum e-mail de uma pessoa qualquer como **Spam**;
 * Não ter uma lista de leads quentes e não utilizar funil de [**Double Opt-in**](https://www.youtube.com/watch?v=7IEJhEiWtYE\&t=1s) para qualificação.
 
-&#x20;
-
-
-
-**🏁 É isso, terminamos por aqui!**
-
-Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante\
-este procedimento, por favor, entre em contato com **o nosso suporte**!
-
-com amor ❤\
-equipe **leadlovers™**
-

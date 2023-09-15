@@ -124,7 +124,3 @@ Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda duran
 
 – Como formatar o arquivo para [importação em .csv](https://suporte.love/regras-importacao-csv/)\
 – Como formatar o arquivo para [importação em .txt](https://suporte.love/regras-importacao-txt/)
-
-🏁 É isso, terminamos por aqui!\
-com amor ❤\
-equipe leadlovers™

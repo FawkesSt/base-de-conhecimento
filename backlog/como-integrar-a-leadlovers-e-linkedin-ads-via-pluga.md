@@ -68,6 +68,3 @@ Após isso a sua integração **foi realizada com sucesso**!
 
 Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante este procedimento, por favor, entre em contato com o nosso suporte!
 
-![🏁](https://s.w.org/images/core/emoji/14.0.0/svg/1f3c1.svg) É isso, terminamos por aqui!\
-com amor ![❤](https://s.w.org/images/core/emoji/14.0.0/svg/2764.svg)\
-equipe leadlovers™

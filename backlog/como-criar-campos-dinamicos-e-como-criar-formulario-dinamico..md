@@ -195,13 +195,3 @@ inserir o formulário dinâmico.
 E caso queira alterar a ordem dos campos, clique nas flechinhas que surgiram entre um campo e outro.
 
 **30** – Após isso, clique em **Salvar**.
-
-
-
-**🏁 É isso, terminamos por aqui!**
-
-Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante\
-este procedimento, por favor, entre em contato com **o nosso suporte**!
-
-com amor ❤\
-equipe **leadlovers™**

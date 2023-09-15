@@ -106,12 +106,3 @@ Depois que tudo estiver pronto, é possível realizar um teste **simulando uma s
 
 No nosso caso, cadastramos um novo lead na máquina que informamos nos filtros do Gatilho Inteligente e, depois de alguns minutos, conferimos na planilha se o mesmo tinha sido inserido com sucesso como configuramos.
 
-**Suporte**
-
-Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante este procedimento, por favor, **entre em contato com o nosso suporte**!
-
-**Artigos Relacionados**
-
-**–**[ Como trazer leads de outros sistemas pelo Zapier](https://suporte.love/como-trazer-leads-de-outros-sistemas-pelo-zapier/) **–**[ Como trazer leads de outros sistemas pelo Pluga](https://suporte.love/como-trazer-leads-de-outros-sistemas-pelo-pluga/) **–**[ Como levar leads para outros sistemas pelo Pluga](https://suporte.love/como-levar-leads-para-outros-sistemas-pelo-pluga/)
-
-🏁 **É isso, terminamos por aqui!** com amor ❤ equipe **leadlovers™**

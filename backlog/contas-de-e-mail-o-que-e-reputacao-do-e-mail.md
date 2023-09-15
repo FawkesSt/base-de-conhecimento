@@ -39,6 +39,3 @@ Diariamente checamos a reputação de todas as contas de e-mails de nossos assin
 * [O que são DNS de e-mail ](https://suporte.love/dns-de-email/)
 * [Como adicionar, editar e remover contas de e-mail](https://suporte.love/adicionar-e-ativar-e-mail-para-disparos/)
 
-![](https://legado.leadlovers.site/wp-content/uploads/2020/09/1f3c1.svg) **É isso, terminamos por aqui!**\
-com amor ![❤](https://legado.leadlovers.site/wp-content/uploads/2020/09/2764.svg)\
-equipe **leadlovers™**

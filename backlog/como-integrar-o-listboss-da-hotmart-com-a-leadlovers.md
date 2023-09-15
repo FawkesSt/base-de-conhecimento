@@ -142,9 +142,7 @@ Nº23– Se quiser excluí-la, clique no “X”.
 
 ### Testando o ListBoss <a href="#testando-listboss" id="testando-listboss"></a>
 
-![⚠](https://s.w.org/images/core/emoji/13.0.0/svg/26a0.svg) **ATENÇÃO:**\
-
-
+&#x20;**ATENÇÃO:**\
 – Se quiser realizar testes das ações “Mover lead” e “Remover lead”, é necessário que o e-mail inserido no teste já esteja na máquina de origem. Portanto, recomendamos que faça o seguinte: cadastre o lead na máquina de origem que ele deve ser removido ou movido e depois realize o teste pelo ListBoss.&#x20;
 
 Nº24– Aqui insira o e-mail que será feito o teste.
@@ -183,16 +181,3 @@ Se você realizou o teste e a ação programada não executou para o lead, verif
 * Se o status está como “Sucesso”, verifique a segmentação que está testando. Como informamos anteriormente, para testar segmentações de “Mover lead” e “Remover lead” é necessário que o lead adicionado no teste já esteja na máquina de origem que foi configurada na segmentação.
 * No momento em que for acessar a sua máquina para buscar o lead gerado pela Hotmart, busque por “Todos os Status” e não apenas por leads “Ativos”.&#x20;
 
-**Suporte**
-
-Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante este procedimento, por favor, entre em contato com o nosso suporte!
-
-**Artigos relacionados**
-
-– Como [localizar o seu Token Pessoal](https://suporte.love/como-localizar-o-seu-token-pessoal-na-leadlovers/) na leadlovers.\
-– Como [criar um funil e sequência de e-mails.](https://suporte.love/como-criar-um-funil-e-sequencia-de-e-mails/)\
-– Como [excluir um lead da máquina ou da conta](https://suporte.love/como-excluir-um-lead-da-maquina-ou-da-conta/).
-
-🏁 É isso, terminamos por aqui!\
-com amor ❤\
-equipe leadlovers™

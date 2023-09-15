@@ -172,11 +172,3 @@ levar até 1hr para serem executadas.\
 com data de cadastro na conta maior ou igual até 8 meses da data atual.\
 É possível consultar a Data de Corte mais recente com nossa equipe de Suporte.
 
-**Suporte**
-
-Se surgir qualquer dúvida durante este procedimento, por favor **entre em contato**\
-**com o nosso suporte**!
-
-🏁 **É isso, terminamos por aqui!**\
-com amor ❤\
-equipe **leadlovers™**

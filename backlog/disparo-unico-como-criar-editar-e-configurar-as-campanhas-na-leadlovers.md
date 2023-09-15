@@ -20,13 +20,75 @@ Nº2– Na tela que abrir, será possível ver três abas:
 
 ### Criando uma nova campanha <a href="#nova-campanha" id="nova-campanha"></a>
 
-Nº3– Para criar uma nova campanha, selecione o ícone de “+” no canto inferior direito. [![](https://legado.leadlovers.site/wp-content/uploads/2017/05/img02.png)](https://legado.leadlovers.site/wp-content/uploads/2017/05/img02.png) Nº5– Escolha o editor de sua preferência e clique em “Continuar”. ![](https://suporte.love/wp-content/uploads/2017/05/Screenshot\_5.png) Nº6– Em nosso exemplo estamos utilizando o editor arrasta e solta, construa o corpo do seu e-mail da maneira que preferir. Assim que estiver pronto, clique em “Continuar”. Aparecerá uma tela com várias abas, falaremos brevemente sobre cada uma delas adiante. ![](https://suporte.love/wp-content/uploads/2017/05/Screenshot\_6-1024x548.png) Nº7– Em “Configurações”, é possível definir o _assunto_, _nome de exibição do e-mail_, _conta usada no disparo_ e _extensão do assunto_.  Além disso, é nesta aba que você poderá _**ativar o e-mail**_, o _Google Analytics_ e o _Envio Inteligente_ e também marcar as opções de _aprender com o envio_, _rastrear lead_ e _ativar pesquisa de aceitação_. Observação: Para que seja possível agendar ou enviar o e-mail, é necessário **preencher os** dados marcados com asterisco (_Assunto do e-mail_ e _Conta usada no disparo do e-mail_) nesta etapa. [![](https://legado.leadlovers.site/wp-content/uploads/2017/05/img05.png)](https://legado.leadlovers.site/wp-content/uploads/2017/05/img05.png) Nº8– Ao clicar em “Leads”, quatro novas abas serão habilitadas para filtrar os leads para os quais este e-mail será enviado.&#x20;
+Nº3– Para criar uma nova campanha, selecione o ícone de “+” no canto inferior direito. &#x20;
 
-![⚠](https://s.w.org/images/core/emoji/13.0.0/svg/26a0.svg) **ATENÇÃO:**
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2017/05/img02.png" alt=""><figcaption></figcaption></figure>
+
+Nº5– Escolha o editor de sua preferência e clique em “Continuar”. &#x20;
+
+<figure><img src="https://suporte.love/wp-content/uploads/2017/05/Screenshot_5.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Nº6– Em nosso exemplo estamos utilizando o editor arrasta e solta, construa o corpo do seu e-mail da maneira que preferir. Assim que estiver pronto, clique em “Continuar”. Aparecerá uma tela com várias abas, falaremos brevemente sobre cada uma delas adiante. &#x20;
+
+<figure><img src="https://suporte.love/wp-content/uploads/2017/05/Screenshot_6-1024x548.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Nº7– Em “Configurações”, é possível definir o _assunto_, _nome de exibição do e-mail_, _conta usada no disparo_ e _extensão do assunto_.  Além disso, é nesta aba que você poderá _**ativar o e-mail**_, o _Google Analytics_ e o _Envio Inteligente_ e também marcar as opções de _aprender com o envio_, _rastrear lead_ e _ativar pesquisa de aceitação_. Observação: Para que seja possível agendar ou enviar o e-mail, é necessário **preencher os** dados marcados com asterisco (_Assunto do e-mail_ e _Conta usada no disparo do e-mail_) nesta etapa.&#x20;
+
+&#x20;
+
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2017/05/img05.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Nº8– Ao clicar em “Leads”, quatro novas abas serão habilitadas para filtrar os leads para os quais este e-mail será enviado.&#x20;
+
+&#x20;**ATENÇÃO:**
 
 Para que os filtros sejam aplicados, é obrigatório clicar em “Filtrar Leads” ao final da página. Caso contrário, a campanha será enviada para todos os leads da conta.
 
-Dentro da Aba leads, abrirá uma sub sessão, Configurações e Localização: Aqui é possível filtrar os leads que receberão o email, existem diversas possibilidades de filtros como:  por _máquina_, _tag_, _pesquisa de aceitação_, _data de cadastro_, _score_, _engajamento do lead_ e _e-mail_.  [![](https://legado.leadlovers.site/wp-content/uploads/2017/05/img06.png)](https://legado.leadlovers.site/wp-content/uploads/2017/05/img06.png) Campos Fixos: nesta aba, você pode escolher os contatos pelos dados preenchidos nos campos estáticos. [![](https://legado.leadlovers.site/wp-content/uploads/2017/05/img07.png)](https://legado.leadlovers.site/wp-content/uploads/2017/05/img07.png) Campos Dinâmicos: aqui pode-se selecionar os leads pelas informações que preencheram em campos dinâmicos. [![](https://legado.leadlovers.site/wp-content/uploads/2017/05/img08.png)](https://legado.leadlovers.site/wp-content/uploads/2017/05/img08.png) Ações em E-mails: na última seção, é possível fazer o filtro dos leads por ações em outros e-mails, como por exemplo _abertura_ ou _clique_. Depois basta escolher qual é o _e-mail de sequência_, _broadcast_ ou _campanha_ que os leads devem ter feito a ação escolhida.  [![](https://legado.leadlovers.site/wp-content/uploads/2017/05/img09.png)](https://legado.leadlovers.site/wp-content/uploads/2017/05/img09.png) Nº9– Em anexo: É possível inserir arquivos com no máximo 20MB. [![](https://legado.leadlovers.site/wp-content/uploads/2017/05/img10.png)](https://legado.leadlovers.site/wp-content/uploads/2017/05/img10.png) Nº10– Ao ativar a opção “Habilitar compromisso”, é possível criar um compromisso para ser enviado junto do corpo do e-mail. O lead poderá adicioná-lo mais tarde em sua agenda do Google ou Outlook. Para isso, será necessário definir uma _data de início_ e _fim do evento_, um _título_ e, se quiser, uma _descrição_ e _localização_. [![](https://legado.leadlovers.site/wp-content/uploads/2017/05/img11.png)](https://legado.leadlovers.site/wp-content/uploads/2017/05/img11.png) Nº11– Aqui você pode ativar o teste A/B. Caso queira saber mais sobre como configurar esta funcionalidade, consulte [este material](https://suporte.love/teste-ab-broadcasts-e-campanhas/). [![](https://legado.leadlovers.site/wp-content/uploads/2017/05/img12.png)](https://legado.leadlovers.site/wp-content/uploads/2017/05/img12.png) Nº12– Por fim, em “Análise de conteúdo” aparecerão palavras que podem afetar a entregabilidade da sua mensagem. Para alterá-las, basta retornar à edição do seu e-mail. [![](https://legado.leadlovers.site/wp-content/uploads/2017/05/img13.png)](https://legado.leadlovers.site/wp-content/uploads/2017/05/img13.png) Assim que finalizar o seu e-mail, você poderá “Agendar” caso queira que o mesmo seja enviado em um momento específico no futuro ou “Enviar agora” se quiser fazer o disparo imediatamente. Observação: a campanha que for agendada só será disparada se estiver ativa. É possível ativá-la depois que salvar o conteúdo do e-mail, para isso basta clicar no interruptor que fica no canto esquerdo de sua miniatura. [![](https://legado.leadlovers.site/wp-content/uploads/2017/05/interruptor.png)](https://legado.leadlovers.site/wp-content/uploads/2017/05/interruptor.png)
+Dentro da Aba leads, abrirá uma sub sessão, Configurações e Localização: Aqui é possível filtrar os leads que receberão o email, existem diversas possibilidades de filtros como:  por _máquina_, _tag_, _pesquisa de aceitação_, _data de cadastro_, _score_, _engajamento do lead_ e _e-mail_.  &#x20;
+
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2017/05/img06.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Campos Fixos: nesta aba, você pode escolher os contatos pelos dados preenchidos nos campos estáticos.
+
+&#x20;&#x20;
+
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2017/05/img07.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Campos Dinâmicos: aqui pode-se selecionar os leads pelas informações que preencheram em campos dinâmicos.&#x20;
+
+&#x20;
+
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2017/05/img08.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Ações em E-mails: na última seção, é possível fazer o filtro dos leads por ações em outros e-mails, como por exemplo _abertura_ ou _clique_. Depois basta escolher qual é o _e-mail de sequência_, _broadcast_ ou _campanha_ que os leads devem ter feito a ação escolhida.  &#x20;
+
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2017/05/img09.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Nº9– Em anexo: É possível inserir arquivos com no máximo 20MB. &#x20;
+
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2017/05/img10.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Nº10– Ao ativar a opção “Habilitar compromisso”, é possível criar um compromisso para ser enviado junto do corpo do e-mail. O lead poderá adicioná-lo mais tarde em sua agenda do Google ou Outlook. Para isso, será necessário definir uma _data de início_ e _fim do evento_, um _título_ e, se quiser, uma _descrição_ e _localização_.&#x20;
+
+&#x20;
+
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2017/05/img11.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Nº11– Aqui você pode ativar o teste A/B. Caso queira saber mais sobre como configurar esta funcionalidade, consulte [este material](https://suporte.love/teste-ab-broadcasts-e-campanhas/).
+
+&#x20;&#x20;
+
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2017/05/img12.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Nº12– Por fim, em “Análise de conteúdo” aparecerão palavras que podem afetar a entregabilidade da sua mensagem. Para alterá-las, basta retornar à edição do seu e-mail. &#x20;
+
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2017/05/img13.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Assim que finalizar o seu e-mail, você poderá “Agendar” caso queira que o mesmo seja enviado em um momento específico no futuro ou “Enviar agora” se quiser fazer o disparo imediatamente. Observação: a campanha que for agendada só será disparada se estiver ativa. É possível ativá-la depois que salvar o conteúdo do e-mail, para isso basta clicar no interruptor que fica no canto esquerdo de sua miniatura.
+
+&#x20;
+
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2017/05/interruptor.png" alt=""><figcaption></figcaption></figure>
 
 ### Quais informações posso consultar depois que agendar ou enviar minha campanha?  <a href="#o-que-posso-consultar" id="o-que-posso-consultar"></a>
 
@@ -44,7 +106,7 @@ Caso a campanha seja agendada, é possível realizar as seguintes ações clican
 * Preview: apresenta um preview do seu e-mail.
 * Relatório de Entregabilidade: gera um relatório de entregabilidade da campanha.
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2017/05/img14.png)](https://legado.leadlovers.site/wp-content/uploads/2017/05/img14.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2017/05/img14.png" alt="" width="188"><figcaption></figcaption></figure>
 
 #### Campanha Enviada <a href="#campanha-enviada" id="campanha-enviada"></a>
 
@@ -56,16 +118,19 @@ Após a campanha ser enviada, aparecerão em tela as taxas de _abertura_, _cliqu
 * Gatilhos: cria um gatilho de clique ou abertura. Se quiser saber mais sobre como fazer essa configuração, consulte [este material](https://suporte.love/gatilhos-de-e-mail/).
 * Copiar: copia a campanha e a deixa inativa na aba “Agendados”.
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2017/05/img15.png)](https://legado.leadlovers.site/wp-content/uploads/2017/05/img15.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2017/05/img15.png" alt="" width="188"><figcaption></figcaption></figure>
 
 ### Quais informações consigo ver nos “Detalhes” da campanha? <a href="#detalhes-campanha" id="detalhes-campanha"></a>
 
-Ao expandir os detalhes da campanha, são disponibilizadas as seguintes informações: Nº13– Aqui é possível verificar o _assunto do e-mail_, qual foi a _conta de disparo_, a _data de envio_ e as taxas de _envios_, _aberturas_, _cliques_, _erros_ e _unsub._ Nº14– Na barra superior, você pode consultar: Conteúdo: mostra o conteúdo do e-mail que foi enviado. Envios: lista os e-mails dos leads que a campanha foi enviada. Aberturas: apresenta os e-mails dos leads que abriram ou não a campanha. Cliques: mostra os links que tem no corpo do e-mail e a taxa de cliques de cada um. É possível exportar os leads que clicaram em cada um dos links. Erros: exibe os erros de envio juntamente com o motivo. Unsubs: lista os leads que se descadastraram e a razão de cada unsubscribe. Código fonte: disponibiliza o código fonte do seu e-mail. Nº15– Em “Ações”, é possível: Reenviar: ao selecionar esta opção, uma cópia da campanha será criada inativa na aba “Agendados”. Exportar: clicando aqui, você poderá escolher se irá exportar os _envios_, _aberturas_, _não abertos_, _cliques_, _sem cliques_, _unsubs_ e _erros,_ quais informações de _campos estáticos_ e _dinâmicos_ do lead deseja que venha no arquivo e se o formato deve ser _.csv_ ou _.txt._ [![](https://legado.leadlovers.site/wp-content/uploads/2017/05/img16.png)](https://legado.leadlovers.site/wp-content/uploads/2017/05/img16.png)
+Ao expandir os detalhes da campanha, são disponibilizadas as seguintes informações:&#x20;
 
-**Suporte**
+Nº13– Aqui é possível verificar o _assunto do e-mail_, qual foi a _conta de disparo_, a _data de envio_ e as taxas de _envios_, _aberturas_, _cliques_, _erros_ e _unsub._&#x20;
 
-Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante este procedimento, por favor, entre em contato com o nosso suporte!
+Nº14– Na barra superior, você pode consultar: Conteúdo: mostra o conteúdo do e-mail que foi enviado. Envios: lista os e-mails dos leads que a campanha foi enviada. Aberturas: apresenta os e-mails dos leads que abriram ou não a campanha. Cliques: mostra os links que tem no corpo do e-mail e a taxa de cliques de cada um. É possível exportar os leads que clicaram em cada um dos links. Erros: exibe os erros de envio juntamente com o motivo. Unsubs: lista os leads que se descadastraram e a razão de cada unsubscribe. Código fonte: disponibiliza o código fonte do seu e-mail.&#x20;
 
-**Artigos relacionados**
+Nº15– Em “Ações”, é possível: Reenviar: ao selecionar esta opção, uma cópia da campanha será criada inativa na aba “Agendados”. Exportar: clicando aqui, você poderá escolher se irá exportar os _envios_, _aberturas_, _não abertos_, _cliques_, _sem cliques_, _unsubs_ e _erros,_ quais informações de _campos estáticos_ e _dinâmicos_ do lead deseja que venha no arquivo e se o formato deve ser _.csv_ ou _.txt._
 
-– Saiba a diferença entre [Sequência, Broadcast e Campanhas.](https://suporte.love/saiba-a-diferenca-entre-sequencia-broadcast-e-campanhas/) – Como fazer um [teste AB em Broadcasts e Campanhas](https://suporte.love/teste-ab-broadcasts-e-campanhas/)?   🏁 É isso, terminamos por aqui! com amor ❤ equipe leadlovers™
+&#x20;
+
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2017/05/img16.png" alt=""><figcaption></figcaption></figure>
+

@@ -59,15 +59,3 @@ e já pode inseri-lo nas páginas que criou aqui na leadlovers.&#x20;
 
 \
 **Observação:** O Script do Analytics deve ser inserido na HEAD da página.
-
-
-
-
-
-**🏁 É isso, terminamos por aqui!**
-
-Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante\
-este procedimento, por favor, entre em contato com **o nosso suporte**!
-
-com amor ❤\
-equipe **leadlovers™**

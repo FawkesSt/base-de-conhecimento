@@ -54,15 +54,3 @@ Para importar um arquivo **.txt,** ele deve estar configurado da seguinte maneir
 Após realizar a importação, os clientes serão adicionados na lista.
 
 <figure><img src="https://suporte.love/wp-content/uploads/2023/07/image-15-1024x216.png" alt="" height="216" width="1024"><figcaption></figcaption></figure>
-
-
-
-
-
-**🏁 É isso, terminamos por aqui!**
-
-Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante\
-este procedimento, por favor, entre em contato com **o nosso suporte**!
-
-com amor ❤\
-equipe **leadlovers™**

@@ -24,7 +24,21 @@ Para saber como zerar as métricas, acesse o **passo n°20** do tutorial [**Info
 
 <figure><img src="https://suporte.love/wp-content/uploads/2023/06/Screenshot_1-1.png" alt="" height="224" width="226"><figcaption></figcaption></figure>
 
-**Nº 2 – Clique na máquina desejada.**
+Nº 2 – Clique na máquina desejada.
 
-**Nº 3 – Dentro da máquina, clique em Configurações geraisNº 4 – No menu lateral, clique em Domínios e Rotas Nº 5 – Clique em Teste AB**\
-**obs.: Certifique-se de que a Rota do domínio que irá realizar o teste AB está como Aleatória. Caso contrário, altere-a e execute o passo anterior.Nº 6 – Escolha as páginas de captura que vão participar do teste. A quantidade selecionada será evidenciada no canto inferior esquerdo.Nº 7 – Clique em Salvar**[![](https://legado.leadlovers.site/wp-content/uploads/2020/09/pagin2.png)](http://legado.leadlovers.site/wp-content/uploads/2020/09/pagin2.png)**ATENÇÃONão se esqueça de verificar se a quantidade de visualizações de ambas as páginas estão igualadas, antes de iniciar o teste! Para verificar, acesse a aba páginas da máquina. As visualizações estarão contabilizadas no ícone de olhinho, em cada página.**[![](https://legado.leadlovers.site/wp-content/uploads/2020/09/pagin3.png)](http://legado.leadlovers.site/wp-content/uploads/2020/09/pagin3.png)**ResultadoPara saber qual página está com uma melhor taxa de conversão, basta visualizar as métricas de conversão dispostas nas informações das páginas.**[![](https://legado.leadlovers.site/wp-content/uploads/2020/09/pagin4.png)](http://legado.leadlovers.site/wp-content/uploads/2020/09/pagin4.png)
+Nº 3 – Dentro da máquina, clique em Configurações geraisNº 4 – No menu lateral, clique em Domínios e Rotas Nº 5 – Clique em Teste AB\
+obs.: Certifique-se de que a Rota do domínio que irá realizar o teste AB está como Aleatória. Caso contrário, altere-a e execute o passo anterior.
+
+Nº 6 – Escolha as páginas de captura que vão participar do teste. A quantidade selecionada será evidenciada no canto inferior esquerdo.
+
+Nº 7 – Clique em Salvar
+
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2020/09/pagin2.png" alt=""><figcaption></figcaption></figure>
+
+ATENÇÃO: Não se esqueça de verificar se a quantidade de visualizações de ambas as páginas estão igualadas, antes de iniciar o teste! Para verificar, acesse a aba páginas da máquina. As visualizações estarão contabilizadas no ícone de olhinho, em cada página.
+
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2020/09/pagin3.png" alt=""><figcaption></figcaption></figure>
+
+ResultadoPara saber qual página está com uma melhor taxa de conversão, basta visualizar as métricas de conversão dispostas nas informações das páginas.
+
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2020/09/pagin4.png" alt=""><figcaption></figcaption></figure>

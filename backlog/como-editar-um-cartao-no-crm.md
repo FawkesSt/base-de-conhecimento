@@ -59,7 +59,3 @@ _Exemplo de CRM com valor superior à meta._
 **–** Criar um cartão manualmente **não cadastra um lead em sua conta**, e portanto não ativa as ações de coluna. Mas, caso o cartão seja cadastrado usando um e-mail de um lead que já está em sua conta, ele o cartão ficarão vinculados um ao outro, e as ações de coluna poderão agir sobre o lead.
 
 **–** Cartões criados através de Gatilho Inteligente vão vir com os dados **Nome, E-mail e Telefone preenchidos** (sendo que, este último estará presente se houver um número de telefone cadastrado nos dados do lead).
-
-**É isso, terminamos por aqui!**\
-com amor ❤\
-equipe **leadlovers™**

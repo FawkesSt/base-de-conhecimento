@@ -167,7 +167,3 @@ Pronto! A configuração vai aparecer na sua tela do Lead Ads, dentro da leadlov
 * Você pode configurar quantos formulários quiser, clique no (+) para adicionar novas integrações.
 * A cada 6 meses a integração precisa ser atualizada: exclua (clicando no x) e cadastre novamente.
 * Não se esqueça de TESTAR SUA INTEGRAÇÃO, saiba como [clicando aqui](https://suporte.love/testar-integracao-formularioleadads/)
-
-![](https://legado.leadlovers.site/wp-content/uploads/2020/09/1f3c1.svg) **É isso, terminamos por aqui!**\
-com amor ![❤](https://legado.leadlovers.site/wp-content/uploads/2020/09/2764.svg)\
-equipe **leadlovers™**

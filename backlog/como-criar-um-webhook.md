@@ -45,10 +45,3 @@ Após isso, você verá em sua tela algumas informações, esses dados serão **
 
 [![](https://legado.leadlovers.site/wp-content/uploads/2020/09/t1-115.png)](https://legado.leadlovers.site/wp-content/uploads/2020/09/t1-115.png)
 
-**Suporte**
-
-Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante este procedimento, por favor, **entre em contato com o nosso suporte**!
-
-![](https://legado.leadlovers.site/wp-content/uploads/2020/09/1f3c1.svg) **É isso, terminamos por aqui!**\
-com amor ![❤](https://legado.leadlovers.site/wp-content/uploads/2020/09/2764.svg)\
-equipe **leadlovers™**
