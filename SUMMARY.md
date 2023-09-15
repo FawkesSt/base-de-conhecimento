@@ -122,3 +122,6 @@
   * [Como fazer as configurações de DNS de E-mail no CloudFlare?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-cloudflare.md)
   * [Como fazer as configurações de DNS de E-mail no Hostinger?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-hostinger.md)
   * [Como reordenar a listagem de leads na máquina?](backlog/como-reordenar-a-listagem-de-leads-na-maquina.md)
+  * [Como criar etapas da negociação no CRM?](backlog/como-criar-etapas-da-negociacao-no-crm.md)
+  * [Como funciona o CRM da leadlovers?](backlog/como-funciona-o-crm-da-leadlovers.md)
+  * [Como criar o seu primeiro CRM](backlog/como-criar-o-seu-primeiro-crm.md)
