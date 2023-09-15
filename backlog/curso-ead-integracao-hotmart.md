@@ -104,15 +104,3 @@ Para testar será preciso que você simule uma compra de seu produto, então fa�
 
 Lembre-se de **desmarcar** a opção de liberar o acesso na emissão do boleto assim que concluir o seu teste.
 
-**Suporte**
-
-Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante este procedimento, por favor, **entre em contato com o nosso suporte**!
-
-**Artigos relacionados**
-
-– Como [integrar ListBoss da Hotmart com a leadlovers.](https://suporte.love/como-integrar-listboss-do-hotmart-com-o-leadlovers/)\
-– Como criar um [Produto EAD](https://suporte.love/como-criar-um-produto/).
-
-**É isso, terminamos por aqui!**\
-com amor ❤\
-equipe **leadlovers™**

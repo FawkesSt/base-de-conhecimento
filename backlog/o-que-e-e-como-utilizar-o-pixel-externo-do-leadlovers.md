@@ -164,13 +164,3 @@ no mínimo 1hr para serem executados.
 **não serão executados** para leads com data de cadastro na\
 conta menor ou igual até 8 meses da data atual. É possível consultar a Data\
 de Corte mais recente com nossa equipe de Suporte.
-
-**Suporte**
-
-Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante\
-este procedimento, por favor, **entre em contato com o nosso suporte**!
-
-🏁 **É isso, terminamos por aqui!**\
-com\
-amor ❤\
-equipe **leadlovers™**

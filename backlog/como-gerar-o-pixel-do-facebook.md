@@ -141,18 +141,3 @@ o pixel ficará visível no gerenciador de eventos.&#x20;
 Agora que você já tem o código do pixel gerado e em mãos, pode seguir[ esse tutorial](https://suporte.love/instalar-pixel-fb/) para instalá-lo em suas páginas.\
 Caso já tenha o pixel instalado e queira metrificar os eventos também, siga esse[ passo a passo](https://suporte.love/pixel-fb-eventos/).
 
-**Suporte**
-
-Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante este procedimento, por favor, **entre em contato com o nosso suporte**!
-
-**Artigos recomendados**
-
-1. – [O que é Pixel do FB ](https://suporte.love/o-que-e-pixel-do-facebook/)
-2. – [Como instalar o Pixel FB ](https://suporte.love/instalar-pixel-fb/)
-3. – [Instalando Eventos do Pixel FB](https://suporte.love/pixel-fb-eventos/)
-4. – [API de Conversões FB](https://suporte.love/api-conversao-facebook/)
-5. – Como [inserir um script](https://suporte.love/inserir-script/) nas páginas da leadlovers.&#x20;
-
-🏁 **É isso, terminamos por aqui!**\
-com amor ♥\
-equipe **leadlovers™**
