@@ -99,9 +99,17 @@ OBS: A configuração do redirect é extremamente importante, visto que  Isso au
 
 Depois de todas as entradas realizadas, é necessário validá-las dentro da Leadlovers. Acesse o tutorial a respeito da validação, [clicando aqui.](https://suporte.love/validando-dns-no-leadlovers/)
 
-Suporte
 
-Se você tiver dúvidas na configuração do seu provedor, dê uma olhada se eles possuem um suporte disponível para te auxiliar. E lembre-se: você sempre pode contar conosco ![🥰](https://s.w.org/images/core/emoji/14.0.0/svg/1f970.svg)
 
-![🏁](https://s.w.org/images/core/emoji/14.0.0/svg/1f3c1.svg) **É isso, terminamos por aqui!**\
-com amor ![❤](https://s.w.org/images/core/emoji/14.0.0/svg/2764.svg)&#x20;
+
+
+
+
+**Suporte**
+
+Se surgir qualquer dúvida ou se precisar de qualquer ajuda durante este procedimento\
+por favor, **entre em contato com o nosso suporte**!
+
+🏁 **É isso, terminamos por aqui!**\
+com amor ❤\
+equipe **leadlovers™**

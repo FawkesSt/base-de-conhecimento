@@ -121,3 +121,4 @@
   * [Como fazer o DNS de e-mail na Registro.br](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-hostgator-1.md)
   * [Como fazer as configurações de DNS de E-mail no CloudFlare?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-cloudflare.md)
   * [Como fazer as configurações de DNS de E-mail no Hostinger?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-hostinger.md)
+  * [Como reordenar a listagem de leads na máquina?](backlog/como-reordenar-a-listagem-de-leads-na-maquina.md)
