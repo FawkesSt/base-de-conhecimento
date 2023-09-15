@@ -125,3 +125,5 @@
   * [Como criar etapas da negociação no CRM?](backlog/como-criar-etapas-da-negociacao-no-crm.md)
   * [Como funciona o CRM da leadlovers?](backlog/como-funciona-o-crm-da-leadlovers.md)
   * [Como criar o seu primeiro CRM](backlog/como-criar-o-seu-primeiro-crm.md)
+  * [O que é Lead?](backlog/o-que-e-lead.md)
+  * [Como fazer as configurações de DNS de E-mail no RedeHost?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-redehost.md)
