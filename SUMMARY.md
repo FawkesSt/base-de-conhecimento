@@ -117,3 +117,5 @@
   * [Como fazer as configurações de DNS de E-mail na KingHost?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-na-kinghost.md)
   * [Como fazer as configurações de DNS de E-mail na GoDaddy?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-na-godaddy.md)
   * [Como fazer as configurações de DNS de E-mail no Hostgator?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-hostgator.md)
+  * [Curso Online (EAD) Como criar e configurar um produto](backlog/curso-online-ead-como-criar-e-configurar-um-produto.md)
+  * [Como fazer o DNS de e-mail na Registro.br](backlog/como-fazer-o-dns-de-e-mail-na-registro.br.md)
