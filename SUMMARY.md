@@ -139,3 +139,4 @@
   * [Chatbot: Como adiciona-lo nas páginas da leadlovers](backlog/chatbot-como-adiciona-lo-nas-paginas-da-leadlovers.md)
   * [Chatbot: Como personalizar o chatbot](backlog/chatbot-como-personalizar-o-chatbot.md)
   * [Chatbot: Como exportar relatórios](backlog/chatbot-como-exportar-relatorios.md)
+  * [Máquina de Whatsapp: Como importar uma lista de contatos](backlog/maquina-de-whatsapp-como-importar-uma-lista-de-contatos.md)
