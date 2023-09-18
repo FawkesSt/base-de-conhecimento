@@ -130,3 +130,4 @@
   * [Como realizar a Limpeza de Lista de Leads](backlog/como-realizar-a-limpeza-de-lista-de-leads.md)
   * [Como funciona as movimentações de leads dentro da leadlovers](backlog/como-funciona-as-movimentacoes-de-leads-dentro-da-leadlovers.md)
   * [Como personalizar página de Unsub](backlog/como-personalizar-pagina-de-unsub.md)
+  * [Como adicionar, editar e remover Contas de E-mail](backlog/como-adicionar-editar-e-remover-contas-de-e-mail.md)
