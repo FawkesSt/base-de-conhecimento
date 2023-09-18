@@ -138,3 +138,4 @@
   * [O que são contas de envio na leadlovers](backlog/o-que-sao-contas-de-envio-na-leadlovers.md)
   * [Chatbot: Como adiciona-lo nas páginas da leadlovers](backlog/chatbot-como-adiciona-lo-nas-paginas-da-leadlovers.md)
   * [Chatbot: Como personalizar o chatbot](backlog/chatbot-como-personalizar-o-chatbot.md)
+  * [Chatbot: Como exportar relatórios](backlog/chatbot-como-exportar-relatorios.md)
