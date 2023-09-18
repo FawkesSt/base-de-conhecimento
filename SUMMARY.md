@@ -127,3 +127,4 @@
   * [Como criar o seu primeiro CRM](backlog/como-criar-o-seu-primeiro-crm.md)
   * [O que é Lead?](backlog/o-que-e-lead.md)
   * [Como fazer as configurações de DNS de E-mail no RedeHost?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-redehost.md)
+  * [Como realizar a Limpeza de Lista de Leads](backlog/como-realizar-a-limpeza-de-lista-de-leads.md)
