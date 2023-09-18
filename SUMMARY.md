@@ -151,5 +151,4 @@
   * [copymaker: Perguntas Frequentes (FAQ)](backlog/copymaker-perguntas-frequentes-faq.md)
   * [Como trazer leads de outros sistemas pela Pluga](backlog/como-trazer-leads-de-outros-sistemas-pela-pluga.md)
   * [Como levar leads para outros sistemas pelo Pluga](backlog/como-levar-leads-para-outros-sistemas-pelo-pluga.md)
-  * [Suporte.love](backlog/suporte.love.md)
   * [Componentes: Como alterar a fonte da página no editor](backlog/componentes-como-alterar-a-fonte-da-pagina-no-editor.md)
