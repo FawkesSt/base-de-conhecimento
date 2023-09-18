@@ -136,3 +136,4 @@
   * [Máquina WhatsApp: Entendendo a aba configurações](backlog/maquina-whatsapp-entendendo-a-aba-configuracoes.md)
   * [Índice Máquina WhatsApp](backlog/indice-maquina-whatsapp.md)
   * [O que são contas de envio na leadlovers](backlog/o-que-sao-contas-de-envio-na-leadlovers.md)
+  * [Chatbot: Como adiciona-lo nas páginas da leadlovers](backlog/chatbot-como-adiciona-lo-nas-paginas-da-leadlovers.md)
