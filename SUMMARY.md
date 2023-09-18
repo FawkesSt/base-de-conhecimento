@@ -133,3 +133,4 @@
   * [Como adicionar, editar e remover Contas de E-mail](backlog/como-adicionar-editar-e-remover-contas-de-e-mail.md)
   * [Como capturar as informações de UTM do lead](backlog/como-capturar-as-informacoes-de-utm-do-lead.md)
   * [Máquina WhatsApp: Como utilizar a caixa de entrada](backlog/maquina-whatsapp-como-utilizar-a-caixa-de-entrada.md)
+  * [Máquina WhatsApp: Entendendo a aba configurações](backlog/maquina-whatsapp-entendendo-a-aba-configuracoes.md)
