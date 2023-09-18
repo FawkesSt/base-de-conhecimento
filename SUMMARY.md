@@ -157,3 +157,4 @@
   * [Como esconder elementos no construtor por componentes](backlog/como-esconder-elementos-no-construtor-por-componentes.md)
   * [Como configurar as ações pós captura](backlog/como-configurar-as-acoes-pos-captura.md)
   * [Como inserir um contador de escassez no e-mail](backlog/como-inserir-um-contador-de-escassez-no-e-mail.md)
+  * [Componentes: Como inserir um contador de escassez no editor](backlog/componentes-como-inserir-um-contador-de-escassez-no-editor.md)
