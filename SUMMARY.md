@@ -147,3 +147,4 @@
   * [Como adicionar novo responsável no CRM](backlog/como-adicionar-novo-responsavel-no-crm.md)
   * [Como ativar notificações no CRM](backlog/como-ativar-notificacoes-no-crm.md)
   * [Como integrar com a leadlovers](backlog/como-integrar-com-a-leadlovers.md)
+  * [Como solicitar reembolso dos produtos da leadlovers?](backlog/como-solicitar-reembolso-dos-produtos-da-leadlovers.md)
