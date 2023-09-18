@@ -142,3 +142,4 @@
   * [Máquina de Whatsapp: Como importar uma lista de contatos](backlog/maquina-de-whatsapp-como-importar-uma-lista-de-contatos.md)
   * [Máquina Whatsapp: Como criar gatilhos de resposta](backlog/maquina-whatsapp-como-criar-gatilhos-de-resposta.md)
   * [Máquina de WhatsApp: Como Autenticar utilizando a Api Official](backlog/maquina-de-whatsapp-como-autenticar-utilizando-a-api-official.md)
+  * [Máquina de Whatsapp: Como funcionam os gatilhos](backlog/maquina-de-whatsapp-como-funcionam-os-gatilhos.md)
