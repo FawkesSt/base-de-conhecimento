@@ -164,3 +164,5 @@
   * [Avançando na segurança de e-mails: Gmail e BIMI](backlog/avancando-na-seguranca-de-e-mails-gmail-e-bimi.md)
   * [Programa de proteção de privacidade Apple Mail: O que você precisa saber](backlog/programa-de-protecao-de-privacidade-apple-mail-o-que-voce-precisa-saber.md)
   * [Máquina de Voz](backlog/maquina-de-voz.md)
+  * [Aba Compromisso nos e-mails.](backlog/aba-compromisso-nos-e-mails..md)
+  * [Integração leadlovers com Braip](backlog/integracao-leadlovers-com-braip.md)
