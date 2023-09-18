@@ -140,3 +140,4 @@
   * [Chatbot: Como personalizar o chatbot](backlog/chatbot-como-personalizar-o-chatbot.md)
   * [Chatbot: Como exportar relatórios](backlog/chatbot-como-exportar-relatorios.md)
   * [Máquina de Whatsapp: Como importar uma lista de contatos](backlog/maquina-de-whatsapp-como-importar-uma-lista-de-contatos.md)
+  * [Máquina Whatsapp: Como criar gatilhos de resposta](backlog/maquina-whatsapp-como-criar-gatilhos-de-resposta.md)
