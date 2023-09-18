@@ -148,3 +148,4 @@
   * [Como ativar notificações no CRM](backlog/como-ativar-notificacoes-no-crm.md)
   * [Como integrar com a leadlovers](backlog/como-integrar-com-a-leadlovers.md)
   * [Como solicitar reembolso dos produtos da leadlovers?](backlog/como-solicitar-reembolso-dos-produtos-da-leadlovers.md)
+  * [copymaker: Perguntas Frequentes (FAQ)](backlog/copymaker-perguntas-frequentes-faq.md)
