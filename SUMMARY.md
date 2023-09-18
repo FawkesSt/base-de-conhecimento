@@ -144,3 +144,4 @@
   * [Máquina de WhatsApp: Como Autenticar utilizando a Api Official](backlog/maquina-de-whatsapp-como-autenticar-utilizando-a-api-official.md)
   * [Máquina de Whatsapp: Como funcionam os gatilhos](backlog/maquina-de-whatsapp-como-funcionam-os-gatilhos.md)
   * [Máquina de Whatsapp: Como criar uma sequência de mensagem](backlog/maquina-de-whatsapp-como-criar-uma-sequencia-de-mensagem.md)
+  * [Como adicionar novo responsável no CRM](backlog/como-adicionar-novo-responsavel-no-crm.md)
