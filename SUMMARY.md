@@ -134,3 +134,4 @@
   * [Como capturar as informações de UTM do lead](backlog/como-capturar-as-informacoes-de-utm-do-lead.md)
   * [Máquina WhatsApp: Como utilizar a caixa de entrada](backlog/maquina-whatsapp-como-utilizar-a-caixa-de-entrada.md)
   * [Máquina WhatsApp: Entendendo a aba configurações](backlog/maquina-whatsapp-entendendo-a-aba-configuracoes.md)
+  * [Índice Máquina WhatsApp](backlog/indice-maquina-whatsapp.md)
