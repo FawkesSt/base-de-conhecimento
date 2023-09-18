@@ -146,3 +146,4 @@
   * [Máquina de Whatsapp: Como criar uma sequência de mensagem](backlog/maquina-de-whatsapp-como-criar-uma-sequencia-de-mensagem.md)
   * [Como adicionar novo responsável no CRM](backlog/como-adicionar-novo-responsavel-no-crm.md)
   * [Como ativar notificações no CRM](backlog/como-ativar-notificacoes-no-crm.md)
+  * [Como integrar com a leadlovers](backlog/como-integrar-com-a-leadlovers.md)
