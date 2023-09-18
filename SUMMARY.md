@@ -159,3 +159,4 @@
   * [Como inserir um contador de escassez no e-mail](backlog/como-inserir-um-contador-de-escassez-no-e-mail.md)
   * [Componentes: Como inserir um contador de escassez no editor](backlog/componentes-como-inserir-um-contador-de-escassez-no-editor.md)
   * [Como gerar relatórios na máquina e na conta?](backlog/como-gerar-relatorios-na-maquina-e-na-conta.md)
+  * [Como configurar o Google Tag Manager nas páginas?](backlog/como-configurar-o-google-tag-manager-nas-paginas.md)
