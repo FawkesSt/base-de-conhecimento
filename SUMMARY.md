@@ -156,3 +156,4 @@
   * [Como alterar o status “Unsub” de um contato](backlog/como-alterar-o-status-unsub-de-um-contato.md)
   * [Como esconder elementos no construtor por componentes](backlog/como-esconder-elementos-no-construtor-por-componentes.md)
   * [Como configurar as ações pós captura](backlog/como-configurar-as-acoes-pos-captura.md)
+  * [Como inserir um contador de escassez no e-mail](backlog/como-inserir-um-contador-de-escassez-no-e-mail.md)
