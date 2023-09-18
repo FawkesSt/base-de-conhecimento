@@ -154,3 +154,5 @@
   * [Componentes: Como alterar a fonte da página no editor](backlog/componentes-como-alterar-a-fonte-da-pagina-no-editor.md)
   * [Como usar o Encurtador de URLs](backlog/como-usar-o-encurtador-de-urls.md)
   * [Como alterar o status “Unsub” de um contato](backlog/como-alterar-o-status-unsub-de-um-contato.md)
+  * [Como esconder elementos no construtor por componentes](backlog/como-esconder-elementos-no-construtor-por-componentes.md)
+  * [Como configurar as ações pós captura](backlog/como-configurar-as-acoes-pos-captura.md)
