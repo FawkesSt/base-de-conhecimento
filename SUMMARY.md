@@ -135,3 +135,4 @@
   * [Máquina WhatsApp: Como utilizar a caixa de entrada](backlog/maquina-whatsapp-como-utilizar-a-caixa-de-entrada.md)
   * [Máquina WhatsApp: Entendendo a aba configurações](backlog/maquina-whatsapp-entendendo-a-aba-configuracoes.md)
   * [Índice Máquina WhatsApp](backlog/indice-maquina-whatsapp.md)
+  * [O que são contas de envio na leadlovers](backlog/o-que-sao-contas-de-envio-na-leadlovers.md)
