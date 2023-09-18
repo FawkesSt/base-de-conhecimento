@@ -152,3 +152,5 @@
   * [Como trazer leads de outros sistemas pela Pluga](backlog/como-trazer-leads-de-outros-sistemas-pela-pluga.md)
   * [Como levar leads para outros sistemas pelo Pluga](backlog/como-levar-leads-para-outros-sistemas-pelo-pluga.md)
   * [Componentes: Como alterar a fonte da página no editor](backlog/componentes-como-alterar-a-fonte-da-pagina-no-editor.md)
+  * [Como usar o Encurtador de URLs](backlog/como-usar-o-encurtador-de-urls.md)
+  * [Como alterar o status “Unsub” de um contato](backlog/como-alterar-o-status-unsub-de-um-contato.md)
