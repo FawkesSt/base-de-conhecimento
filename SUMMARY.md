@@ -149,3 +149,4 @@
   * [Como integrar com a leadlovers](backlog/como-integrar-com-a-leadlovers.md)
   * [Como solicitar reembolso dos produtos da leadlovers?](backlog/como-solicitar-reembolso-dos-produtos-da-leadlovers.md)
   * [copymaker: Perguntas Frequentes (FAQ)](backlog/copymaker-perguntas-frequentes-faq.md)
+  * [Como trazer leads de outros sistemas pela Pluga](backlog/como-trazer-leads-de-outros-sistemas-pela-pluga.md)
