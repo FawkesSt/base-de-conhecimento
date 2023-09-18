@@ -162,3 +162,4 @@
   * [Como configurar o Google Tag Manager nas páginas?](backlog/como-configurar-o-google-tag-manager-nas-paginas.md)
   * [Integração Kiwify com Cursos (EAD)](backlog/integracao-kiwify-com-cursos-ead.md)
   * [Avançando na segurança de e-mails: Gmail e BIMI](backlog/avancando-na-seguranca-de-e-mails-gmail-e-bimi.md)
+  * [Programa de proteção de privacidade Apple Mail: O que você precisa saber](backlog/programa-de-protecao-de-privacidade-apple-mail-o-que-voce-precisa-saber.md)
