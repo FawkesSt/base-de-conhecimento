@@ -176,3 +176,4 @@
   * [Como vincular uma página de captura com uma página de agradecimento](backlog/como-vincular-uma-pagina-de-captura-com-uma-pagina-de-agradecimento.md)
   * [Como usar meu domínio ou subdomínio em todas as páginas da máquina?](backlog/como-usar-meu-dominio-ou-subdominio-em-todas-as-paginas-da-maquina.md)
   * [Enviando link de boleto por e-mail](backlog/enviando-link-de-boleto-por-e-mail.md)
+  * [Captcha da leadlovers](backlog/captcha-da-leadlovers.md)
