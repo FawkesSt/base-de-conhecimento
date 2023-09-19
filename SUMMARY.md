@@ -168,3 +168,4 @@
   * [Integração leadlovers com Braip](backlog/integracao-leadlovers-com-braip.md)
   * [Como pegar o link de uma página](backlog/como-pegar-o-link-de-uma-pagina.md)
   * [99Webinar: Integração plataformas externas e 99webinar](backlog/99webinar-integracao-plataformas-externas-e-99webinar.md)
+  * [Como desativar a página/remover formulário de cadastro do webinário?](backlog/como-desativar-a-pagina-remover-formulario-de-cadastro-do-webinario.md)
