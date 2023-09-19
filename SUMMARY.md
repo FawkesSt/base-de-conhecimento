@@ -167,3 +167,4 @@
   * [Aba Compromisso nos e-mails.](backlog/aba-compromisso-nos-e-mails..md)
   * [Integração leadlovers com Braip](backlog/integracao-leadlovers-com-braip.md)
   * [Como pegar o link de uma página](backlog/como-pegar-o-link-de-uma-pagina.md)
+  * [99Webinar: Integração plataformas externas e 99webinar](backlog/99webinar-integracao-plataformas-externas-e-99webinar.md)
