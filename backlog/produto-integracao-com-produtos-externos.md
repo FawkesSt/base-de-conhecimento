@@ -124,6 +124,10 @@ Na aba **INTEGRAÇÕES** você consegue conectar o leadlovers com essas platafor
 
 **Nº 13 –** Habilitando esse botão você consegue **BLOQUEAR** o acesso após cancelamento.
 
-![](https://legado.leadlovers.site/wp-content/uploads/2020/09/1f3c1.svg) **É isso, terminamos por aqui!**\
-com amor ![❤](https://legado.leadlovers.site/wp-content/uploads/2020/09/2764.svg)\
+
+
+
+
+🏁 **É isso, terminamos por aqui!**\
+com amor ❤\
 equipe **leadlovers™**

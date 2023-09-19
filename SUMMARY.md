@@ -183,3 +183,4 @@
   * [Como animar elementos no editor por blocos](backlog/como-animar-elementos-no-editor-por-blocos.md)
   * [Meus leads sumiram, o que fazer?](backlog/meus-leads-sumiram-o-que-fazer.md)
   * [Produto: Integração com produtos externos](backlog/produto-integracao-com-produtos-externos.md)
+  * [O que é Pixel do Facebook?](backlog/o-que-e-pixel-do-facebook.md)
