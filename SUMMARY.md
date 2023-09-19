@@ -189,3 +189,4 @@
   * [A leadlovers possui fidelidade?](backlog/a-leadlovers-possui-fidelidade.md)
   * [Boas práticas de envio de e-mail e a lei CAN-SPAM Act.](backlog/boas-praticas-de-envio-de-e-mail-e-a-lei-can-spam-act..md)
   * [Como localizar o seu Token Pessoal na leadlovers](backlog/como-localizar-o-seu-token-pessoal-na-leadlovers.md)
+  * [Integração Pipedrive x leadlovers via Zapier](backlog/integracao-pipedrive-x-leadlovers-via-zapier.md)
