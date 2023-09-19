@@ -178,3 +178,5 @@
   * [Enviando link de boleto por e-mail](backlog/enviando-link-de-boleto-por-e-mail.md)
   * [Captcha da leadlovers](backlog/captcha-da-leadlovers.md)
   * [Como criar uma página de Recompensa?](backlog/como-criar-uma-pagina-de-recompensa.md)
+  * [Suporte.love](backlog/suporte.love.md)
+  * [Suporte.love](backlog/suporte.love-1.md)
