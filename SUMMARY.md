@@ -171,3 +171,4 @@
   * [Como desativar a página/remover formulário de cadastro do webinário?](backlog/como-desativar-a-pagina-remover-formulario-de-cadastro-do-webinario.md)
   * [Como inserir uma imagem no corpo do e-mail?](backlog/como-inserir-uma-imagem-no-corpo-do-e-mail.md)
   * [Para que serve a aba Histórico em uma Máquina?](backlog/para-que-serve-a-aba-historico-em-uma-maquina.md)
+  * [Como criar uma página do tipo blog com editor de Modelos Prontos?](backlog/como-criar-uma-pagina-do-tipo-blog-com-editor-de-modelos-prontos.md)
