@@ -178,5 +178,5 @@
   * [Enviando link de boleto por e-mail](backlog/enviando-link-de-boleto-por-e-mail.md)
   * [Captcha da leadlovers](backlog/captcha-da-leadlovers.md)
   * [Como criar uma página de Recompensa?](backlog/como-criar-uma-pagina-de-recompensa.md)
-  * [Suporte.love](backlog/suporte.love.md)
-  * [Suporte.love](backlog/suporte.love-1.md)
+  * [Como baixar suas Notas Fiscais da leadlovers](backlog/como-baixar-suas-notas-fiscais-da-leadlovers.md)
+  * [Como alterar a senha na leadlovers?](backlog/como-alterar-a-senha-na-leadlovers.md)
