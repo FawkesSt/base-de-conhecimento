@@ -188,3 +188,4 @@
   * [Documentação para integrar com API leadlovers](backlog/documentacao-para-integrar-com-api-leadlovers.md)
   * [A leadlovers possui fidelidade?](backlog/a-leadlovers-possui-fidelidade.md)
   * [Boas práticas de envio de e-mail e a lei CAN-SPAM Act.](backlog/boas-praticas-de-envio-de-e-mail-e-a-lei-can-spam-act..md)
+  * [Como localizar o seu Token Pessoal na leadlovers](backlog/como-localizar-o-seu-token-pessoal-na-leadlovers.md)
