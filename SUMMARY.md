@@ -192,3 +192,5 @@
   * [Integração Pipedrive x leadlovers via Zapier](backlog/integracao-pipedrive-x-leadlovers-via-zapier.md)
   * [Como criar uma entrada de subdomínio no UolHost ?](backlog/como-criar-uma-entrada-de-subdominio-no-uolhost.md)
   * [Como criar uma entrada de subdomínio no Locaweb ?](backlog/como-criar-uma-entrada-de-subdominio-no-locaweb.md)
+  * [Como criar uma entrada de subdomínio na Kinghost?](backlog/como-criar-uma-entrada-de-subdominio-na-kinghost.md)
+  * [Como criar uma entrada de subdomínio na GoDaddy?](backlog/como-criar-uma-entrada-de-subdominio-na-godaddy.md)
