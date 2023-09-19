@@ -68,6 +68,10 @@ Por exemplo: se foi configurado um evento de **“Compra Aprovada”** que inser
 
 Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante este procedimento, por favor, entre em contato com o nosso suporte!
 
-![](https://legado.leadlovers.site/wp-content/uploads/2020/09/1f3c1.svg) **É isso, terminamos por aqui!**\
+
+
+
+
+&#x20;**É isso, terminamos por aqui!**\
 com amor ❤\
 equipe **leadlovers™**

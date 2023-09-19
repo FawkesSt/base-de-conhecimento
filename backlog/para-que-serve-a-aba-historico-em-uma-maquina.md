@@ -65,7 +65,9 @@ Nº8– Em “Exportar”, você pode gerar um arquivo com o histórico que foi 
 
 Nº9– Com a função “Reenviar para todos”, serão reenviados os e-mails para todos os leads de uma única vez.
 
-![⚠](https://s.w.org/images/core/emoji/13.0.0/svg/26a0.svg) **ATENÇÃO:**\
+
+
+**ATENÇÃO:**\
 
 
 – Atualmente, ao clicar em “Reenviar para todos” os e-mails são reenviados para todos os leads da máquina, independentemente do seu status ou do filtro que foi feito. Nossa equipe de sistemas já está trabalhando para filtrar esse tipo de envio. Portanto, se quiser reenviar apenas para um grupo específico de leads ativos, recomendamos que faça o filtro que deseja e reenvie individualmente.

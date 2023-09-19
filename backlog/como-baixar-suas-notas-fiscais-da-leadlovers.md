@@ -1,4 +1,4 @@
-# Suporte.love
+# Como baixar suas Notas Fiscais da leadlovers
 
 **Objetivo:** Mostrar como baixar suas Notas Fiscais da sua assinatura leadlvoers.
 
@@ -16,6 +16,10 @@
 
 **Atenção**: As NFs são geradas e enviadas automaticamente para o e-mail da sua conta leadlovers sempre 30 dias após a compra/débito no cartão/pagamento do boleto.
 
-![](https://legado.leadlovers.site/wp-content/uploads/2020/09/1f3c1.svg) **É isso, terminamos por aqui!**\
-com amor ![❤](https://legado.leadlovers.site/wp-content/uploads/2020/09/2764.svg)\
+
+
+
+
+&#x20;**É isso, terminamos por aqui!**\
+com amor \
 equipe **leadlovers™**

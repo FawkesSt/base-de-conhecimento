@@ -82,6 +82,8 @@ Fonte alterada com sucesso!
 
 [![](https://legado.leadlovers.site/wp-content/uploads/2021/01/Imagem6.png)](https://legado.leadlovers.site/wp-content/uploads/2021/01/Imagem6.png)
 
-![](https://legado.leadlovers.site/wp-content/uploads/2020/09/1f3c1.svg) **É isso, terminamos por aqui!**\
+
+
+&#x20;**É isso, terminamos por aqui!**\
 com amor ❤\
 equipe **leadlovers™**

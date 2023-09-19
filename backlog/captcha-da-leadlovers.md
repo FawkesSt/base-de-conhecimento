@@ -126,6 +126,8 @@ Então caso o lead fique parado na página por algum tempo, não faça essa atua
 
 Clicando em voltar o lead retorna para o preenchimento do formulário, mas, mesmo assim, ele precisa **atualizar** a página antes de se cadastrar.
 
-![](https://legado.leadlovers.site/wp-content/uploads/2020/09/1f3c1.svg) **É isso, terminamos por aqui!**\
-com amor ![❤](https://legado.leadlovers.site/wp-content/uploads/2020/09/2764.svg)\
-equipe **leadlovers™**
+
+
+🏁 É isso, terminamos por aqui!\
+com amor ❤\
+equipe leadlovers™

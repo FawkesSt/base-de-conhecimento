@@ -180,3 +180,4 @@
   * [Como criar uma página de Recompensa?](backlog/como-criar-uma-pagina-de-recompensa.md)
   * [Como baixar suas Notas Fiscais da leadlovers](backlog/como-baixar-suas-notas-fiscais-da-leadlovers.md)
   * [Como alterar a senha na leadlovers?](backlog/como-alterar-a-senha-na-leadlovers.md)
+  * [Como animar elementos no editor por blocos](backlog/como-animar-elementos-no-editor-por-blocos.md)

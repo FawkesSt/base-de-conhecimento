@@ -198,6 +198,8 @@ Observação: você pode falar a informação de como se descadastrar no seu áu
 
 **–** Como as [Tags de E-mail](https://suporte.love/tags-de-email/) funcionam.
 
-![](https://legado.leadlovers.site/wp-content/uploads/2020/09/1f3c1.svg) **É isso, terminamos por aqui!**\
+
+
+🏁 É isso, terminamos por aqui!\
 com amor ❤\
-equipe **leadlovers™**
+equipe leadlovers™

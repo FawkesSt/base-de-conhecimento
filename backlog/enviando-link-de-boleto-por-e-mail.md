@@ -34,7 +34,9 @@ Você pode integrar sua plataforma de pagamento com a leadlovers através de um 
 O **Produto EAD** deve ser utilizado somente se o curso/treinamento que está vendendo estiver hospedado leadlovers.\
 Caso seu curso não esteja em nosso sistema ou o produto que está comercializando não seja um treinamento e você queira integrar a plataforma de pagamento direto com sua máquina de e-mail, nesse caso, você pode usar o **Produto Integrações**.
 
-![📢](https://s.w.org/images/core/emoji/13.0.0/svg/1f4e2.svg) **IMPORTANTE:**\
+
+
+**IMPORTANTE:**\
 
 
 **–** Em ambos os Produtos, só é possível integrar a função de cobrar boletos se a sua plataforma de pagamento for a **Hotmart**, o **PagSeguro** ou a **Monetizze**.\
@@ -129,6 +131,8 @@ Assim como a integração associará o campo Nome com nosso “name”, deve ass
 
 Com a integração concluída, quando a leadlovers disparar o e-mail para seu lead, ao invés de receber a Tag \*|BOLETO|\*, no corpo da mensagem constará o link do boleto próprio daquele lead.
 
-**É isso, terminamos por aqui!**\
+
+
+🏁 É isso, terminamos por aqui!\
 com amor ❤\
-equipe **leadlovers™**
+equipe leadlovers™

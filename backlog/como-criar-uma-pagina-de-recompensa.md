@@ -130,6 +130,10 @@ _**Não esqueça de incluir o Link do arquivo para download no botão 🙂**_
 
 Para aprender a criar e configurar uma página de recompensas dentro do construtor por componentes, [**clique neste passo a passo.**](https://suporte.love/como-criar-e-configurar-uma-pagina-de-recompensa-no-editor-por-componentes/)
 
-![](https://legado.leadlovers.site/wp-content/uploads/2020/09/1f3c1.svg) **É isso, terminamos por aqui!**\
-com amor ![❤](https://legado.leadlovers.site/wp-content/uploads/2020/09/2764.svg)\
+&#x20;
+
+
+
+**É isso, terminamos por aqui!**\
+com amor \
 equipe **leadlovers™**
