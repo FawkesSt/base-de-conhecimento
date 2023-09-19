@@ -186,3 +186,4 @@
   * [O que é Pixel do Facebook?](backlog/o-que-e-pixel-do-facebook.md)
   * [O que é Hard Bounce e Soft Bounce?](backlog/o-que-e-hard-bounce-e-soft-bounce.md)
   * [Documentação para integrar com API leadlovers](backlog/documentacao-para-integrar-com-api-leadlovers.md)
+  * [A leadlovers possui fidelidade?](backlog/a-leadlovers-possui-fidelidade.md)
