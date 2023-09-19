@@ -166,3 +166,4 @@
   * [Máquina de Voz](backlog/maquina-de-voz.md)
   * [Aba Compromisso nos e-mails.](backlog/aba-compromisso-nos-e-mails..md)
   * [Integração leadlovers com Braip](backlog/integracao-leadlovers-com-braip.md)
+  * [Como pegar o link de uma página](backlog/como-pegar-o-link-de-uma-pagina.md)
