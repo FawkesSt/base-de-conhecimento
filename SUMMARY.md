@@ -172,3 +172,4 @@
   * [Como inserir uma imagem no corpo do e-mail?](backlog/como-inserir-uma-imagem-no-corpo-do-e-mail.md)
   * [Para que serve a aba Histórico em uma Máquina?](backlog/para-que-serve-a-aba-historico-em-uma-maquina.md)
   * [Como criar uma página do tipo blog com editor de Modelos Prontos?](backlog/como-criar-uma-pagina-do-tipo-blog-com-editor-de-modelos-prontos.md)
+  * [Como usar fontes do Google Fonts no Construtor por blocos](backlog/como-usar-fontes-do-google-fonts-no-construtor-por-blocos.md)
