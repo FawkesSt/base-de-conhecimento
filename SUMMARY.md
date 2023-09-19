@@ -177,3 +177,4 @@
   * [Como usar meu domínio ou subdomínio em todas as páginas da máquina?](backlog/como-usar-meu-dominio-ou-subdominio-em-todas-as-paginas-da-maquina.md)
   * [Enviando link de boleto por e-mail](backlog/enviando-link-de-boleto-por-e-mail.md)
   * [Captcha da leadlovers](backlog/captcha-da-leadlovers.md)
+  * [Como criar uma página de Recompensa?](backlog/como-criar-uma-pagina-de-recompensa.md)
