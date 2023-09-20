@@ -208,3 +208,5 @@
   * [Como adicionar Leadscore na captura do lead](backlog/como-adicionar-leadscore-na-captura-do-lead.md)
   * [Integração plugin Elementor PRO](backlog/integracao-plugin-elementor-pro.md)
   * [Como adicionar leadscore manualmente no lead](backlog/como-adicionar-leadscore-manualmente-no-lead.md)
+  * [Como fazer as configurações de DNS de E-mail na UolHost ?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-na-uolhost.md)
+  * [Como fazer as configurações de DNS de E-mail na Bluehost?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-na-bluehost.md)
