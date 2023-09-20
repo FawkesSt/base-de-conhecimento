@@ -196,3 +196,5 @@
   * [Como criar uma entrada de subdomínio na GoDaddy?](backlog/como-criar-uma-entrada-de-subdominio-na-godaddy.md)
   * [Como criar uma entrada de subdomínio no Cloudflare?](backlog/como-criar-uma-entrada-de-subdominio-no-cloudflare.md)
   * [Como criar uma entrada de subdomínio no cPanel?](backlog/como-criar-uma-entrada-de-subdominio-no-cpanel.md)
+  * [Apontamento de domínio no KingHost](backlog/apontamento-de-dominio-no-kinghost.md)
+  * [Apontamento de domínio no Hostinger](backlog/apontamento-de-dominio-no-hostinger.md)
