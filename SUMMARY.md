@@ -227,3 +227,4 @@
   * [Configurando a Mensagem de Escassez](backlog/configurando-a-mensagem-de-escassez.md)
   * [Como descobrir onde o domínio está sendo administrado](backlog/como-descobrir-onde-o-dominio-esta-sendo-administrado.md)
   * [O que são as configurações de DNS de E-mail?](backlog/o-que-sao-as-configuracoes-de-dns-de-e-mail.md)
+  * [Como criar um funil e sequência de e-mails](backlog/como-criar-um-funil-e-sequencia-de-e-mails.md)
