@@ -30,7 +30,7 @@ Após acessar seu [**Umbler**](https://app.umbler.com/account/login) você  ver�
 Dentro da próxima tela terá diversas entradas já criadas e que direcionam o funcionamento das diversas funções de seu domínio.\
 Como a Zona DNS do Umbler já vem com configurações nela antes de fazer qualquer apontamento precisamos primeiro salvar algumas informações! Ok?
 
-![⚠](https://s.w.org/images/core/emoji/13.0.0/svg/26a0.svg) **ATENÇÃO:**\
+&#x20;**ATENÇÃO:**\
 
 
 – Essa forma de apontamento é muito sensível e deve ser feita com muita atenção!
@@ -211,6 +211,8 @@ O próximo passo é adicionar este domínio na sua máquina! [**Clique aqui e ve
 **Suporte**
 
 Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante este procedimento, por favor, **entre em contato com o nosso suporte**!
+
+
 
 **É isso, terminamos por aqui!**\
 com amor ❤\
