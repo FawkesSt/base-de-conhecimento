@@ -225,3 +225,5 @@
   * [Como altero minha senha de acesso ao 99Webinar?](backlog/como-altero-minha-senha-de-acesso-ao-99webinar.md)
   * [Como configurar os campos de captura](backlog/como-configurar-os-campos-de-captura.md)
   * [Configurando a Mensagem de Escassez](backlog/configurando-a-mensagem-de-escassez.md)
+  * [Como descobrir onde o domínio está sendo administrado](backlog/como-descobrir-onde-o-dominio-esta-sendo-administrado.md)
+  * [O que são as configurações de DNS de E-mail?](backlog/o-que-sao-as-configuracoes-de-dns-de-e-mail.md)
