@@ -211,3 +211,4 @@
   * [Como fazer as configurações de DNS de E-mail na UolHost ?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-na-uolhost.md)
   * [Como fazer as configurações de DNS de E-mail na Bluehost?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-na-bluehost.md)
   * [Como fazer as configurações de DNS de E-mail no HospedameuSite?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-hospedameusite.md)
+  * [Como instalar o Pixel do Facebook?](backlog/como-instalar-o-pixel-do-facebook.md)
