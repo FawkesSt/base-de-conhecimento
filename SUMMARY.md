@@ -198,3 +198,6 @@
   * [Como criar uma entrada de subdomínio no cPanel?](backlog/como-criar-uma-entrada-de-subdominio-no-cpanel.md)
   * [Apontamento de domínio no KingHost](backlog/apontamento-de-dominio-no-kinghost.md)
   * [Apontamento de domínio no Hostinger](backlog/apontamento-de-dominio-no-hostinger.md)
+  * [Como apontar subdomínio no Registro.br](backlog/como-apontar-subdominio-no-registro.br.md)
+  * [O que é um Subdomínio?](backlog/o-que-e-um-subdominio.md)
+  * [Como criar uma entrada de subdomínio no Hostgator?](backlog/como-criar-uma-entrada-de-subdominio-no-hostgator.md)
