@@ -22,20 +22,20 @@ Após validar se seu domínio abre corretamente a página configurada, podemos c
 **Nº3–** Selecione o pixel que deseja configurar.\
 **Nº4–** Clique em “Continuar a configuração do Pixel”.
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem3.png)](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem3.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem3.png" alt=""><figcaption></figcaption></figure>
 
 **Nº5–** Feito isso abrirá uma pop-up, nela selecione “Pixel do Facebook”.\
 **Nº6–** Para prosseguir clique em “Conectar”.
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem4.png)](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem4.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem4.png" alt=""><figcaption></figcaption></figure>
 
 **Nº7–** Agora escolha a opção ”Adicionar manualmente o código do pixel ao site”.
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem5.png)](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem5.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem5.png" alt=""><figcaption></figcaption></figure>
 
 **Nº8–** Copie o código e guarde-o em um local seguro, o bloco de notas pode ser um excelente aliado.
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem6.png)](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem6.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem6.png" alt=""><figcaption></figcaption></figure>
 
 **Definindo o local de aplicação**
 
@@ -53,7 +53,7 @@ Se você deseja metrificar o Pixel em sua máquina, deve realizar a instalação
 **Nº12–** Cole aqui o código copiado no passo Nº11. Caso você já possua outros códigos adicionais em sua máquina, não se preocupe, basta pular uma linha dando Enter e colar abaixo, como no exemplo.\
 **Nº13–** Salve as configurações.
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem7.png)](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem7.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem7.png" alt=""><figcaption></figcaption></figure>
 
 Código inserido com sucesso na máquina e aplicado em todas as páginas da mesma! Agora é preciso [**testar a aplicação do pixel**](broken-reference), pois a validação do mesmo é essencial para o funcionamento.
 
@@ -65,13 +65,13 @@ O método a seguir é para configurar o pixel em somente uma página. Caso desej
 **Nº10–** Ao lado da miniatura da página existe um ícone de engrenagem, clique sobre ele.\
 **Nº11–** Escolha a opção “Configurações”.
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem9.png)](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem9.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem9.png" alt=""><figcaption></figcaption></figure>
 
 **Nº12–** Vá até a aba “Configurações avançadas”.\
 **Nº13–** No campo “Scripts do Cabeçalho (HEAD)” cole o código de seu pixel. Caso você já possua outros códigos adicionais em sua página, não se preocupe! Basta pular uma linha dando Enter e colar abaixo, como no exemplo.\
 **Nº14–** Salve as configurações feitas.
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem10.png)](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem10.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem10.png" alt=""><figcaption></figcaption></figure>
 
 Feito isso, o pixel está instalado na página! Depois disso [**é preciso testá-lo**](broken-reference), pois a validação do mesmo é essencial para o funcionamento.
 
@@ -86,26 +86,26 @@ O segundo jeito é através de uma [extensão do Google Chrome](broken-reference
 **Nº15–** Volte ao Facebook e, na tela em que copiamos o código do pixel, clique em “Cancelar” para voltar à Visão Geral do Pixel.\
 **Nº16–** Confirme o cancelamento da edição.
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem11.png)](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem11.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem11.png" alt=""><figcaption></figcaption></figure>
 
 **Nº17–** Você será redirecionado para essa tela principal do pixel. Vá para a aba “Eventos de Teste”.
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem8.png)](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem8.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem8.png" alt=""><figcaption></figcaption></figure>
 
 **Nº18–** Se fez a instalação em toda a máquina, insira seu domínio. Caso tenha feito em somente uma, insira o link da página na qual aplicou o código do Pixel.\
 Agora, se feita em páginas específicas, cada uma precisará ser testada individualmente, inserindo e validando link por link.\
 **Nº19–** Clique em “Abrir site”.
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem12.png)](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem12.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem12.png" alt=""><figcaption></figcaption></figure>
 
 **Nº20–** Feito isso abrirá sua página em uma nova guia, basta aguardar que ela carregue totalmente e então fechá-la.
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem13.png)](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem13.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem13.png" alt=""><figcaption></figcaption></figure>
 
 Após fechar a página, a tela do Gerenciador de Eventos ficará dessa forma caso tudo tenha dado certo.\
 Isso significa que o Facebook localizou o Pixel e seu evento padrão “PageView” (visualização de página).
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem14.png)](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem14.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem14.png" alt=""><figcaption></figcaption></figure>
 
 **Via Extensão do Google Chrome**
 
@@ -116,15 +116,15 @@ Agora iremos instalar a extensão Facebook Pixel Helper. Se utilizá-la, poderá
 **Nº15–** No navegador Google Chrome, acesse o hyperlink direto da extensão: [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc).\
 **Nº16–** Clique em “Usar no Chrome”.
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem15.png)](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem15.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem15.png" alt=""><figcaption></figcaption></figure>
 
 **Nº17–** Abrirá uma pop-up, nela selecione “Adicionar Extensão”.
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem16.png)](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem16.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem16.png" alt=""><figcaption></figcaption></figure>
 
 Feito isso, a pop-up será atualizada e a extensão ficará da forma mostrada na imagem abaixo.
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem17.png)](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem17.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem17.png" alt=""><figcaption></figcaption></figure>
 
 Ferramenta instalada com sucesso!
 
@@ -133,17 +133,17 @@ Ferramenta instalada com sucesso!
 **Nº18–** Acesse a página ou domínio configurado no navegador Google Chrome.\
 **Nº19–** Abra a extensão, nela mostrará o ID do pixel e também o evento “PageView” que vem pré-configurado.
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem18.png)](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem18.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem18.png" alt=""><figcaption></figcaption></figure>
 
 #### **Validando o Pixel** <a href="#validacao" id="validacao"></a>
 
 Quando o pixel for validado pelo Facebook, a tela inicial dele terá um gráfico semelhante a esse:
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem19.png)](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem19.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem19.png" alt=""><figcaption></figcaption></figure>
 
 Caso ainda não tenha recebido eventos ele estará dessa forma:
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem20.png)](https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem20.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2019/05/Imagem20.png" alt=""><figcaption></figcaption></figure>
 
 **Importante:** O dashboard do Facebook pode levar até **24 horas** para atualizar. Então, caso você tenha seguido todos os passos desse tutorial e o gráfico ainda não esteja aparecendo, aguarde o período de um dia e consulte novamente a sua tela.
 
@@ -163,8 +163,4 @@ E se você chegou até aqui e deseja também utilizar outros eventos em suas pá
 
 – [API de Conversões FB](https://suporte.love/api-conversao-facebook/);
 
-– Como [inserir um script](https://suporte.love/inserir-script/) nas páginas da leadlovers.
-
-🏁 **É isso, terminamos por aqui!**\
-com amor ♥\
-equipe **leadlovers™**\
+– Como [inserir um script](https://suporte.love/inserir-script/) nas páginas da leadlovers.\

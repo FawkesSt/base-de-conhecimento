@@ -62,6 +62,3 @@ Eu capturei 4 leads. Eles são:
 
 **\[email protected]** – Este lead não abriu nenhum e-mail meu. Por isso, ele não foi marcado nenhuma vez por **Aprender com Envio**. Então, ele vai continuar recebendo os e-mails pelos endereços programados em cada disparo, até ele abrir o primeiro, que é quando ele será marcado.
 
-![](https://legado.leadlovers.site/wp-content/uploads/2020/09/1f3c1.svg) **É isso, terminamos por aqui!**\
-com amor ![❤](https://legado.leadlovers.site/wp-content/uploads/2020/09/2764.svg)\
-equipe **leadlovers™**

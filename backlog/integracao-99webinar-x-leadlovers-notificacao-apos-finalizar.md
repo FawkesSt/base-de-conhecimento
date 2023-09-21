@@ -54,8 +54,6 @@ _**COMO FAÇO PARA REMOVER UMA AÇÃO CRIADA AQUI?**_
 
 Se você clicar sobre o quadro de um aviso já configurado, perceberá que a palavra **REMOVER** está em cor vermelha. Isso significa que a opção está disponível. Basta clicar sobre ela.
 
-![](https://legado.leadlovers.site/wp-content/uploads/2019/04/99Webinar\_-Integracao-leadlovers-%E2%80%93-Notificacao-apos-finalizar-360040784574\_mceclip6.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2019/04/99Webinar_-Integracao-leadlovers-%E2%80%93-Notificacao-apos-finalizar-360040784574_mceclip6.png" alt=""><figcaption></figcaption></figure>
 
-**🏁É isso, terminamos por aqui!**\
-**com amor ❤**\
-**equipe 99Webinar™**\
+\

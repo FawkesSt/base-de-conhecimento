@@ -28,7 +28,3 @@ _**E COMO FAÇO PARA REMOVER UMA AÇÃO CRIADA AQUI?**_
 ![](https://legado.leadlovers.site/wp-content/uploads/2019/04/Integracao-99Webinar-X-Leadlovers-%E2%80%93-Pagina-de-Cadastro-360040784474\_7.jpeg)
 
 Após configurada a ação, perceba que a palavra **REMOVER** altera sua cor para vermelha. Isso significa que a opção está disponível. Basta clicar sobre ela.
-
-**🏁 É isso, terminamos por aqui!**\
-com amor ❤\
-equipe **99Webinar™**

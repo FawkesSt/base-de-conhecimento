@@ -26,7 +26,3 @@ _**E como faço para remover uma ação criada aqui?**_
 Após configurada a ação, perceba que a palavra REMOVER altera sua cor para vermelha. Isso significa que a opção está disponível. Basta clicar sobre ela.
 
 ![](https://legado.leadlovers.site/wp-content/uploads/2019/04/99Webinar\_-Integracao-leadlovers-%E2%80%93-Aviso-que-o-webinar-ja-comecou-360041259433\_mceclip1.png)
-
-**🏁 É isso, terminamos por aqui!**\
-**com amor ❤**\
-**equipe 99Webinar™**
