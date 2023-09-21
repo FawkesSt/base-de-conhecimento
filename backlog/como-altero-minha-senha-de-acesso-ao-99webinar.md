@@ -47,6 +47,3 @@ Você pode mudar a senha usada para acessar a sua conta 99Webinar através das *
 
 **OBS:** Novamente, caso o botão permaneça cinza, apague a senha fornecida nos dois primeiros campos, e reinsira novamente. Pode haver caracteres faltando ou sobrando.
 
-**🏁 É isso, terminamos por aqui!**\
-**com amor ❤**\
-**equipe 99Webinar™**

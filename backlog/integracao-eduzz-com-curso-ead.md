@@ -76,5 +76,5 @@ Então recomendamos que faça o seguinte:
 
 **4-**Verifique se seu produto e acesse a aba Estudantes. Agora, verifique se o e-mail utilizado na compra teste, consta adicionado no seu produto.
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2020/09/produtos\_-integrao-eduzz-360042728393\_mceclip17.png)](https://legado.leadlovers.site/wp-content/uploads/2020/09/produtos\_-integrao-eduzz-360042728393\_mceclip17.png)
+<figure><img src="https://legado.leadlovers.site/wp-content/uploads/2020/09/produtos_-integrao-eduzz-360042728393_mceclip17.png" alt=""><figcaption></figcaption></figure>
 

@@ -12,6 +12,3 @@ A tela de configurações é praticamente a mesma que abre no momento que você 
 
 **OBS:** se você tiver alguma dúvida, [**clique aqui, e veja nosso material que ensina a como acessar a Tela de Gerenciamento.**](https://suporte.love/gerenciamento-do-webinar/)
 
-**🏁 É isso, terminamos por aqui!**\
-com amor ❤\
-equipe **99Webinar™**

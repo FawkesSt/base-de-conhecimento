@@ -33,6 +33,3 @@ Se você clicar **sobre este “olho”**, ele ficará cortado e você poderá v
 Esta é a mensagem que o lead recebe logo após realizar o cadastro, e onde ele deve usar a senha que você criou.\
 **Lembre-se:** sem a mesma senha que você configurou, ele não conseguirá acessar o Webinar.
 
-**É isso, terminamos por aqui!**\
-com amor ❤\
-equipe **99Webinar™**

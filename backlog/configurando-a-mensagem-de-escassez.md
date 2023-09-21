@@ -37,6 +37,3 @@ Você só consegue habilitar a mensagem quando o webinar começa, o Ao Vivo.\
 Durante o webinar, você pode exibir ou ocultar a Mensagem de Escassez que programou a qualquer momento através da opção específica em Controle de Webinar.\
 [Clique aqui e veja sobre estas opções de controle](https://suporte.love/controle-do-webinar/)!
 
-**🏁 É isso, terminamos por aqui!**\
-com amor ❤\
-equipe **99Webinar™**

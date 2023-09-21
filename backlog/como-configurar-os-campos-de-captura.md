@@ -46,6 +46,3 @@ Agora, novas alterações podem ser feitas:
 
 **IMPORTANTE:** após realizar todas as configurações, clique no botão Salvar.
 
-**🏁 É isso, terminamos por aqui!**\
-com amor ❤\
-equipe **99Webinar™**

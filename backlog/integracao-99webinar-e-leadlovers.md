@@ -50,6 +50,3 @@ Na próxima tela, você terá disponível as ações de integração com o LeadL
 É possível usar um código de formulário integrado à exibição do seu Webinar, e assim permitir que os leads cadastrados também sejam capturados para outra ferramenta.\
 [**Clique neste link e veja como configurar a integração através de um formulário de captura**](https://suporte.love/99-form/).
 
-**🏁 É isso, terminamos por aqui!**\
-com amor ❤\
-equipe **99webinar™**

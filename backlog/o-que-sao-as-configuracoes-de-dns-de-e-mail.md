@@ -108,7 +108,7 @@ Se você não encontrou o Painel de Controle do seu domínio na lista acima, aba
 
 **Dados, valor ou aponta para:** mx.sendgrid.net
 
-![⚠](https://s.w.org/images/core/emoji/13.0.0/svg/26a0.svg) **ATENÇÃO:**\
+<img src="https://s.w.org/images/core/emoji/13.0.0/svg/26a0.svg" alt="⚠" data-size="line"> **ATENÇÃO:**\
 
 
 **–** Algumas hospedagens não permitem a inserção da entrada **MX**. Se esse for o caso, é necessário fazer as entradas por **CNAME**, então pode prosseguir para o tópico: [**Utilizando as entradas em formato CNAME**](broken-reference).
@@ -149,7 +149,7 @@ Conferiu se está tudo certo? Já pode salvar!
 
 **Dados, valor ou aponta para:** v=DMARC1; p=none; rua=mailto:\[email protected]
 
-![⚠](https://s.w.org/images/core/emoji/13.0.0/svg/26a0.svg) **ATENÇÃO:**\
+<img src="https://s.w.org/images/core/emoji/13.0.0/svg/26a0.svg" alt="⚠" data-size="line"> **ATENÇÃO:**\
 
 
 **–** Substitua a parte **seudominio.com** pelo domínio o qual é usado pelo seu e-mail profissional e no qual você está inserindo estas informações. No exemplo das imagens, o domínio usado é **wikilovers.com.br**. Por isso, a entrada ficou:
@@ -176,7 +176,7 @@ Após inserir estas cinco entradas, você deve [validá-las em sua conta leadlov
 
 #### **Utilizando as entradas em formato CNAME** <a href="#via-cname" id="via-cname"></a>
 
-![📢](https://s.w.org/images/core/emoji/13.0.0/svg/1f4e2.svg) **IMPORTANTE:**\
+<img src="https://s.w.org/images/core/emoji/13.0.0/svg/1f4e2.svg" alt="📢" data-size="line"> **IMPORTANTE:**\
 
 
 **–** Se você **já criou as entradas por MX** seguindo as orientações anteriores, vá direto até o tópico [**Próximos Passos**](broken-reference). As próximas entradas devem ser criadas **somente se na zona DNS do seu domínio não tenha sido possível criar as entradas por MX.**
@@ -227,7 +227,7 @@ Conferiu se está tudo certo? Já pode salvar!
 
 **Dados, valor ou aponta para:** v=DMARC1; p=none; rua=mailto:\[email protected]
 
-![⚠](https://s.w.org/images/core/emoji/13.0.0/svg/26a0.svg) **ATENÇÃO:**\
+<img src="https://s.w.org/images/core/emoji/13.0.0/svg/26a0.svg" alt="⚠" data-size="line"> **ATENÇÃO:**\
 
 
 **–** Substitua a parte **seudominio.com** pelo domínio o qual é usado pelo seu e-mail profissional e no qual você está inserindo estas informações. No exemplo das imagens, o domínio usado é **wikilovers.com.br.** Por isso, a entrada ficou:
@@ -273,6 +273,3 @@ Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda duran
 –[ O que é um domínio?](https://suporte.love/o-que-e-um-dominio/)\
 – Como[ descobrir o Painel de Controle](https://suporte.love/descobrir-cpanel/) do seu domínio?
 
-🏁 **É isso, terminamos por aqui!**\
-com amor ❤\
-equipe **leadlovers™**

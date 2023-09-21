@@ -55,7 +55,7 @@ Como mencionamos acima, o teste do relatório de entrega pode ser feito em Dispa
 
 **N6**º – Localize o email desejado, clique nos 3 pontinhos, após isso clique em **Relatório de entregabilidade**.
 
-### _O que leva um e-mail a cair na caixa de Spam_
+### O que leva um e-mail a cair na caixa de Spam
 
 Após realizar o teste, veja aonde o e-mail caiu em cada provedor na tela de Relatório de Entrega.
 

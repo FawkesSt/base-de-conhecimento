@@ -1,4 +1,4 @@
-# Como gerar cadastros pelo Lead Ads
+# Como gerar cadastros pelo LeadAds
 
 **Objetivo:** Mostrar detalhadamente o processo de como configuração do Facebook Ads.\
 **Para que serve:** Através de um formulário criado no Facebook, é possível gerar cadastros de leads. **Requisito(s) Obrigatórios:** Possuir uma página profissional no facebook
@@ -133,8 +133,6 @@ Antes de iniciar estes passos, **tenha certeza que a conta de Facebook, respons�
 
 **18 –** Clique no botão com sinal de + para criar sua configuração de captura!
 
-
-
 **19 –** **Em Páginas**, Escolha a página que vai divulgar seu formulário.
 
 **20 –** **Em Formulário**, Depois, escolha qual dos formulários será usado para captura.
@@ -143,7 +141,7 @@ Antes de iniciar estes passos, **tenha certeza que a conta de Facebook, respons�
 
 **22-** **Em destino de Captura**, Nos campos dessa opção, defina o destino do lead dentro da sua conta (máquina, funil e sequência).
 
-**14 –** Após isso, Confirme todas as configurações e clique em **Salvar**
+**23 –** Após isso, Confirme todas as configurações e clique em **Salvar**
 
 <figure><img src="https://suporte.love/wp-content/uploads/2023/07/image-34.png" alt="" height="446" width="725"><figcaption></figcaption></figure>
 

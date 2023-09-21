@@ -155,6 +155,3 @@ N 35 – Aba anexo , para incluir anexos no corpo do e-mail.
 
 Pronto, agora o e-mail já estará criado em seu funil/sequência.
 
-![](https://legado.leadlovers.site/wp-content/uploads/2020/09/1f3c1.svg) **É isso, terminamos por aqui!**\
-com amor ![❤](https://legado.leadlovers.site/wp-content/uploads/2020/09/2764.svg)\
-equipe **leadlovers™**

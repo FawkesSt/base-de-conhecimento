@@ -26,6 +26,3 @@ Ainda não é possível substituir este ícone por outra imagem ou similar.
 
 As configurações inclusas nesta opção te permitem alterar a senha usada atualmente para acessar a sua conta do 99Webinar para outra de sua escolha. Para mais informações, por favor, [**leia este artigo explicando como alterar sua senha**](https://suporte.love/proteger-com-senha/).
 
-**🏁 É isso, terminamos por aqui!**\
-com amor ❤\
-equipe **99webinar™**

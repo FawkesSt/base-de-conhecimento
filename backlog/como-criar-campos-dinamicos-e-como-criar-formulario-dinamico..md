@@ -118,23 +118,23 @@ Para configurar corretamente, siga os passos mencionando abaixo.
 **14**– No campo **Nome do formulário**, você pode incluir um **nome** para identificá-lo.\
 Esse nome só estará visível para você, na aba formulários de captura.
 
-**15**– Em **Texto do botão**, você inclui o **texto que será exibido dentro do botão** de\
+**15**– Em **Texto do botão**, você inclui o texto que será exibido dentro do botão de\
 ação do formulário.
 
 **16**– Em **Url Destino após captura**, Nesse campo você inclui a **URL após captura** (Página\
 agradecimento, vendas, checkout, recompensa…etc).
 
-**17** – Em **URL destino lead existente**, Nesse campo você pode incluir uma **URL após captura diferente para quem já é lead** da sua máquina.
+**17** – Em **URL destino lead existente**, Nesse campo você pode incluir uma URL após captura diferente para quem já é lead da sua máquina.
 
 **18** – Em **Redirecionamento avançado**, Essa função quando habilitada, permite que você configure\
-uma **URL de direcionamento específica para cada campo, quando preenchida no formulário.**
+uma URL de direcionamento específica para cada campo, quando preenchida no formulário**.**
 
-**19** – Em **sequência destino lead**, aqui, você poderá selecionar **o funil que o lead entrará após captura.**
+**19** – Em **sequência destino lead**, aqui, você poderá selecionar o funil que o lead entrará após captura.
 
-**20** – Em **Notificação após capturar leads**, Se habilitada essa função, você **receberá uma notificação em seu e-mail** sempre que um lead for capturado.\
+**20** – Em **Notificação após capturar leads**, Se habilitada essa função, você receberá uma notificação em seu e-mail sempre que um lead for capturado.\
 📢 **Obs:** Para isso funcionar corretamente, também é preciso habilitar a **função de notificação**, na configuração geral da máquina.
 
-**Faça isso em apenas 3 passos:**\
+Faça isso em apenas 3 passos:\
 1\. Acesse Configuração da máquina\
 2\. Clique em captura e marque a opção “receber notificações via e-mail dos novos leads”\
 3\. E defina em qual o e-mail que receberá o alerta.

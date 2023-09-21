@@ -61,6 +61,3 @@ Sim! No passo **4** (onde mostramos onde incluir o link da transmissão), insira
 
 **IMPORTANTE:** certifique-se que as configurações de privacidade estão de acordo para que você possa incluir (ou embedar) os vídeos de sua conta (seja Vimeo ou Youtube) no em outras páginas. Dessa forma, ele poderá também ser usado no 99Webinar.
 
-&#x20;**É isso, terminamos por aqui!**\
-com amor ❤\
-equipe **99Webinar™**

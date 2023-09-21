@@ -63,6 +63,3 @@ Agora que você conseguiu localizar o seu domínio, sabe em qual Painel de Contr
 
 – Aprenda como realizar as configurações de [DNS de E-mail](https://suporte.love/dns-de-e-mail/).
 
-É isso, terminamos por aqui!\
-com amor ❤\
-equipe leadlovers™
