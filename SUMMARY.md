@@ -38,7 +38,6 @@
 ## Contatos
 
 * [Gestão de contatos](contatos/gestao-de-contatos.md)
-  * [Link com ações automatizadas: Como criar e utilizar](contatos/gestao-de-contatos/link-com-acoes-automatizadas-como-criar-e-utilizar.md)
   * [O que é Lead?](contatos/gestao-de-contatos/o-que-e-lead.md)
   * [Como realizar a Limpeza de Lista de Leads](contatos/gestao-de-contatos/como-realizar-a-limpeza-de-lista-de-leads.md)
   * [Meus leads sumiram, o que fazer?](contatos/gestao-de-contatos/meus-leads-sumiram-o-que-fazer.md)
@@ -66,6 +65,8 @@
 * [Apontamento de domínio](dns-e-dominios/apontamento-de-dominio/README.md)
   * [Como criar uma entrada de subdomínio no UolHost ?](dns-e-dominios/apontamento-de-dominio/como-criar-uma-entrada-de-subdominio-no-uolhost.md)
   * [Como usar meu domínio ou subdomínio em todas as páginas da máquina?](dns-e-dominios/apontamento-de-dominio/como-usar-meu-dominio-ou-subdominio-em-todas-as-paginas-da-maquina.md)
+  * [Apontamento de domínio no KingHost](dns-e-dominios/apontamento-de-dominio/apontamento-de-dominio-no-kinghost.md)
+  * [Como criar uma entrada de subdomínio na GoDaddy?](dns-e-dominios/apontamento-de-dominio/como-criar-uma-entrada-de-subdominio-na-godaddy.md)
 
 ## Páginas
 
@@ -82,6 +83,7 @@
 * [Wordpress](paginas/wordpress/README.md)
   * [Integração plugin Elementor PRO](paginas/wordpress/integracao-plugin-elementor-pro.md)
   * [WordPress: Integração com OptimizePress](paginas/wordpress/wordpress-integracao-com-optimizepress.md)
+  * [WordPress Tema Épico: Atualizar versão para leadlovers](paginas/wordpress/wordpress-tema-epico-atualizar-versao-para-leadlovers.md)
 * [Chatbot](paginas/chatbot/README.md)
   * [Chatbot: Como personalizar o chatbot](paginas/chatbot/chatbot-como-personalizar-o-chatbot.md)
   * [Chatbot: Como adiciona-lo nas páginas da leadlovers](paginas/chatbot/chatbot-como-adiciona-lo-nas-paginas-da-leadlovers.md)
@@ -92,6 +94,8 @@
   * [Como capturar as informações de UTM do lead](paginas/analytics/como-capturar-as-informacoes-de-utm-do-lead.md)
   * [Como gerar o Pixel do Facebook?](paginas/analytics/como-gerar-o-pixel-do-facebook.md)
   * [Como instalar o Pixel do Facebook?](paginas/analytics/como-instalar-o-pixel-do-facebook.md)
+  * [O que é e como utilizar o Pixel Externo do leadlovers](paginas/analytics/o-que-e-e-como-utilizar-o-pixel-externo-do-leadlovers.md)
+  * [O que é Pixel do Facebook?](paginas/analytics/o-que-e-pixel-do-facebook.md)
 
 ## Integrações
 
@@ -167,7 +171,6 @@
   * [Como funciona a leadlovers](backlog/como-funciona-a-leadlovers.md)
   * [Contas de e-mail: O que é Reputação do E-mail?](backlog/contas-de-e-mail-o-que-e-reputacao-do-e-mail.md)
   * [Como realizar Teste AB em páginas](backlog/como-realizar-teste-ab-em-paginas.md)
-  * [O que é e como utilizar o Pixel Externo do leadlovers](backlog/o-que-e-e-como-utilizar-o-pixel-externo-do-leadlovers.md)
   * [Como reordenar a listagem de leads na máquina?](backlog/como-reordenar-a-listagem-de-leads-na-maquina.md)
   * [Como funciona as movimentações de leads dentro da leadlovers](backlog/como-funciona-as-movimentacoes-de-leads-dentro-da-leadlovers.md)
   * [Como personalizar página de Unsub](backlog/como-personalizar-pagina-de-unsub.md)
@@ -193,22 +196,18 @@
   * [Captcha da leadlovers](backlog/captcha-da-leadlovers.md)
   * [Como criar uma página de Recompensa?](backlog/como-criar-uma-pagina-de-recompensa.md)
   * [Como animar elementos no editor por blocos](backlog/como-animar-elementos-no-editor-por-blocos.md)
-  * [O que é Pixel do Facebook?](backlog/o-que-e-pixel-do-facebook.md)
   * [O que é Hard Bounce e Soft Bounce?](backlog/o-que-e-hard-bounce-e-soft-bounce.md)
   * [Documentação para integrar com API leadlovers](backlog/documentacao-para-integrar-com-api-leadlovers.md)
   * [A leadlovers possui fidelidade?](backlog/a-leadlovers-possui-fidelidade.md)
   * [Boas práticas de envio de e-mail e a lei CAN-SPAM Act.](backlog/boas-praticas-de-envio-de-e-mail-e-a-lei-can-spam-act..md)
   * [Como criar uma entrada de subdomínio no Locaweb ?](backlog/como-criar-uma-entrada-de-subdominio-no-locaweb.md)
   * [Como criar uma entrada de subdomínio na Kinghost?](backlog/como-criar-uma-entrada-de-subdominio-na-kinghost.md)
-  * [Como criar uma entrada de subdomínio na GoDaddy?](backlog/como-criar-uma-entrada-de-subdominio-na-godaddy.md)
   * [Como criar uma entrada de subdomínio no Cloudflare?](backlog/como-criar-uma-entrada-de-subdominio-no-cloudflare.md)
   * [Como criar uma entrada de subdomínio no cPanel?](backlog/como-criar-uma-entrada-de-subdominio-no-cpanel.md)
-  * [Apontamento de domínio no KingHost](backlog/apontamento-de-dominio-no-kinghost.md)
   * [Apontamento de domínio no Hostinger](backlog/apontamento-de-dominio-no-hostinger.md)
   * [Como apontar subdomínio no Registro.br](backlog/como-apontar-subdominio-no-registro.br.md)
   * [O que é um Subdomínio?](backlog/o-que-e-um-subdominio.md)
   * [Como criar uma entrada de subdomínio no Hostgator?](backlog/como-criar-uma-entrada-de-subdominio-no-hostgator.md)
-  * [WordPress Tema Épico: Atualizar versão para leadlovers](backlog/wordpress-tema-epico-atualizar-versao-para-leadlovers.md)
   * [Como utilizar o gatilho de fim de funil?](backlog/como-utilizar-o-gatilho-de-fim-de-funil.md)
   * [Como criar uma estrategia por leadscore](backlog/como-criar-uma-estrategia-por-leadscore.md)
   * [Como adicionar Leadscore na captura do lead](backlog/como-adicionar-leadscore-na-captura-do-lead.md)
@@ -229,3 +228,4 @@
   * [Configurando a Mensagem de Escassez](backlog/configurando-a-mensagem-de-escassez.md)
   * [O que são as Ações automatizadas e como utilizar](backlog/o-que-sao-as-acoes-automatizadas-e-como-utilizar.md)
   * [Como usar fontes do Google Fonts no Construtor por blocos](backlog/como-usar-fontes-do-google-fonts-no-construtor-por-blocos.md)
+  * [Link com ações automatizadas: Como criar e utilizar](backlog/link-com-acoes-automatizadas-como-criar-e-utilizar.md)
