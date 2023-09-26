@@ -70,6 +70,7 @@
   * [Apontamento de domínio no KingHost](dns-e-dominios/apontamento-de-dominio/apontamento-de-dominio-no-kinghost.md)
   * [Como criar uma entrada de subdomínio na GoDaddy?](dns-e-dominios/apontamento-de-dominio/como-criar-uma-entrada-de-subdominio-na-godaddy.md)
   * [Como criar uma entrada de subdomínio na Kinghost?](dns-e-dominios/apontamento-de-dominio/como-criar-uma-entrada-de-subdominio-na-kinghost.md)
+  * [Como criar uma entrada de subdomínio no Hostgator?](dns-e-dominios/apontamento-de-dominio/como-criar-uma-entrada-de-subdominio-no-hostgator.md)
 
 ## Páginas
 
@@ -208,7 +209,6 @@
   * [Apontamento de domínio no Hostinger](backlog/apontamento-de-dominio-no-hostinger.md)
   * [Como apontar subdomínio no Registro.br](backlog/como-apontar-subdominio-no-registro.br.md)
   * [O que é um Subdomínio?](backlog/o-que-e-um-subdominio.md)
-  * [Como criar uma entrada de subdomínio no Hostgator?](backlog/como-criar-uma-entrada-de-subdominio-no-hostgator.md)
   * [Como utilizar o gatilho de fim de funil?](backlog/como-utilizar-o-gatilho-de-fim-de-funil.md)
   * [Como criar uma estrategia por leadscore](backlog/como-criar-uma-estrategia-por-leadscore.md)
   * [Como adicionar Leadscore na captura do lead](backlog/como-adicionar-leadscore-na-captura-do-lead.md)
