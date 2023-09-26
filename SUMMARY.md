@@ -22,9 +22,9 @@
     * [SMS](automacoes/maquinas/outras-maquinas/sms.md)
     * [Voz](automacoes/maquinas/outras-maquinas/voz.md)
 * [Envio pontual](automacoes/envio-pontual/README.md)
-  * [Email Marketing](automacoes/envio-pontual/email-marketing.md)
+  * [Email Marketing](automacoes/envio-pontual/email-marketing/README.md)
+    * [Disparo único – Como criar, editar e configurar as Campanhas na leadlovers](automacoes/envio-pontual/email-marketing/disparo-unico-como-criar-editar-e-configurar-as-campanhas-na-leadlovers.md)
   * [Broadcast](automacoes/envio-pontual/broadcast.md)
-  * [Disparo único – Como criar, editar e configurar as Campanhas na leadlovers](automacoes/envio-pontual/disparo-unico-como-criar-editar-e-configurar-as-campanhas-na-leadlovers.md)
 
 ## Contas
 
