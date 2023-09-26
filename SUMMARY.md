@@ -45,6 +45,7 @@
   * [Componentes: Como fazer âncora na página](paginas/construtor-de-paginas/componentes-como-fazer-ancora-na-pagina.md)
   * [Componentes: Como criar um menu no editor](paginas/construtor-de-paginas/componentes-como-criar-um-menu-no-editor.md)
   * [Componentes: Como criar páginas de Políticas de Privacidade e Termos de Uso](paginas/construtor-de-paginas/componentes-como-criar-paginas-de-politicas-de-privacidade-e-termos-de-uso.md)
+* [Como inserir Scripts nas páginas da leadlovers](paginas/como-inserir-scripts-nas-paginas-da-leadlovers.md)
 * [Chatbot](paginas/chatbot.md)
 * [Analytics](paginas/analytics.md)
 
@@ -71,7 +72,8 @@
 
 * [Criar um produto](ead/criar-um-produto.md)
 * [Dados de acesso](ead/dados-de-acesso.md)
-* [Gestão de alunos](ead/gestao-de-alunos.md)
+* [Gestão de alunos](ead/gestao-de-alunos/README.md)
+  * [Curso Online (EAD) como Importar clientes](ead/gestao-de-alunos/curso-online-ead-como-importar-clientes.md)
 * [Integrações](ead/integracoes.md)
 * [Domínios](ead/dominios.md)
 
@@ -87,8 +89,6 @@
 ***
 
 * [backlog](backlog/README.md)
-  * [Como inserir Scripts nas páginas da leadlovers](backlog/como-inserir-scripts-nas-paginas-da-leadlovers.md)
-  * [Curso Online (EAD) como Importar clientes](backlog/curso-online-ead-como-importar-clientes.md)
   * [Relatório de Entregabilidade](backlog/relatorio-de-entregabilidade.md)
   * [Como criar campos dinâmicos e como criar formulário dinâmico.](backlog/como-criar-campos-dinamicos-e-como-criar-formulario-dinamico..md)
   * [Como encontrar Script do Google Analytics](backlog/como-encontrar-script-do-google-analytics.md)
