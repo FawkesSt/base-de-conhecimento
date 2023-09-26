@@ -42,6 +42,7 @@
   * [Como realizar a Limpeza de Lista de Leads](contatos/gestao-de-contatos/como-realizar-a-limpeza-de-lista-de-leads.md)
   * [Meus leads sumiram, o que fazer?](contatos/gestao-de-contatos/meus-leads-sumiram-o-que-fazer.md)
   * [Como funciona a gestão de contatos na leadlovers](contatos/gestao-de-contatos/como-funciona-a-gestao-de-contatos-na-leadlovers.md)
+  * [Como alterar o status “Unsub” de um contato](contatos/gestao-de-contatos/como-alterar-o-status-unsub-de-um-contato.md)
 * [Importar contatos](contatos/importar-contatos.md)
   * [Como importar leads na leadlovers](contatos/importar-contatos/como-importar-leads-na-leadlovers.md)
   * [Regras de Importação de Leads por .TXT](contatos/importar-contatos/regras-de-importacao-de-leads-por-.txt.md)
@@ -62,11 +63,13 @@
   * [Como fazer as configurações de DNS de E-mail na UolHost ?](dns-e-dominios/dns-de-email/como-fazer-as-configuracoes-de-dns-de-e-mail-na-uolhost.md)
   * [Como fazer as configurações de DNS de E-mail no CloudFlare?](dns-e-dominios/dns-de-email/como-fazer-as-configuracoes-de-dns-de-e-mail-no-cloudflare.md)
   * [Como fazer as configurações de DNS de E-mail na Bluehost?](dns-e-dominios/dns-de-email/como-fazer-as-configuracoes-de-dns-de-e-mail-na-bluehost.md)
+  * [Como fazer as configurações de DNS de E-mail no HospedameuSite?](dns-e-dominios/dns-de-email/como-fazer-as-configuracoes-de-dns-de-e-mail-no-hospedameusite.md)
 * [Apontamento de domínio](dns-e-dominios/apontamento-de-dominio/README.md)
   * [Como criar uma entrada de subdomínio no UolHost ?](dns-e-dominios/apontamento-de-dominio/como-criar-uma-entrada-de-subdominio-no-uolhost.md)
   * [Como usar meu domínio ou subdomínio em todas as páginas da máquina?](dns-e-dominios/apontamento-de-dominio/como-usar-meu-dominio-ou-subdominio-em-todas-as-paginas-da-maquina.md)
   * [Apontamento de domínio no KingHost](dns-e-dominios/apontamento-de-dominio/apontamento-de-dominio-no-kinghost.md)
   * [Como criar uma entrada de subdomínio na GoDaddy?](dns-e-dominios/apontamento-de-dominio/como-criar-uma-entrada-de-subdominio-na-godaddy.md)
+  * [Como criar uma entrada de subdomínio na Kinghost?](dns-e-dominios/apontamento-de-dominio/como-criar-uma-entrada-de-subdominio-na-kinghost.md)
 
 ## Páginas
 
@@ -123,6 +126,7 @@
   * [Integração leadlovers com Braip](integracoes/webhooks/integracao-leadlovers-com-braip.md)
 * [Facebook LeadAds](integracoes/facebook-leadads/README.md)
   * [Como gerar cadastros pelo LeadAds](integracoes/facebook-leadads/como-gerar-cadastros-pelo-leadads.md)
+* [Documentação para integrar com API leadlovers](integracoes/documentacao-para-integrar-com-api-leadlovers.md)
 
 ## CRM
 
@@ -177,7 +181,6 @@
   * [O que são contas de envio na leadlovers](backlog/o-que-sao-contas-de-envio-na-leadlovers.md)
   * [copymaker: Perguntas Frequentes (FAQ)](backlog/copymaker-perguntas-frequentes-faq.md)
   * [Como usar o Encurtador de URLs](backlog/como-usar-o-encurtador-de-urls.md)
-  * [Como alterar o status “Unsub” de um contato](backlog/como-alterar-o-status-unsub-de-um-contato.md)
   * [Como configurar as ações pós captura](backlog/como-configurar-as-acoes-pos-captura.md)
   * [Como inserir um contador de escassez no e-mail](backlog/como-inserir-um-contador-de-escassez-no-e-mail.md)
   * [Como gerar relatórios na máquina e na conta?](backlog/como-gerar-relatorios-na-maquina-e-na-conta.md)
@@ -197,11 +200,9 @@
   * [Como criar uma página de Recompensa?](backlog/como-criar-uma-pagina-de-recompensa.md)
   * [Como animar elementos no editor por blocos](backlog/como-animar-elementos-no-editor-por-blocos.md)
   * [O que é Hard Bounce e Soft Bounce?](backlog/o-que-e-hard-bounce-e-soft-bounce.md)
-  * [Documentação para integrar com API leadlovers](backlog/documentacao-para-integrar-com-api-leadlovers.md)
   * [A leadlovers possui fidelidade?](backlog/a-leadlovers-possui-fidelidade.md)
   * [Boas práticas de envio de e-mail e a lei CAN-SPAM Act.](backlog/boas-praticas-de-envio-de-e-mail-e-a-lei-can-spam-act..md)
   * [Como criar uma entrada de subdomínio no Locaweb ?](backlog/como-criar-uma-entrada-de-subdominio-no-locaweb.md)
-  * [Como criar uma entrada de subdomínio na Kinghost?](backlog/como-criar-uma-entrada-de-subdominio-na-kinghost.md)
   * [Como criar uma entrada de subdomínio no Cloudflare?](backlog/como-criar-uma-entrada-de-subdominio-no-cloudflare.md)
   * [Como criar uma entrada de subdomínio no cPanel?](backlog/como-criar-uma-entrada-de-subdominio-no-cpanel.md)
   * [Apontamento de domínio no Hostinger](backlog/apontamento-de-dominio-no-hostinger.md)
@@ -212,7 +213,6 @@
   * [Como criar uma estrategia por leadscore](backlog/como-criar-uma-estrategia-por-leadscore.md)
   * [Como adicionar Leadscore na captura do lead](backlog/como-adicionar-leadscore-na-captura-do-lead.md)
   * [Como adicionar leadscore manualmente no lead](backlog/como-adicionar-leadscore-manualmente-no-lead.md)
-  * [Como fazer as configurações de DNS de E-mail no HospedameuSite?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-hospedameusite.md)
   * [Como funcionam as funções “Aprender com Envio” e “Envio Inteligente”](backlog/como-funcionam-as-funcoes-aprender-com-envio-e-envio-inteligente.md)
   * [Integração 99Webinar X Leadlovers – Notificação após finalizar](backlog/integracao-99webinar-x-leadlovers-notificacao-apos-finalizar.md)
   * [Integração 99Webinar X Leadlovers – Aviso que o webinar já começou](backlog/integracao-99webinar-x-leadlovers-aviso-que-o-webinar-ja-comecou.md)
