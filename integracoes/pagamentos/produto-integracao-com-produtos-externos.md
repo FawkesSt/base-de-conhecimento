@@ -126,8 +126,3 @@ Na aba **INTEGRAÇÕES** você consegue conectar o leadlovers com essas platafor
 
 
 
-
-
-🏁 **É isso, terminamos por aqui!**\
-com amor ❤\
-equipe **leadlovers™**
