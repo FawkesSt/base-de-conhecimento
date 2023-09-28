@@ -235,3 +235,6 @@
   * [E-mail marketing](backlog/e-mail-marketing.md)
   * [WhatsApp – conexões](backlog/whatsapp-conexoes.md)
   * [Administre as etapas do seu funil de vendas usando o CRM da leadlovers](backlog/administre-as-etapas-do-seu-funil-de-vendas-usando-o-crm-da-leadlovers.md)
+  * [Crie um produto EAD e ensine o que você sabe para seus leads](backlog/crie-um-produto-ead-e-ensine-o-que-voce-sabe-para-seus-leads.md)
+  * [Configure seu domínio, crie uma página com formulário e comece a capturar leads](backlog/configure-seu-dominio-crie-uma-pagina-com-formulario-e-comece-a-capturar-leads.md)
+  * [O que mudou: 3.0 Para versão 4.0](backlog/o-que-mudou-3.0-para-versao-4.0.md)
