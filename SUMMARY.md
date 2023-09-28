@@ -287,3 +287,8 @@
   * [Como fazer um teste AB em Broadcasts e Campanhas?](backlog/como-fazer-um-teste-ab-em-broadcasts-e-campanhas.md)
   * [\[EDITORES ANTIGOS\] Blocos e Modelos Prontos: Como realizar download pelas páginas da leadlovers](backlog/editores-antigos-blocos-e-modelos-prontos-como-realizar-download-pelas-paginas-da-leadlovers.md)
   * [API de Conversões Facebook](backlog/api-de-conversoes-facebook.md)
+  * ["Integração leadlovers com OptimizePress 3"](backlog/integracao-leadlovers-com-optimizepress-3.md)
+  * [Dashboard da máquina](backlog/dashboard-da-maquina.md)
+  * [Componentes: Como inserir vídeos por iframe](backlog/componentes-como-inserir-videos-por-iframe.md)
+  * [Como publicar minhas páginas da leadlovers?](backlog/como-publicar-minhas-paginas-da-leadlovers.md)
+  * [Como inserir link de unsub no corpo do e-mail?](backlog/como-inserir-link-de-unsub-no-corpo-do-e-mail.md)
