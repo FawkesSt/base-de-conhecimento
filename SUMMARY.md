@@ -267,3 +267,8 @@
   * [Máquina de Instagram: Como criar e configurar máquina](backlog/maquina-de-instagram-como-criar-e-configurar-maquina.md)
   * [Máquina de Instagram: Como criar mensagem](backlog/maquina-de-instagram-como-criar-mensagem.md)
   * [Bases legais para o tratamento de dados](backlog/bases-legais-para-o-tratamento-de-dados.md)
+  * [Máquina de Instagram: como criar gatilhos em mensagens](backlog/maquina-de-instagram-como-criar-gatilhos-em-mensagens.md)
+  * [Máquina de Instagram: como enviar uma mensagem pontual para os leads de uma máquina](backlog/maquina-de-instagram-como-enviar-uma-mensagem-pontual-para-os-leads-de-uma-maquina.md)
+  * [Máquina de Instagram: como administrar a caixa de entrada](backlog/maquina-de-instagram-como-administrar-a-caixa-de-entrada.md)
+  * [Como conectar um número de Whatsapp via QRCode – Avizap](backlog/como-conectar-um-numero-de-whatsapp-via-qrcode-avizap.md)
+  * [Perguntas frequentes](backlog/perguntas-frequentes.md)
