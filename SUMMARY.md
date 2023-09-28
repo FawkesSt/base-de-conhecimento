@@ -238,3 +238,8 @@
   * [Crie um produto EAD e ensine o que você sabe para seus leads](backlog/crie-um-produto-ead-e-ensine-o-que-voce-sabe-para-seus-leads.md)
   * [Configure seu domínio, crie uma página com formulário e comece a capturar leads](backlog/configure-seu-dominio-crie-uma-pagina-com-formulario-e-comece-a-capturar-leads.md)
   * [O que mudou: 3.0 Para versão 4.0](backlog/o-que-mudou-3.0-para-versao-4.0.md)
+  * [E-mail marketing – Como criar, editar e configurar \[versão 4.0\]](backlog/e-mail-marketing-como-criar-editar-e-configurar-versao-4.0.md)
+  * [Informações bot2zap](backlog/informacoes-bot2zap.md)
+  * [Componentes: Como adicionar comentários do Facebook na página](backlog/componentes-como-adicionar-comentarios-do-facebook-na-pagina.md)
+  * [Como configurar um pop-up na leadlovers](backlog/como-configurar-um-pop-up-na-leadlovers.md)
+  * [Componentes: Como criar um carrossel](backlog/componentes-como-criar-um-carrossel.md)
