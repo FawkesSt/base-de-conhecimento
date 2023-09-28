@@ -307,3 +307,4 @@
   * [Como criar uma entrada de subdomínio no Umbler?](backlog/como-criar-uma-entrada-de-subdominio-no-umbler.md)
   * [Como fazer as configurações de DNS de E-mail no Umbler?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-umbler.md)
   * [Como criar uma entrada de subdomínio no Hostinger?](backlog/como-criar-uma-entrada-de-subdominio-no-hostinger.md)
+  * [Como fazer as configurações de DNS de E-mail no Builderall?](backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-builderall.md)
