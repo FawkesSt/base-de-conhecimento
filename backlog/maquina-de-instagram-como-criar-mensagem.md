@@ -1,78 +1,111 @@
-# Máquina de Instagram: Como criar mensagem
+# Bases legais para o tratamento de dados
 
-**Objetivo:** Ensinar como criar e configurar uma Máquina de Instagram.\
-**Para que serve:** Nesse tipo de máquina, é possível automatizar uma sequência de mensagens para serem enviadas no direct do Instagram de seus seguidores.\
-**Requisito Obrigatório:**\
-**1.** Ter uma [conta de Instagram conectada à leadlovers](https://suporte.love/maquina-de-instagram-como-conectar-conta-do-instagram-a-leadlovers/).
+**Objetivo:** Ensinar como criar novas mensagens na Máquina de Instagram.\
+**Para que serve:** A partir das mensagens, é possível criar funis e sequências para enviar para seus leads no direct do Instagram.\
+**Requisito Obrigatório:** Ter uma [Máquina de Instagram criada](https://suporte.love/maquina-de-instagram-como-criar-e-configurar-maquina/).
 
 Este artigo abrange os seguintes tópicos:
 
-* [Criando a máquina](broken-reference)
-* [Aba Sequência de Mensagens](broken-reference)
-* [Aba de Caixa de Entrada](broken-reference)
-* [Aba Leads](broken-reference)
-* [Aba Configurações](broken-reference)
+* [Criando a mensagem](broken-reference)
+* [Mensagem de Texto](broken-reference)
+* [Mensagem de Imagem](broken-reference)
+* [Mensagem de Cartão](broken-reference)
+* [Configurações da mensagem](broken-reference)
 
-### **Criando a máquina** <a href="#criando-maquina" id="criando-maquina"></a>
+### **Criando a mensagem** <a href="#criando-mensagem" id="criando-mensagem"></a>
 
-**Nº1–** Na seção de máquinas em sua conta, clique em **“Nova Máquina”**.
+**Nº1–** Para criar uma nova mensagem, acesse a aba **“Sequência de Mensagens”** dentro da sua Máquina de Instagram e clique no ícone de **“+”** no funil.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img01-3-1-300x76.png)
+![](https://suporte.love/wp-content/uploads/2022/12/img01-1-1-300x67.png)
 
-Um pop-up abrirá na tela, nele escolha a estratégia **“Máquina padrão”**.
+**Título da mensagem:** Defina o título da mensagem.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img02-2-1-300x221.png)
+**Data fixa para envio:** Caso deseje que ela seja enviada somente em uma data fixa, escolha a data desejada neste campo.
 
-**Nº2–** Em **“Tipo de comunicação”**, selecione **“Instagram”** e depois clique em **“Usar”** na máquina em branco. Por enquanto, não temos modelos criados para a Máquina de Instagram.
+**Tempo de envio após mensagem anterior:** Preencha o tempo que essa mensagem deverá ser disparada depois da anterior em dias, horas, minutos e segundos. Se quiser que o disparo seja imediato, deixe estes campos vazios.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img03-3-300x239.png)
+**Horário de envio da mensagem:** Defina um intervalo de horário para envio das mensagens.
 
-**Nº3–** Defina aqui o nome de sua máquina.
+**Dias da semana em que a mensagem pode ser enviada:** Selecione também os dias da semana que ela poderá ser disparada.
 
-**Nº4–** Selecione a conta de Instagram que já\
-está autenticada na plataforma ou [**adicione uma nova**](https://suporte.love/maquina-de-instagram-como-conectar-conta-do-instagram-a-leadlovers/).
+**Ícone de emoji:** Clicando aqui, você poderá adicionar emojis no corpo da mensagem.
 
-**Nº5–** Clique em **“Continuar”** para prosseguir.
+**Manter links originais:** Marque esta caixinha caso queira que os links da mensagem sejam mantidos originais. É importante ressaltar que, ao deixá-la selecionada, gatilhos de clique **não** irão funcionar. Se desmarcá-la, o link será enviado por meio de um redirect para que possamos identificar os cliques e ativar os [**Gatilhos de Mensagem**](https://suporte.love/9482-2/).
 
-![](https://suporte.love/wp-content/uploads/2022/12/img04-3-300x195.png)
+![](https://suporte.love/wp-content/uploads/2022/12/img02-1-1-300x54.png)
 
-### **Aba Sequência de Mensagens** <a href="#sequencia-de-mensagens" id="sequencia-de-mensagens"></a>
+### **Mensagem de Texto** <a href="#mensagem-texto" id="mensagem-texto"></a>
 
-Na primeira aba da máquina, é possível criar novos **funis**, **mensagens** e também configurar **gatilhos** para os leads dependendo das suas ações.
+Na primeira opção, você poderá criar uma mensagem de texto de até 4000 caracteres. Nela é possível usar também **Tags de Mensagem**,\
+que serão substituídas pelas informações identificadas na conversa com o lead\
+As disponíveis para essa máquina são:&#x20;
 
-**Nº6–** Logo no topo da seção, você pode criar um **novo funil** ou **reordenar os já existentes**.
+**\*|INSTAGRAMUSERNAME|\***: Insere o @ do usuário do Instagram.\
+**\*|NOME|\***: Insere o nome completo do lead.\
+**\*|PNOME|\***:\
+Insere o primeiro nome do lead.\
+**\*|DTNASCIMENTO|\***:\
+Insere a data de nascimento do lead.\
+**\*|TELEFONE|\***: Insere o telefone do lead.\
+**\*|EMAIL|\***: Insere o e-mail do lead.
 
-**Nº7–** Mais abaixo, já dentro do funil que vem por padrão na máquina, clicando no ícone de **“+”** é possível criar uma nova mensagem. Para mais orientações sobre o assunto, [**clique aqui**](https://suporte.love/maquina-de-instagram-como-criar-mensagem/).
+![](https://suporte.love/wp-content/uploads/2022/12/img03-2-1-300x106.png)
 
-**Observação:** Depois que criar as mensagens, você pode também configurar os seus **gatilhos**. Caso queira saber mais, acesse o nosso [**material de apoio**](https://suporte.love/9482-2/).
+### **Mensagem de Imagem** <a href="#mensagem-imagem" id="mensagem-imagem"></a>
 
-![](https://suporte.love/wp-content/uploads/2022/12/img05-3-300x66.png)
+Caso queira enviar apenas uma imagem sem nenhum texto acompanhando, insira-a clicando na aba **“Mensagem de Imagem”**.
 
-### **Aba de Caixa de Entrada** <a href="#caixa-de-entrada" id="caixa-de-entrada"></a>
+![](https://suporte.love/wp-content/uploads/2022/12/img04-1-1-300x128.png)
 
-Nesta seção, aparecerão todas as mensagens enviadas pelos leads para o direct do seu Instagram cadastrado.
+### **Mensagem de Cartão** <a href="#mensagem-cartao" id="mensagem-cartao"></a>
 
-**Nº8–** No campo de busca, você pode pesquisar um lead pelo seu nome ou pelo seu usuário (@).
+Em **“Mensagem de Cartão”**, você pode criar um card para enviar para seus leads.
 
-**Nº9–** Mais ao canto da tela, há a possibilidade de atualizar a caixa de entrada (),  aplicar tags a uma lista de leads selecionados () e também realizar algumas ações clicando no ícone de três pontinhos (), como, por exemplo, acessar as mensagens arquivadas ou filtrar conversas por atendente.
+**Imagem:** Insira aqui a imagem do seu cartão.
 
-Para mais informações sobre como administrar a sua Caixa de Entrada, [**clique aqui**](https://suporte.love/9458-2/).&#x20;
+**Título:** Escreva o título que ficará logo abaixo da imagem.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img06-2-300x141.png)
+**Subtítulo:** Preencha aqui também o subtítulo.
 
-### **Aba Leads** <a href="#aba-leads" id="aba-leads"></a>
+**Link:** Neste espaço, coloque o link que será vinculado ao cartão.
 
-Em **“Leads”** você poderá consultar todos os leads capturados para a sua máquina com o status **“Ativo”** ou **“Unsub”**.
+**Botões do cartão:** Selecione quantos botões deseja inserir, de um a três.
 
-**Observação:** Para se descadastrar da lista de Instagram, o lead deve enviar uma das palavras: _Sair_, _Parar_ ou _Unsub_.
+**Texto do botão:** Escreva o texto que ficará sobre cada um dos botões.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img07-2-300x73.png)
+**Link do botão:** Insira os links para os quais o lead será direcionado ao clicar no botão.
 
-### **Aba Configurações** <a href="#configuracoes" id="configuracoes"></a>
+![](https://suporte.love/wp-content/uploads/2022/12/img05-1-1-300x128.png)
 
-Por fim, em **“Configurações”** é possível definir algumas configurações básicas da máquina, da captura e dos leads. Temos um artigo próprio explicando detalhadamente cada função, acesse-o [**clicando aqui**](https://suporte.love/maquina-de-instagram-configuracoes-basicas/).&#x20;
+Depois que finalizar a mensagem, você pode:
 
-![](https://suporte.love/wp-content/uploads/2022/12/img08-2-300x146.png)
+**Salvar e Ativar:** torna a mensagem ativa imediatamente após salvá-la. Ou seja, se já tiver algum lead dentro da sequência no nível da mensagem que está sendo criada, ela será disparada imediatamente ou respeitando as configurações de tempo que foram definidas.
+
+**Salvar:** deixa-a salva na sua sequência como uma mensagem inativa. Levando isso em consideração, mesmo que já tenham leads parados nesse nível e uma configuração de tempo definida, essa mensagem não será disparada enquanto não for ativada na sequência.
+
+**Observação:** Se a mensagem já estava ativa antes de ser editada e for salva utilizando esta opção, ela se tornará inativa na sua sequência assim que fechar a edição.
+
+![](https://suporte.love/wp-content/uploads/2022/12/img06-1.png)
+
+### **Configurações da mensagem** <a href="#configuracoes-mensagem" id="configuracoes-mensagem"></a>
+
+**Nº2–** Clicando no ícone de engrenagem na mensagem, você poderá acessar as suas **“Configurações”**.
+
+![](https://suporte.love/wp-content/uploads/2022/12/img07-1.png)
+
+**Editar:** Clicando aqui, é possível retornar à mensagem para editá-la.
+
+**Remover:** Selecionando esta opção a mensagem será excluída.
+
+**Duplicar:** Você pode duplicar a mensagem para outro funil e máquina de Instagram, se desejar.
+
+**Gatilhos:** Por aqui, é possível acessar os [**Gatilhos de Mensagem**](https://suporte.love/9482-2/).&#x20;
+
+![](https://suporte.love/wp-content/uploads/2022/12/img08-1.png)
+
+**Nº3–** Além da opção acima, você também poderá acessar os gatilhos pelo ícone de **“Y”**. Para aprender a configurá-los, [**clique aqui**](https://suporte.love/9482-2/).
+
+![](https://suporte.love/wp-content/uploads/2022/12/img09-1.png)
 
 **Suporte**
 
@@ -80,9 +113,8 @@ Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda duran
 
 **Artigos Relacionados**
 
-**–** Como\
-[criar mensagens](https://suporte.love/maquina-de-instagram-como-criar-mensagem/)\
-na Máquina de Instagram?\
+**–** Como configurar\
+[Gatilhos de Mensagem](https://suporte.love/9482-2/)?\
 **–** Quais\
 [Configurações Básicas](https://suporte.love/maquina-de-instagram-configuracoes-basicas/)\
 devo fazer na Máquina de Instagram?

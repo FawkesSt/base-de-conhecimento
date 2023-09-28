@@ -1,124 +1,177 @@
-# Bases legais para o tratamento de dados
+# Suporte.love
 
-**Objetivo:** Ensinar como criar novas mensagens na Máquina de Instagram.\
-**Para que serve:** A partir das mensagens, é possível criar funis e sequências para enviar para seus leads no direct do Instagram.\
-**Requisito Obrigatório:** Ter uma [Máquina de Instagram criada](https://suporte.love/maquina-de-instagram-como-criar-e-configurar-maquina/).
+**Objetivo:** Explicar e exemplificar as 10 bases legais fornecidas\
+pela LGPD que sua empresa ou serviço podem utilizar para justificar o tratamento\
+dos dados.
 
 Este artigo abrange os seguintes tópicos:
 
-* [Criando a mensagem](broken-reference)
-* [Mensagem de Texto](broken-reference)
-* [Mensagem de Imagem](broken-reference)
-* [Mensagem de Cartão](broken-reference)
-* [Configurações da mensagem](broken-reference)
+1. [Consentimento](broken-reference)
+2. [Proteção de crédito](broken-reference)
+3. [Interesse legítimo](broken-reference)
+4. [Proteção da vida](broken-reference)
+5. [Tutela de saúde](broken-reference)
+6. [Exercício regular de direitos](broken-reference)
+7. [Execução de contrato](broken-reference)
+8. [Estudo por órgãos de pesquisa](broken-reference)
+9. [Execução de políticas públicas](broken-reference)
+10. [Cumprimento de ordem legal](broken-reference)
 
-### **Criando a mensagem** <a href="#criando-mensagem" id="criando-mensagem"></a>
+### **1 – Consentimento** <a href="#h_01fxmq0zyxraes69bncext10j6" id="h_01fxmq0zyxraes69bncext10j6"></a>
 
-**Nº1–** Para criar uma nova mensagem, acesse a aba **“Sequência de Mensagens”** dentro da sua Máquina de Instagram e clique no ícone de **“+”** no funil.
+O consentimento por parte do titular precisa ser fornecido por algum meio que\
+demonstre a livre e espontânea vontade do mesmo em fornecer tais dados. Isso\
+pode acontecer por escrito, por marcar uma checkbox (caixa de seleção) ou uma\
+opção de sim ou não em algum formulário. Desde que essa informação possa ser\
+acessada futuramente e com os detalhes do ato.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img01-1-1-300x67.png)
+É bom lembrar que esse consentimento **pode ser revogado** a\
+qualquer momento por parte do titular.\
+Por exemplo: o lead realiza uma compra em seu site de e-commerce, para isso alguns **dados sensíveis** são\
+solicitados (dados bancários para o pagamento). Após a conclusão do procedimento,\
+o titular pode solicitar que seus dados sejam deletados de sua base, para evitar\
+receber futuras ações de marketing. Ele também pode solicitar que apenas não\
+receba ações de marketing, porém não tenha os dados apagados, o que pode acontecer\
+em compras que tenham algum tipo de seguro, garantia ou suporte atrelados ao\
+produto ou serviço. De qualquer forma, caso o cliente solicite o esquecimento,\
+considerando o suporte ao cliente, ele precisa ser informado de maneira clara\
+quais serão as consequências do esquecimento dos dados (se houverem).
 
-**Título da mensagem:** Defina o título da mensagem.
+### **2 – Proteção de crédito** <a href="#h_01fxmq1ckm8n054ja7xj8q62r5" id="h_01fxmq1ckm8n054ja7xj8q62r5"></a>
 
-**Data fixa para envio:** Caso deseje que ela seja enviada somente em uma data fixa, escolha a data desejada neste campo.
+A lei permite o tratamento de dados pessoais para a **proteção de crédito** dos\
+titulares sem o consentimento dos mesmos.\
+De acordo com a lei, a justificativa é garantir a prevenção à fraude e à segurança\
+dos dados, evitando que pessoas utilizem de brechas legislativas para fraudar\
+ou se isentar de cobranças ou dívidas existentes.
 
-**Tempo de envio após mensagem anterior:** Preencha o tempo que essa mensagem deverá ser disparada depois da anterior em dias, horas, minutos e segundos. Se quiser que o disparo seja imediato, deixe estes campos vazios.
+Órgãos como o SPC e Serasa estão amparados por essa base legal, com a finalidade\
+de impedir o uso “mal intencionado” desses dados, os famosos “calotes”.
 
-**Horário de envio da mensagem:** Defina um intervalo de horário para envio das mensagens.
+### **3 – Interesse legítimo** <a href="#h_01fxmq1gw6w31nqr9v5j1bvd8z" id="h_01fxmq1gw6w31nqr9v5j1bvd8z"></a>
 
-**Dias da semana em que a mensagem pode ser enviada:** Selecione também os dias da semana que ela poderá ser disparada.
+O interesse legítimo pode ser alegado quando os dados se fazem necessários para\
+atender os interesses do controlador ou de terceiros, exceto em situações onde\
+os direitos do titular conflitam com esses interesses.
 
-**Ícone de emoji:** Clicando aqui, você poderá adicionar emojis no corpo da mensagem.
+Esse tipo de base requer a **identificação da finalidade** do\
+tratamento de dados, se ela de fato é do controlador ou de terceiros, **da necessidade** de\
+tais dados, comprovando que o tratamento dos mesmos é indispensável para alcançar\
+a finalidade alegada e **da proporcionalidade** desse\
+interesse legítimo para com os direitos do titular, as liberdades fundamentais\
+precisam ser mantidas.
 
-**Manter links originais:** Marque esta caixinha caso queira que os links da mensagem sejam mantidos originais. É importante ressaltar que, ao deixá-la selecionada, gatilhos de clique **não** irão funcionar. Se desmarcá-la, o link será enviado por meio de um redirect para que possamos identificar os cliques e ativar os [**Gatilhos de Mensagem**](https://suporte.love/9482-2/).
+É de extrema importância que tudo esteja devidamente documentado para o caso\
+de prestação de contas.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img02-1-1-300x54.png)
+Por exemplo: apenas para situações legítimas, contextualizadas em situações concretas.\
+Auxílio e promoção de atividades do controlador, proteção do titular ou serviço,\
+aprimoramento e/ou segurança de serviços/produtos, exercício dos direitos ou\
+prestação de serviços benéficos a um ou ambos (com prioridade ao titular), situações\
+e motivações que não conflitem com as expectativas, direitos e liberdades do\
+titular, entre outros.
 
-### **Mensagem de Texto** <a href="#mensagem-texto" id="mensagem-texto"></a>
+### **4 – Proteção da vida** <a href="#h_01fxmq1n06zfq53g31tcpjkerr" id="h_01fxmq1n06zfq53g31tcpjkerr"></a>
 
-Na primeira opção, você poderá criar uma mensagem de texto de até 4000 caracteres. Nela é possível usar também **Tags de Mensagem**,\
-que serão substituídas pelas informações identificadas na conversa com o lead\
-As disponíveis para essa máquina são:&#x20;
+Dados pessoais e dados sensíveis podem ser tratados sem consentimento do titular\
+em casos onde eles são indispensáveis para a proteção da vida ou integridade\
+física dele ou de terceiros, considerando o interesse público envolvido no tratamento.
 
-**\*|INSTAGRAMUSERNAME|\***: Insere o @ do usuário do Instagram.\
-**\*|NOME|\***: Insere o nome completo do lead.\
-**\*|PNOME|\***:\
-Insere o primeiro nome do lead.\
-**\*|DTNASCIMENTO|\***:\
-Insere a data de nascimento do lead.\
-**\*|TELEFONE|\***: Insere o telefone do lead.\
-**\*|EMAIL|\***: Insere o e-mail do lead.
+Por exemplo: um entregador de algum aplicativo sofre um acidente e fica inconsciente,\
+ele é levado a um hospital que nunca frequentou, portanto não tem cadastro nem\
+condições de fornecer os dados relevantes para o atendimento. Nesse tipo de situação\
+o hospital e seus funcionários tem a liberdade de solicitar a documentação de\
+outro hospital onde haja registros desse paciente para prosseguir com o procedimento.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img03-2-1-300x106.png)
+### **5 – Tutela de saúde** <a href="#h_01fxmq1scv42vvhqjs99rfyaw7" id="h_01fxmq1scv42vvhqjs99rfyaw7"></a>
 
-### **Mensagem de Imagem** <a href="#mensagem-imagem" id="mensagem-imagem"></a>
+Na maioria dos casos, dados sensíveis de histórico médico que se caracterizam\
+como **indispensáveis para a tutela da saúde do titular**,\
+exclusivamente em procedimentos realizados por profissionais de saúde, ou autoridades\
+de serviço sanitário.
 
-Caso queira enviar apenas uma imagem sem nenhum texto acompanhando, insira-a clicando na aba **“Mensagem de Imagem”**.
+Podendo assim, haver comunicação e uso compartilhado desses dados por parte das\
+pessoas ou instituições controladores de tais dados pessoais sensíveis para com\
+serviços de saúde, assistências farmacêuticas, incluindo serviços auxiliares\
+e de diagnose e terapia. Esse compartilhamento acontece com objetivo de obter\
+vantagem econômica, desde que seja em benefício dos interesses dos titulares\
+dos dados.\
+Não incluindo planos privados de assistência à saúde, visando principalmente\
+impedir a discriminação no ato da contratação ou liberação de qualquer procedimento\
+que se faça necessário.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img04-1-1-300x128.png)
+Qualquer tipo de veiculação ou uso compartilhado dos dados citados é considerado\
+um tratamento ilegal dos dados e, portanto, infringe diretamente o que foi imposto\
+pela lei.
 
-### **Mensagem de Cartão** <a href="#mensagem-cartao" id="mensagem-cartao"></a>
+### **6 – Exercício regular de direitos** <a href="#h_01fxmq1z25m6xj0s0rbzreykqv" id="h_01fxmq1z25m6xj0s0rbzreykqv"></a>
 
-Em **“Mensagem de Cartão”**, você pode criar um card para enviar para seus leads.
+Essa base legal garante o direito de produção de provas contra outra parte/pessoa\
+em um processo judicial, arbitral ou administrativo, permitindo a utilização\
+de tais documentos que podem conter dados sensíveis sem infringir os preceitos\
+constitucionais da ampla defesa e do contraditório.
 
-**Imagem:** Insira aqui a imagem do seu cartão.
+Por exemplo: se um policial realizar uma abordagem em uma pessoa qualquer, ele\
+tem o direito de solicitar os dados para exercício da função, contanto que não\
+haja uso para fins abusivos/que fogem ao escopo da função (quebra de sigilo telefônico\
+ou bancário, por exemplo).
 
-**Título:** Escreva o título que ficará logo abaixo da imagem.
+### **7 – Execução de contrato** <a href="#h_01fxmq24j1dz592gdxzxnm6chn" id="h_01fxmq24j1dz592gdxzxnm6chn"></a>
 
-**Subtítulo:** Preencha aqui também o subtítulo.
+Fornece base para execução de termos ou cláusulas estabelecidas em um contrato\
+concordados com o titular previamente, via consentimento.
 
-**Link:** Neste espaço, coloque o link que será vinculado ao cartão.
+Essa base assegura o tratamento dos dados pelo tempo vigente do contrato em questão,\
+até que o mesmo seja encerrado pelo prazo estabelecido e, em alguns casos, o\
+consentimento **não pode ser anulado por parte do titular**.
 
-**Botões do cartão:** Selecione quantos botões deseja inserir, de um a três.
+Por exemplo: no ato da compra de um geladeira, o controlador precisa manter os\
+dados do endereço físico fornecido pelo titular para efetuar a entrega do produto,\
+ou seja, cumprir o que foi previsto no contrato.
 
-**Texto do botão:** Escreva o texto que ficará sobre cada um dos botões.
+### **8 – Estudo por órgãos de pesquisa** <a href="#h_01fxmq2a8xwsx6e8xexane5ew6" id="h_01fxmq2a8xwsx6e8xexane5ew6"></a>
 
-**Link do botão:** Insira os links para os quais o lead será direcionado ao clicar no botão.
+Assegura-se o direito de tratamento de dados para finalidade de pesquisa e estudos\
+para órgãos de pesquisa com a devida **anonimização dos dados**,\
+para garantir a privacidade de todos os titulares participantes, assim como,\
+prevenir danos de possíveis vazamentos.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img05-1-1-300x128.png)
+Dados anonimizados mantém informações relevantes para a sua finalidade, porém\
+não permitem a identificação do titular, direta ou indiretamente.
 
-Depois que finalizar a mensagem, você pode:
+Por exemplo: todos os estudos e pesquisas que o IBGE realiza. Ele pode coletar\
+dados de diversos homens de uma certa faixa etária de uma determinada região.\
+A informação coletada mostrará apenas que um número X de homens entre 20 e 40\
+anos da região Y completaram o ensino superior.
 
-**Salvar e Ativar:** torna a mensagem ativa imediatamente após salvá-la. Ou seja, se já tiver algum lead dentro da sequência no nível da mensagem que está sendo criada, ela será disparada imediatamente ou respeitando as configurações de tempo que foram definidas.
+### **9 – Execução de políticas públicas** <a href="#h_01fxmq2gn25jgvqcxbjayx7we6" id="h_01fxmq2gn25jgvqcxbjayx7we6"></a>
 
-**Salvar:** deixa-a salva na sua sequência como uma mensagem inativa. Levando isso em consideração, mesmo que já tenham leads parados nesse nível e uma configuração de tempo definida, essa mensagem não será disparada enquanto não for ativada na sequência.
+A administração pública e qualquer um dos seus órgãos devem se adequar ao tratamento\
+e uso compartilhado dos dados estritamente necessários à execução de políticas\
+públicas previstas em leis, regulamentos, convênios ou contratos, não se limitando\
+somente à esses, e sem a necessidade de consentimento dos titulares.
 
-**Observação:** Se a mensagem já estava ativa antes de ser editada e for salva utilizando esta opção, ela se tornará inativa na sua sequência assim que fechar a edição.
+Contudo, a administração pública tem a obrigação de informar de maneira clara,\
+objetiva e inequívoca a respeito da base legal para o tratamento, finalidade\
+e quais procedimentos são realizados com tais dados.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img06-1.png)
+Por exemplo: o cadastro do e-social, onde as empresas prestam contas ao governo\
+sobre suas práticas para com os colaboradores. Nesse caso, é uma obrigação fornecer\
+os dados para a proteção dos direitos trabalhistas.
 
-### **Configurações da mensagem** <a href="#configuracoes-mensagem" id="configuracoes-mensagem"></a>
+### **10 – Cumprimento de ordem legal** <a href="#h_01fxmq2n3es6tvjqfsfkhdxtb8" id="h_01fxmq2n3es6tvjqfsfkhdxtb8"></a>
 
-**Nº2–** Clicando no ícone de engrenagem na mensagem, você poderá acessar as suas **“Configurações”**.
+Direcionada ao cumprimento de ordem, obrigação legal ou regulatória por parte\
+do controlador dos dados.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img07-1.png)
+Por exemplo: transmissão de dados de colaboradores (funcionários) de uma empresa\
+por parte do RH para com a Secretaria Especial do Ministério da Economia (Ministério\
+do Trabalho), com o intuito de prestação de contas.
 
-**Editar:** Clicando aqui, é possível retornar à mensagem para editá-la.
-
-**Remover:** Selecionando esta opção a mensagem será excluída.
-
-**Duplicar:** Você pode duplicar a mensagem para outro funil e máquina de Instagram, se desejar.
-
-**Gatilhos:** Por aqui, é possível acessar os [**Gatilhos de Mensagem**](https://suporte.love/9482-2/).&#x20;
-
-![](https://suporte.love/wp-content/uploads/2022/12/img08-1.png)
-
-**Nº3–** Além da opção acima, você também poderá acessar os gatilhos pelo ícone de **“Y”**. Para aprender a configurá-los, [**clique aqui**](https://suporte.love/9482-2/).
-
-![](https://suporte.love/wp-content/uploads/2022/12/img09-1.png)
-
-**Suporte**
-
-Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante este procedimento, por favor, **entre em contato com o nosso suporte**!
-
-**Artigos Relacionados**
-
-**–** Como configurar\
-[Gatilhos de Mensagem](https://suporte.love/9482-2/)?\
-**–** Quais\
-[Configurações Básicas](https://suporte.love/maquina-de-instagram-configuracoes-basicas/)\
-devo fazer na Máquina de Instagram?
+Essa situação não permite oposição dos titulares, pois trata-se de uma obrigação\
+legal.
 
 🏁 **É isso, terminamos por aqui!**\
-com amor ❤\
+com\
+amor ❤\
 equipe **leadlovers™**

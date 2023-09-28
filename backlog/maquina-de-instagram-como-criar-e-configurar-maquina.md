@@ -1,81 +1,91 @@
-# Máquina de Instagram: Como criar e configurar máquina
+# Máquina de Instagram: Como criar mensagem
 
-**Objetivo:** Ensinar como conectar uma página do Facebook ao perfil profissional do Instagram.\
-**Para que serve:** Fazendo a conexão entre a sua página do Facebook e o seu perfil profissional do Instagram, é possível autenticar a sua conta na Máquina de Instagram.\
-**Requisito obrigatório: 1.** Ter uma [conta profissional](https://suporte.love/maquina-de-instagram-como-deixar-a-conta-do-instagram-profissional/) no Instagram. **2.** Possuir uma [página no Facebook](https://suporte.love/maquina-de-instagram-como-criar-uma-pagina-no-facebook/).
+**Objetivo:** Ensinar como criar e configurar uma Máquina de Instagram.\
+**Para que serve:** Nesse tipo de máquina, é possível automatizar uma sequência de mensagens para serem enviadas no direct do Instagram de seus seguidores.\
+**Requisito Obrigatório:**\
+**1.** Ter uma [conta de Instagram conectada à leadlovers](https://suporte.love/maquina-de-instagram-como-conectar-conta-do-instagram-a-leadlovers/).
 
 Este artigo abrange os seguintes tópicos:
 
-* [Como conectar a página do Facebook ao Instagram no aplicativo?](broken-reference)
-* [Como conectar a página do Facebook ao Instagram no navegador?](broken-reference)
+* [Criando a máquina](broken-reference)
+* [Aba Sequência de Mensagens](broken-reference)
+* [Aba de Caixa de Entrada](broken-reference)
+* [Aba Leads](broken-reference)
+* [Aba Configurações](broken-reference)
 
-### **Como conectar a página do Facebook ao Instagram no aplicativo** <a href="#no-aplicativo" id="no-aplicativo"></a>
+### **Criando a máquina** <a href="#criando-maquina" id="criando-maquina"></a>
 
-**Nº1–** Acesse a sua página no Facebook e clique na engrenagem no canto superior direito dela.
+**Nº1–** Na seção de máquinas em sua conta, clique em **“Nova Máquina”**.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img01-143x300.jpeg)
+![](https://suporte.love/wp-content/uploads/2022/12/img01-3-1-300x76.png)
 
-**Nº2–** Clique em **“Instagram”**.
+Um pop-up abrirá na tela, nele escolha a estratégia **“Máquina padrão”**.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img02-143x300.jpeg)
+![](https://suporte.love/wp-content/uploads/2022/12/img02-2-1-300x221.png)
 
-**Nº3–** Selecione **“Conectar conta”**.
+**Nº2–** Em **“Tipo de comunicação”**, selecione **“Instagram”** e depois clique em **“Usar”** na máquina em branco. Por enquanto, não temos modelos criados para a Máquina de Instagram.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img03-155x300.jpeg)
+![](https://suporte.love/wp-content/uploads/2022/12/img03-3-300x239.png)
 
-**Nº4–** É muito importante manter esta opção **habilitada** para configurar a Máquina de Instagram mais tarde.
+**Nº3–** Defina aqui o nome de sua máquina.
 
-**Nº5–** Clique em **“Confirmar”**.
+**Nº4–** Selecione a conta de Instagram que já\
+está autenticada na plataforma ou [**adicione uma nova**](https://suporte.love/maquina-de-instagram-como-conectar-conta-do-instagram-a-leadlovers/).
 
-![](https://suporte.love/wp-content/uploads/2022/12/img04-158x300.jpeg)
+**Nº5–** Clique em **“Continuar”** para prosseguir.
 
-**Nº6–** Na próxima etapa, logue em sua conta do Instagram.
+![](https://suporte.love/wp-content/uploads/2022/12/img04-3-300x195.png)
 
-![](https://suporte.love/wp-content/uploads/2022/12/img05-143x300.jpeg)
+### **Aba Sequência de Mensagens** <a href="#sequencia-de-mensagens" id="sequencia-de-mensagens"></a>
 
-**Nº7–** Clique em **“Ok”** para prosseguir.
+Na primeira aba da máquina, é possível criar novos **funis**, **mensagens** e também configurar **gatilhos** para os leads dependendo das suas ações.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img06-155x300.jpeg)
+**Nº6–** Logo no topo da seção, você pode criar um **novo funil** ou **reordenar os já existentes**.
 
-Prontinho! Na próxima tela aparecerá a confirmação que a conta foi conectada com sucesso e você já pode [**autenticá-la na Máquina de Instagram**](https://suporte.love/maquina-de-instagram-como-conectar-conta-do-instagram-a-leadlovers/).
+**Nº7–** Mais abaixo, já dentro do funil que vem por padrão na máquina, clicando no ícone de **“+”** é possível criar uma nova mensagem. Para mais orientações sobre o assunto, [**clique aqui**](https://suporte.love/maquina-de-instagram-como-criar-mensagem/).
 
-![](https://suporte.love/wp-content/uploads/2022/12/img07-143x300.jpeg)
+**Observação:** Depois que criar as mensagens, você pode também configurar os seus **gatilhos**. Caso queira saber mais, acesse o nosso [**material de apoio**](https://suporte.love/9482-2/).
 
-### **Como conectar a página do Facebook ao Instagram no navegador** <a href="#no-navegador" id="no-navegador"></a>
+![](https://suporte.love/wp-content/uploads/2022/12/img05-3-300x66.png)
 
-**Nº1–** Acesse a página do Facebook e no menu lateral esquerdo clique em **“Configurações”**.
+### **Aba de Caixa de Entrada** <a href="#caixa-de-entrada" id="caixa-de-entrada"></a>
 
-![](https://suporte.love/wp-content/uploads/2022/12/img08-4-300x148.png)
+Nesta seção, aparecerão todas as mensagens enviadas pelos leads para o direct do seu Instagram cadastrado.
 
-**Nº2–** Na próxima página, clique em **“Instagram”**.
+**Nº8–** No campo de busca, você pode pesquisar um lead pelo seu nome ou pelo seu usuário (@).
 
-**Nº3–** Selecione **“Conectar conta”**.
+**Nº9–** Mais ao canto da tela, há a possibilidade de atualizar a caixa de entrada (),  aplicar tags a uma lista de leads selecionados () e também realizar algumas ações clicando no ícone de três pontinhos (), como, por exemplo, acessar as mensagens arquivadas ou filtrar conversas por atendente.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img09-3-300x144.png)
+Para mais informações sobre como administrar a sua Caixa de Entrada, [**clique aqui**](https://suporte.love/9458-2/).&#x20;
 
-**Nº4–** É muito importante **permitir o acesso** às suas mensagens do Instagram para poder fazer a autenticação na Máquina de Instagram mais tarde.
+![](https://suporte.love/wp-content/uploads/2022/12/img06-2-300x141.png)
 
-**Nº5–** Clique em **“Continuar”**.
+### **Aba Leads** <a href="#aba-leads" id="aba-leads"></a>
 
-![](https://suporte.love/wp-content/uploads/2022/12/img10-1-1-300x149.png)
+Em **“Leads”** você poderá consultar todos os leads capturados para a sua máquina com o status **“Ativo”** ou **“Unsub”**.
 
-**Nº6–** No pop-up que abrir, faça o login em sua conta do Instagram.&#x20;
+**Observação:** Para se descadastrar da lista de Instagram, o lead deve enviar uma das palavras: _Sair_, _Parar_ ou _Unsub_.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img11-1-1-300x288.png)
+![](https://suporte.love/wp-content/uploads/2022/12/img07-2-300x73.png)
 
-Assim que logar e for direcionado para essa página, a sua conta do Instagram já estará conectada à página do Facebook e você poderá [**autenticá-la na Máquina de Instagram**](broken-reference)!
+### **Aba Configurações** <a href="#configuracoes" id="configuracoes"></a>
 
-![](https://suporte.love/wp-content/uploads/2022/12/img12-300x148.png)
+Por fim, em **“Configurações”** é possível definir algumas configurações básicas da máquina, da captura e dos leads. Temos um artigo próprio explicando detalhadamente cada função, acesse-o [**clicando aqui**](https://suporte.love/maquina-de-instagram-configuracoes-basicas/).&#x20;
+
+![](https://suporte.love/wp-content/uploads/2022/12/img08-2-300x146.png)
 
 **Suporte**
 
 Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante este procedimento, por favor, **entre em contato com o nosso suporte**!
 
-**Artigos relacionados**
+**Artigos Relacionados**
 
-– Como [criar uma página](https://suporte.love/maquina-de-instagram-como-criar-uma-pagina-no-facebook/) no Facebook?\
-– Como [deixar uma conta do Instagram profissional](https://suporte.love/maquina-de-instagram-como-deixar-a-conta-do-instagram-profissional/)?\
-– Como permitir o [acesso a mensagens](https://suporte.love/maquina-de-instagram-como-permitir-o-acesso-a-mensagens-em-minha-conta-do-instagram/) no meu Instagram?&#x20;
+**–** Como\
+[criar mensagens](https://suporte.love/maquina-de-instagram-como-criar-mensagem/)\
+na Máquina de Instagram?\
+**–** Quais\
+[Configurações Básicas](https://suporte.love/maquina-de-instagram-configuracoes-basicas/)\
+devo fazer na Máquina de Instagram?
 
 🏁 **É isso, terminamos por aqui!**\
 com amor ❤\

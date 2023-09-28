@@ -1,119 +1,85 @@
-# Máquina de Instagram: Como criar uma página no Facebook?
+# Máquina de Instagram: Como conectar a página do Facebook ao perfil profissional do Instagram?
 
-**Objetivo:** Ensinar como deixar a conta do Instagram profissional.\
-**Para que serve:** Com um conta profissional no Instagram, é possível [conectá-la a uma página do Facebook](https://suporte.love/maquina-de-instagram-como-conectar-a-pagina-do-facebook-ao-perfil-profissional-do-instagram/) e fazer a sua [Máquina de Instagram](https://suporte.love/maquina-de-instagram-primeiros-passos/).\
-**Requisito Obrigatório: 1.** Ter uma conta no Instagram.&#x20;
+**Objetivo:** Ensinar como criar uma página no Facebook.\
+**Para que serve:** Com uma página criada no Facebook, é possível [conectá-la a uma conta profissional no Instagram](https://suporte.love/maquina-de-instagram-como-conectar-a-pagina-do-facebook-ao-perfil-profissional-do-instagram/) e fazer a sua [autenticação na Máquina de Instagram](https://suporte.love/maquina-de-instagram-como-criar-e-configurar-maquina/) mais tarde.\
+**Requisito obrigatório: 1.** Ter uma conta no Facebook.
 
 Este artigo abrange os seguintes tópicos:
 
-* [Como tornar uma conta do Instagram profissional no aplicativo?](broken-reference)
-* [Como tornar uma conta do Instagram profissional no navegador?](broken-reference)
+* [Como criar uma página no Facebook no aplicativo?](broken-reference)
+* [Como criar uma página no Facebook no navegador?](broken-reference)
 
-### **Como tornar uma conta do Instagram profissional no aplicativo** <a href="#no-aplicativo" id="no-aplicativo"></a>
+**Nº1–** No seu perfil do Facebook, clique sobre as três barras no canto superior direito.
 
-**Nº1–** Acesse o seu perfil do Instagram e clique nas três barras no canto superior direito.
+**Nº2–** Selecione a opção **“Páginas”**.
 
-**Nº2–** No menu que abrir, selecione **“Configurações”**.
+![](https://suporte.love/wp-content/uploads/2022/12/img01-1-150x300.jpeg)
 
-![](https://suporte.love/wp-content/uploads/2022/12/img01-2-143x300.jpeg)
+**Nº3–** Clique em **“Criar”**.
 
-**Nº3–** Na próxima etapa, clique em **“Conta”**.
+![](https://suporte.love/wp-content/uploads/2022/12/img02-1-143x300.jpeg)
 
-![](https://suporte.love/wp-content/uploads/2022/12/img02-2-143x300.jpeg)
+**Nº4–** Prossiga clicando em **“Começar”**.
 
-**Nº4–** Role até o final da tela e selecione a opção **“Mudar para conta profissional”**.
+![](https://suporte.love/wp-content/uploads/2022/12/img03-1-143x300.jpeg)
 
-![](https://suporte.love/wp-content/uploads/2022/12/img03-2-143x300.jpeg)
+**Nº5–** Defina o nome da sua página.
 
-**Nº5–** Clique em **“Continuar”** para prosseguir.
+**Nº6–** Avance para o próximo passo.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img04-1-143x300.jpeg)
+![](https://suporte.love/wp-content/uploads/2022/12/img05-1-155x300.jpeg)
 
-**Nº6–** Mais uma vez, prossiga para a próxima etapa.
+**Nº7–** Pesquise quais categorias melhor definem a sua página, você pode selecionar até três.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img05-2-143x300.jpeg)
+**Nº8–** Prossiga para a próxima etapa.
 
-**Nº7–** Selecione **“Continuar”** novamente.
+![](https://suporte.love/wp-content/uploads/2022/12/img06-1-153x300.jpeg)
 
-![](https://suporte.love/wp-content/uploads/2022/12/img06-2-143x300.jpeg)
+**Nº9–** Clique em **“Pular”** caso não queira preencher ou não tenha nenhuma página para cadastrar.
 
-**Nº8–** Conclua as explicações iniciais.
+**Nº10–** Se quiser inserir o link do seu site, preencha este campo.&#x20;
 
-![](https://suporte.love/wp-content/uploads/2022/12/img07-2-143x300.jpeg)
+**Nº11–** Avance para o último passo.
 
-**Nº9–** Ative esta opção caso queira que a categoria da sua conta fique visível em seu perfil.
+![](https://suporte.love/wp-content/uploads/2022/12/img07-1-154x300.jpeg)
 
-**Nº10–** Escolha dentre as categorias sugeridas ou pesquise a que deseja.
+**Nº12–** Adicione uma foto de capa à sua página.
 
-**Nº11–** Clique em **“Concluir”**.
+**Nº13–** Escolha também uma imagem de perfil.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img08-1-167x300.jpeg)
+**Nº14–** Clique em **“Concluir”**.
 
-**Nº12–** Nesta etapa, selecione a opção **“Empresa”**. A automação **somente** funciona com contas empresariais.
+![](https://suporte.love/wp-content/uploads/2022/12/img08-156x300.jpeg)
 
-**Nº13–** Clique em **“Avançar”**.
+Agora com a sua página já criada, basta [**tornar a sua conta do Instagram profissional**](https://suporte.love/maquina-de-instagram-como-deixar-a-conta-do-instagram-profissional/) e [**conectá-la ao Facebook**](https://suporte.love/maquina-de-instagram-como-conectar-a-pagina-do-facebook-ao-perfil-profissional-do-instagram/) para poder fazer a autenticação na Máquina de Instagram.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img09-161x300.jpeg)
+### **Como criar uma página no Facebook no navegador** <a href="#no-navegador" id="no-navegador"></a>
 
-**Nº14–** Se quiser que suas informações de contato sejam exibidas no perfil, ative aqui.
+**Nº1–** Acesse o seu Facebook e no menu da lateral esquerda clique em **“Páginas”**.
 
-**Nº15–** Opte se deseja **“Avançar”** ou apenas **“Não usar minhas informações de contato”**.
+![](https://suporte.love/wp-content/uploads/2022/12/img09-4-300x146.png)
 
-![](https://suporte.love/wp-content/uploads/2022/12/img10-168x300.jpeg)
+**Nº2–** Selecione a opção **“Criar nova Página”**.
 
-**Nº16–** Aqui clique em **“Pular”**. Ensinaremos em outro tutorial [**como conectar a sua conta do Instagram ao Facebook.**](https://suporte.love/maquina-de-instagram-como-conectar-a-pagina-do-facebook-ao-perfil-profissional-do-instagram/)
+![](https://suporte.love/wp-content/uploads/2022/12/img10-2-300x146.png)
 
-![](https://suporte.love/wp-content/uploads/2022/12/img11-140x300.jpeg)
+**Nº3–** Defina um nome para sua página.
 
-**Nº17–** Continue as configurações da sua página se quiser ou clique no **“X”** para concluir.
+**Nº4–** Pesquise uma categoria para ela, você pode adicionar até três.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img12-143x300.jpeg)
+**Nº5–** Escreva uma descrição, se quiser.
 
-E está feito! Agora que a sua conta do Instagram já é profissional, você pode [**criar uma página do Facebook**](https://suporte.love/maquina-de-instagram-como-criar-uma-pagina-no-facebook/) e então [**conectá-la ao Instagram**](https://suporte.love/maquina-de-instagram-como-conectar-a-pagina-do-facebook-ao-perfil-profissional-do-instagram/) para poder usar na Máquina de Instagram mais tarde.
+**Nº6–** Clique em **“Criar Página”**.
 
-### **Como tornar uma conta do Instagram profissional no navegador** <a href="#no-navegador" id="no-navegador"></a>
+![](https://suporte.love/wp-content/uploads/2022/12/img11-2-300x146.png)
 
-**Nº1–** Na página inicial do Instagram no navegador, clique na sua foto de perfil.
+**Nº7–** Quando a tela atualizar, adicione uma foto de perfil.
 
-**Nº2–** Vá até **“Configurações”**.
+**Nº8–** Salve a página depois que terminar as alterações.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img13-300x146.png)
+![](https://suporte.love/wp-content/uploads/2022/12/img12-1-300x146.png)
 
-**Nº3–** Na página que abrir, clique em **“Mudar para conta profissional”**.
-
-![](https://suporte.love/wp-content/uploads/2022/12/img14-300x146.png)
-
-**Nº4–** Escolha aqui a opção **“Comercial”**. A automação **somente** funcionará com contas desse tipo.
-
-**Nº5–** Clique em **“Avançar”**.
-
-![](https://suporte.love/wp-content/uploads/2022/12/img15-300x146.png)
-
-**Nº6–** Aqui prossiga para a próxima etapa.
-
-![](https://suporte.love/wp-content/uploads/2022/12/img16-300x146.png)
-
-**Nº7–** Ative esta opção caso queira que a categoria da sua conta fique visível no perfil.
-
-**Nº8–** Pesquise por uma categoria ou selecione dentre as disponíveis.
-
-**Nº9–** Clique em **“Concluir”**.
-
-![](https://suporte.love/wp-content/uploads/2022/12/img17-300x146.png)
-
-**Nº10–** Habilite esta opção caso queira mostrar as informações de contato no perfil.
-
-**Nº11–** Clique aqui se optar por não usar as suas informações de contato.
-
-**Nº12–** Ou salve para apenas prosseguir.
-
-![](https://suporte.love/wp-content/uploads/2022/12/img18-300x146.png)
-
-**Nº13–** Clique em **“Concluir”** para finalizar as configurações de sua conta profissional.
-
-![](https://suporte.love/wp-content/uploads/2022/12/img19-300x146.png)
-
-Prontinho! A sua conta do Instagram está como profissional e agora você já pode [**criar uma página do Facebook**](https://suporte.love/maquina-de-instagram-como-criar-uma-pagina-no-facebook/) e então [**conectá-la ao Instagram**](https://suporte.love/maquina-de-instagram-como-conectar-a-pagina-do-facebook-ao-perfil-profissional-do-instagram/) para poder usar na Máquina de Instagram mais tarde.
+Depois que criar a sua página, você pode [**tornar a sua conta do Instagram profissional**](https://suporte.love/maquina-de-instagram-como-deixar-a-conta-do-instagram-profissional/) e [**conectá-la ao Facebook**](https://suporte.love/maquina-de-instagram-como-conectar-a-pagina-do-facebook-ao-perfil-profissional-do-instagram/) para poder fazer a autenticação na Máquina de Instagram.
 
 **Suporte**
 
@@ -121,7 +87,7 @@ Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda duran
 
 **Artigos relacionados**
 
-– Como [criar uma página](https://suporte.love/maquina-de-instagram-como-criar-uma-pagina-no-facebook/) no Facebook?\
+– Como deixar [minha conta do Instagram profissional](https://suporte.love/maquina-de-instagram-como-deixar-a-conta-do-instagram-profissional/)?\
 – Como conectar a [minha página do Facebook a uma conta do Instagram](https://suporte.love/maquina-de-instagram-como-conectar-a-pagina-do-facebook-ao-perfil-profissional-do-instagram/)?\
 – Como [permitir o acesso a mensagens](https://suporte.love/maquina-de-instagram-como-permitir-o-acesso-a-mensagens-em-minha-conta-do-instagram/) no meu Instagram?
 

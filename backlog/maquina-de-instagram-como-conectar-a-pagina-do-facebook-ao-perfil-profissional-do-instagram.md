@@ -1,85 +1,71 @@
-# Máquina de Instagram: Como conectar a página do Facebook ao perfil profissional do Instagram?
+# Máquina de Instagram: Como criar e configurar máquina
 
-**Objetivo:** Ensinar como criar uma página no Facebook.\
-**Para que serve:** Com uma página criada no Facebook, é possível [conectá-la a uma conta profissional no Instagram](https://suporte.love/maquina-de-instagram-como-conectar-a-pagina-do-facebook-ao-perfil-profissional-do-instagram/) e fazer a sua [autenticação na Máquina de Instagram](https://suporte.love/maquina-de-instagram-como-criar-e-configurar-maquina/) mais tarde.\
-**Requisito obrigatório: 1.** Ter uma conta no Facebook.
+**Objetivo:** Ensinar como conectar uma página do Facebook ao perfil profissional do Instagram.\
+**Para que serve:** Fazendo a conexão entre a sua página do Facebook e o seu perfil profissional do Instagram, é possível autenticar a sua conta na Máquina de Instagram.\
+**Requisito obrigatório: 1.** Ter uma [conta profissional](https://suporte.love/maquina-de-instagram-como-deixar-a-conta-do-instagram-profissional/) no Instagram. **2.** Possuir uma [página no Facebook](https://suporte.love/maquina-de-instagram-como-criar-uma-pagina-no-facebook/).
 
 Este artigo abrange os seguintes tópicos:
 
-* [Como criar uma página no Facebook no aplicativo?](broken-reference)
-* [Como criar uma página no Facebook no navegador?](broken-reference)
+* [Como conectar a página do Facebook ao Instagram no aplicativo?](broken-reference)
+* [Como conectar a página do Facebook ao Instagram no navegador?](broken-reference)
 
-**Nº1–** No seu perfil do Facebook, clique sobre as três barras no canto superior direito.
+### **Como conectar a página do Facebook ao Instagram no aplicativo** <a href="#no-aplicativo" id="no-aplicativo"></a>
 
-**Nº2–** Selecione a opção **“Páginas”**.
+**Nº1–** Acesse a sua página no Facebook e clique na engrenagem no canto superior direito dela.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img01-1-150x300.jpeg)
+![](https://suporte.love/wp-content/uploads/2022/12/img01-143x300.jpeg)
 
-**Nº3–** Clique em **“Criar”**.
+**Nº2–** Clique em **“Instagram”**.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img02-1-143x300.jpeg)
+![](https://suporte.love/wp-content/uploads/2022/12/img02-143x300.jpeg)
 
-**Nº4–** Prossiga clicando em **“Começar”**.
+**Nº3–** Selecione **“Conectar conta”**.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img03-1-143x300.jpeg)
+![](https://suporte.love/wp-content/uploads/2022/12/img03-155x300.jpeg)
 
-**Nº5–** Defina o nome da sua página.
+**Nº4–** É muito importante manter esta opção **habilitada** para configurar a Máquina de Instagram mais tarde.
 
-**Nº6–** Avance para o próximo passo.
+**Nº5–** Clique em **“Confirmar”**.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img05-1-155x300.jpeg)
+![](https://suporte.love/wp-content/uploads/2022/12/img04-158x300.jpeg)
 
-**Nº7–** Pesquise quais categorias melhor definem a sua página, você pode selecionar até três.
+**Nº6–** Na próxima etapa, logue em sua conta do Instagram.
 
-**Nº8–** Prossiga para a próxima etapa.
+![](https://suporte.love/wp-content/uploads/2022/12/img05-143x300.jpeg)
 
-![](https://suporte.love/wp-content/uploads/2022/12/img06-1-153x300.jpeg)
+**Nº7–** Clique em **“Ok”** para prosseguir.
 
-**Nº9–** Clique em **“Pular”** caso não queira preencher ou não tenha nenhuma página para cadastrar.
+![](https://suporte.love/wp-content/uploads/2022/12/img06-155x300.jpeg)
 
-**Nº10–** Se quiser inserir o link do seu site, preencha este campo.&#x20;
+Prontinho! Na próxima tela aparecerá a confirmação que a conta foi conectada com sucesso e você já pode [**autenticá-la na Máquina de Instagram**](https://suporte.love/maquina-de-instagram-como-conectar-conta-do-instagram-a-leadlovers/).
 
-**Nº11–** Avance para o último passo.
+![](https://suporte.love/wp-content/uploads/2022/12/img07-143x300.jpeg)
 
-![](https://suporte.love/wp-content/uploads/2022/12/img07-1-154x300.jpeg)
+### **Como conectar a página do Facebook ao Instagram no navegador** <a href="#no-navegador" id="no-navegador"></a>
 
-**Nº12–** Adicione uma foto de capa à sua página.
+**Nº1–** Acesse a página do Facebook e no menu lateral esquerdo clique em **“Configurações”**.
 
-**Nº13–** Escolha também uma imagem de perfil.
+![](https://suporte.love/wp-content/uploads/2022/12/img08-4-300x148.png)
 
-**Nº14–** Clique em **“Concluir”**.
+**Nº2–** Na próxima página, clique em **“Instagram”**.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img08-156x300.jpeg)
+**Nº3–** Selecione **“Conectar conta”**.
 
-Agora com a sua página já criada, basta [**tornar a sua conta do Instagram profissional**](https://suporte.love/maquina-de-instagram-como-deixar-a-conta-do-instagram-profissional/) e [**conectá-la ao Facebook**](https://suporte.love/maquina-de-instagram-como-conectar-a-pagina-do-facebook-ao-perfil-profissional-do-instagram/) para poder fazer a autenticação na Máquina de Instagram.
+![](https://suporte.love/wp-content/uploads/2022/12/img09-3-300x144.png)
 
-### **Como criar uma página no Facebook no navegador** <a href="#no-navegador" id="no-navegador"></a>
+**Nº4–** É muito importante **permitir o acesso** às suas mensagens do Instagram para poder fazer a autenticação na Máquina de Instagram mais tarde.
 
-**Nº1–** Acesse o seu Facebook e no menu da lateral esquerda clique em **“Páginas”**.
+**Nº5–** Clique em **“Continuar”**.
 
-![](https://suporte.love/wp-content/uploads/2022/12/img09-4-300x146.png)
+![](https://suporte.love/wp-content/uploads/2022/12/img10-1-1-300x149.png)
 
-**Nº2–** Selecione a opção **“Criar nova Página”**.
+**Nº6–** No pop-up que abrir, faça o login em sua conta do Instagram.&#x20;
 
-![](https://suporte.love/wp-content/uploads/2022/12/img10-2-300x146.png)
+![](https://suporte.love/wp-content/uploads/2022/12/img11-1-1-300x288.png)
 
-**Nº3–** Defina um nome para sua página.
+Assim que logar e for direcionado para essa página, a sua conta do Instagram já estará conectada à página do Facebook e você poderá [**autenticá-la na Máquina de Instagram**](broken-reference)!
 
-**Nº4–** Pesquise uma categoria para ela, você pode adicionar até três.
-
-**Nº5–** Escreva uma descrição, se quiser.
-
-**Nº6–** Clique em **“Criar Página”**.
-
-![](https://suporte.love/wp-content/uploads/2022/12/img11-2-300x146.png)
-
-**Nº7–** Quando a tela atualizar, adicione uma foto de perfil.
-
-**Nº8–** Salve a página depois que terminar as alterações.
-
-![](https://suporte.love/wp-content/uploads/2022/12/img12-1-300x146.png)
-
-Depois que criar a sua página, você pode [**tornar a sua conta do Instagram profissional**](https://suporte.love/maquina-de-instagram-como-deixar-a-conta-do-instagram-profissional/) e [**conectá-la ao Facebook**](https://suporte.love/maquina-de-instagram-como-conectar-a-pagina-do-facebook-ao-perfil-profissional-do-instagram/) para poder fazer a autenticação na Máquina de Instagram.
+![](https://suporte.love/wp-content/uploads/2022/12/img12-300x148.png)
 
 **Suporte**
 
@@ -87,9 +73,9 @@ Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda duran
 
 **Artigos relacionados**
 
-– Como deixar [minha conta do Instagram profissional](https://suporte.love/maquina-de-instagram-como-deixar-a-conta-do-instagram-profissional/)?\
-– Como conectar a [minha página do Facebook a uma conta do Instagram](https://suporte.love/maquina-de-instagram-como-conectar-a-pagina-do-facebook-ao-perfil-profissional-do-instagram/)?\
-– Como [permitir o acesso a mensagens](https://suporte.love/maquina-de-instagram-como-permitir-o-acesso-a-mensagens-em-minha-conta-do-instagram/) no meu Instagram?
+– Como [criar uma página](https://suporte.love/maquina-de-instagram-como-criar-uma-pagina-no-facebook/) no Facebook?\
+– Como [deixar uma conta do Instagram profissional](https://suporte.love/maquina-de-instagram-como-deixar-a-conta-do-instagram-profissional/)?\
+– Como permitir o [acesso a mensagens](https://suporte.love/maquina-de-instagram-como-permitir-o-acesso-a-mensagens-em-minha-conta-do-instagram/) no meu Instagram?&#x20;
 
 🏁 **É isso, terminamos por aqui!**\
 com amor ❤\
