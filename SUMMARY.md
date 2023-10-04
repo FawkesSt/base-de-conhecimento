@@ -386,3 +386,8 @@
   * [O que é Double Opt-in / dupla confirmação ?](backlog/o-que-e-double-opt-in-dupla-confirmacao.md)
   * [Saiba a diferença entre Sequência, Broadcast e Campanhas](backlog/saiba-a-diferenca-entre-sequencia-broadcast-e-campanhas.md)
   * [Máquinas Públicas: Como criar/usar uma máquina pública](backlog/maquinas-publicas-como-criar-usar-uma-maquina-publica.md)
+  * [Cobrança Indevida](backlog/cobranca-indevida.md)
+  * [Como receber notificações por e-mail de novos leads capturados](backlog/como-receber-notificacoes-por-e-mail-de-novos-leads-capturados.md)
+  * [Cobrança após Cancelamento](backlog/cobranca-apos-cancelamento.md)
+  * [\[EDITORES ANTIGOS\] Blocos e Modelos Prontos: Como criar e configurar uma página de captura?](backlog/editores-antigos-blocos-e-modelos-prontos-como-criar-e-configurar-uma-pagina-de-captura.md)
+  * [Como fazer DNS de e-mail no Registro.br](backlog/como-fazer-dns-de-e-mail-no-registro.br.md)
