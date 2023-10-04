@@ -356,3 +356,6 @@
   * [Integração com o Stripe com Cursos (EAD)](backlog/integracao-com-o-stripe-com-cursos-ead.md)
   * [Como utilizar as Tags de E-mail](backlog/como-utilizar-as-tags-de-e-mail.md)
   * [Gatilho Condicional](backlog/gatilho-condicional.md)
+  * [Como configurar um funil Double Optin?](backlog/como-configurar-um-funil-double-optin.md)
+  * [Como funciona o Multiusuários?](backlog/como-funciona-o-multiusuarios.md)
+  * [Como excluir um lead da máquina ou da conta?](backlog/como-excluir-um-lead-da-maquina-ou-da-conta.md)
