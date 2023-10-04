@@ -379,3 +379,7 @@
   * [Como cadastrar um Domínio ou Subdomínio em uma Máquina ou Produto](backlog/como-cadastrar-um-dominio-ou-subdominio-em-uma-maquina-ou-produto.md)
   * [Como enviar um e-mail para quem não abriu/clicou no e-mail que enviei?](backlog/como-enviar-um-e-mail-para-quem-nao-abriu-clicou-no-e-mail-que-enviei.md)
   * [Onde encontrar HotLinks (link de afiliado) no Hotmart](backlog/onde-encontrar-hotlinks-link-de-afiliado-no-hotmart.md)
+  * [\[EDITORES ANTIGOS\] Como inserir vídeos nas páginas?](backlog/editores-antigos-como-inserir-videos-nas-paginas.md)
+  * [Componentes: Como criar e configurar uma página de captura](backlog/componentes-como-criar-e-configurar-uma-pagina-de-captura.md)
+  * [Componentes: Como criar e configurar uma página de recompensa](backlog/componentes-como-criar-e-configurar-uma-pagina-de-recompensa.md)
+  * [Como solicitar Cancelamento?](backlog/como-solicitar-cancelamento.md)
