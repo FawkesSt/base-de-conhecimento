@@ -383,3 +383,6 @@
   * [Componentes: Como criar e configurar uma página de captura](backlog/componentes-como-criar-e-configurar-uma-pagina-de-captura.md)
   * [Componentes: Como criar e configurar uma página de recompensa](backlog/componentes-como-criar-e-configurar-uma-pagina-de-recompensa.md)
   * [Como solicitar Cancelamento?](backlog/como-solicitar-cancelamento.md)
+  * [O que é Double Opt-in / dupla confirmação ?](backlog/o-que-e-double-opt-in-dupla-confirmacao.md)
+  * [Saiba a diferença entre Sequência, Broadcast e Campanhas](backlog/saiba-a-diferenca-entre-sequencia-broadcast-e-campanhas.md)
+  * [Máquinas Públicas: Como criar/usar uma máquina pública](backlog/maquinas-publicas-como-criar-usar-uma-maquina-publica.md)
