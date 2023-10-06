@@ -65,7 +65,7 @@ Nº5– Caso apareça a mensagem: _Essa URL não foi compartilhada no Facebook a
 
 Nº6– O Facebook vai processar a URL com as informações de SEO que você configurou. Caso elas não estejam atualizadas, selecione a opção **“**Extrair novamente”.
 
-![📢](https://s.w.org/images/core/emoji/13.0.0/svg/1f4e2.svg) **IMPORTANTE:**\
+&#x20;**IMPORTANTE:**\
 
 
 **–** O Facebook pode levar um tempo para mostrar as atualizações em seu SEO, portanto, pode ser necessário realizar várias tentativas de **“Extrair novamente”**. Se necessário, aguarde um pouco e tente novamente mais tarde.
