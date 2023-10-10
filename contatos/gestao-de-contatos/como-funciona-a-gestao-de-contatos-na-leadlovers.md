@@ -5,11 +5,11 @@
 
 Este artigo aborda os seguintes tópicos:
 
-* [O que são contatos?](broken-reference)
-* [Adicionando contatos no sistema](broken-reference)
-* [Importar lista](broken-reference)
-* [Capturar novos contatos](broken-reference)
-* [Cadastrar manualmente](broken-reference)
+* [O que são contatos?](como-funciona-a-gestao-de-contatos-na-leadlovers.md#o-que-sao-contatos)
+* [Adicionando contatos no sistema](como-funciona-a-gestao-de-contatos-na-leadlovers.md#adicionando-contatos)
+* [Importar lista](como-funciona-a-gestao-de-contatos-na-leadlovers.md#importar-lista)
+* [Capturar novos contatos](como-funciona-a-gestao-de-contatos-na-leadlovers.md#capturar-novos-contatos)
+* [Cadastrar manualmente](como-funciona-a-gestao-de-contatos-na-leadlovers.md#cadastrar-manualmente)
 
 ### **O que são contatos?** <a href="#o-que-sao-contatos" id="o-que-sao-contatos"></a>
 
@@ -17,13 +17,12 @@ Lista de contatos é basicamente um mapeamento dos potenciais clientes para o se
 
 Aqui na leadlovers, é possível adicionar os seus contatos no sistema de algumas formas:
 
-– importação de arquivos
 
-– página de captura
 
-– Por formulário de captura
-
-– Cadastro manual.
+* importação de arquivos
+* página de captura&#x20;
+* Por formulário de captura
+* Cadastro manual.
 
 ### **Adicionando contatos no sistema** <a href="#adicionando-contatos" id="adicionando-contatos"></a>
 
@@ -41,7 +40,7 @@ Aqui na leadlovers, é possível adicionar os seus contatos no sistema de alguma
 
 #### **Importando lista** <a href="#importar-lista" id="importar-lista"></a>
 
-Clicando em **Importar lista**, você será direcionado para a tela de Importação. É necessário já ter uma lista de contatos em um arquivo **.csv ou .txt**, depois basta clicar no botão de **+** localizado no canto inferior direito para fazer o seu upload na leadlovers. Para mais orientações, [consulte este material](https://suporte.love/como-importar-lista-no-importador-avancado/).&#x20;
+Clicando em **Importar lista**, você será direcionado para a tela de Importação. É necessário já ter uma lista de contatos em um arquivo **.csv ou .txt**, depois basta clicar no botão de **+** localizado no canto inferior direito para fazer o seu upload na leadlovers. Para mais orientações, [consulte este material. ](../importar-contatos.md)
 
 #### **Capturar novos contatos** <a href="#capturar-novos-contatos" id="capturar-novos-contatos"></a>
 
@@ -49,7 +48,11 @@ Nesta opção, abrirá um pop-up na tela com a seleção de máquinas disponíve
 
 #### **Cadastrar manualmente** <a href="#cadastrar-manualmente" id="cadastrar-manualmente"></a>
 
-Selecionando essa alternativa, o sistema te levará diretamente para a tela de cadastro de contatos. Basta preencher as informações solicitadas e clicar em **Salvar**. Para ver mais detalhes sobre o preenchimento das informações, [clique aqui](https://suporte.love/como-funcionam-os-contatos-na-leadlovers-versao-4-0/).
+Selecionando essa alternativa, o sistema te levará diretamente para a tela de cadastro de contatos. Basta preencher as informações solicitadas e clicar em **Salvar**. Para ver mais detalhes sobre o preenchimento das informações, [clique aqui.](../importar-contatos/como-cadastrar-um-lead-manualmente.md)
+
+
+
+
 
 **Suporte**
 
