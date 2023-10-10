@@ -237,11 +237,11 @@ Prontinho!
 
 após isso sua automação estará ativa na leadlovers.
 
-[https://www.youtube.com/watch?v=px8tmnbtmaQ](https://www.youtube.com/watch?v=px8tmnbtmaQ)
+[https://www.youtube.com/watch?v=-klywB9YDD4](https://www.youtube.com/watch?v=-klywB9YDD4)&#x20;
 
 **Assuntos Relacionados:** \
-– [Como criar templates de mensagem ](https://suporte.love/como-criar-uma-sequencia-de-mensagem-na-maquina-de-whatsapp/)\
-– [Como funcionam os gatilhos da máquina de whatsapp](https://suporte.love/como-funcionam-os-gatilhos-na-maquina-de-whatsapp/)
+[– Como criar templates de mensagem \
+](maquina-de-whatsapp-como-criar-uma-sequencia-de-mensagem.md)[– Como funcionam os gatilhos da máquina de whatsapp](maquina-de-whatsapp-como-funcionam-os-gatilhos.md)
 
 **Suporte**
 
