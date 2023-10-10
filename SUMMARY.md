@@ -7,6 +7,7 @@
 * [Máquinas](automacoes/maquinas/README.md)
   * [Máquina de Email](automacoes/maquinas/maquina-de-email/README.md)
     * [Como criar um funil e sequência de e-mails](automacoes/maquinas/maquina-de-email/como-criar-um-funil-e-sequencia-de-e-mails.md)
+    * [O que são e como funcionam os Gatilhos de E-mail](automacoes/maquinas/maquina-de-email/o-que-sao-e-como-funcionam-os-gatilhos-de-e-mail.md)
   * [Máquina de WhatsApp](automacoes/maquinas/maquina-de-whatsapp/README.md)
     * [Tudo sobre a Máquina WhatsApp](automacoes/maquinas/maquina-de-whatsapp/tudo-sobre-a-maquina-whatsapp.md)
     * [Máquina de WhatsApp: Como Autenticar utilizando a Api Official](automacoes/maquinas/maquina-de-whatsapp/maquina-de-whatsapp-como-autenticar-utilizando-a-api-official.md)

@@ -4,7 +4,13 @@ Objetivo: Ensinar como configurar uma campanha na sua conta. Para que serve: Faz
 
 ### O que é o Disparo único de campanhas? <a href="#o-que-e" id="o-que-e"></a>
 
-As Campanhas são disparos únicos realizados para todos os leads da sua conta, sem a necessidade de filtrar uma máquina. Entretanto, existem diversos filtros que podem ser realizados para direcionar esses envios, como por exemplo, enviar um e-mail para leads que estão em determinada máquina ou funil, que possui uma tag ou leadscore específico, entre diversos outros que podem criar um envio mais seletivo. Se quiser entender melhor a diferença entre **Sequência de E-mails**, **Broadcast** e **Campanhas**, pode consultar [este artigo](https://suporte.love/saiba-a-diferenca-entre-sequencia-broadcast-e-campanhas/). Neste tutorial, te ensinaremos a criar uma campanha, filtrar os leads e também a consultar todas as informações disponibilizadas depois que os e-mails são agendados ou enviados.
+As Campanhas são disparos únicos realizados para todos os leads da sua conta, sem a necessidade de filtrar uma máquina. Entretanto, existem diversos filtros que podem ser realizados para direcionar esses envios, como por exemplo, enviar um e-mail para leads que estão em determinada máquina ou funil, que possui uma tag ou leadscore específico, entre diversos outros que podem criar um envio mais seletivo. Se quiser entender melhor a diferença entre **Sequência de E-mails**, **Broadcast** e **Campanhas**, pode consultar [este artigo. ](../../../backlog/saiba-a-diferenca-entre-sequencia-broadcast-e-campanhas.md)
+
+[saiba-a-diferenca-entre-sequencia-broadcast-e-campanhas.md](../../../backlog/saiba-a-diferenca-entre-sequencia-broadcast-e-campanhas.md "mention")
+
+
+
+Neste tutorial, te ensinaremos a criar uma campanha, filtrar os leads e também a consultar todas as informações disponibilizadas depois que os e-mails são agendados ou enviados.
 
 ### Como acessar a área de Campanhas <a href="#menu-campanhas" id="menu-campanhas"></a>
 
@@ -74,7 +80,7 @@ Nº10– Ao ativar a opção “Habilitar compromisso”, é possível criar um 
 
 <figure><img src="https://legado.leadlovers.site/wp-content/uploads/2017/05/img11.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Nº11– Aqui você pode ativar o teste A/B. Caso queira saber mais sobre como configurar esta funcionalidade, consulte [este material](https://suporte.love/teste-ab-broadcasts-e-campanhas/).
+Nº11– Aqui você pode ativar o teste A/B. Caso queira saber mais sobre como configurar esta funcionalidade, consulte [este material](../../../backlog/como-fazer-um-teste-ab-em-broadcasts-e-campanhas.md).
 
 &#x20;&#x20;
 
@@ -84,7 +90,9 @@ Nº12– Por fim, em “Análise de conteúdo” aparecerão palavras que podem 
 
 <figure><img src="https://legado.leadlovers.site/wp-content/uploads/2017/05/img13.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Assim que finalizar o seu e-mail, você poderá “Agendar” caso queira que o mesmo seja enviado em um momento específico no futuro ou “Enviar agora” se quiser fazer o disparo imediatamente. Observação: a campanha que for agendada só será disparada se estiver ativa. É possível ativá-la depois que salvar o conteúdo do e-mail, para isso basta clicar no interruptor que fica no canto esquerdo de sua miniatura.
+Assim que finalizar o seu e-mail, você poderá “Agendar” caso queira que o mesmo seja enviado em um momento específico no futuro ou “Enviar agora” se quiser fazer o disparo imediatamente.&#x20;
+
+Observação: a campanha que for agendada só será disparada se estiver ativa. É possível ativá-la depois que salvar o conteúdo do e-mail, para isso basta clicar no interruptor que fica no canto esquerdo de sua miniatura.
 
 &#x20;
 
@@ -100,7 +108,7 @@ Caso a campanha seja agendada, é possível realizar as seguintes ações clican
 * Remover: exclui a campanha da sua conta.
 * Copiar campanha: copia a campanha e a deixa inativa na aba “Agendados”.
 * Consultar Filtros: mostra os filtros de leads que foram feitos.
-* Gatilhos: cria um gatilho de clique ou abertura. Se quiser saber mais sobre como fazer essa configuração, consulte [este material](https://suporte.love/gatilhos-de-e-mail/).
+* Gatilhos: cria um gatilho de clique ou abertura. Se quiser saber mais sobre como fazer essa configuração, consulte [este material.](../../maquinas/maquina-de-email/o-que-sao-e-como-funcionam-os-gatilhos-de-e-mail.md)
 * Configurações: exibe todas as configurações do seu e-mail para visualizar ou editar.
 * Testar Envio: realiza um teste de envio.
 * Preview: apresenta um preview do seu e-mail.
@@ -115,7 +123,7 @@ Após a campanha ser enviada, aparecerão em tela as taxas de _abertura_, _cliqu
 * Detalhes: apresenta todas as métricas da campanha detalhadamente.
 * Remover: exclui a sua campanha enviada (isso não reverte a ação de envio para os leads).
 * Consultar filtros: mostra os filtros de leads que foram feitos.
-* Gatilhos: cria um gatilho de clique ou abertura. Se quiser saber mais sobre como fazer essa configuração, consulte [este material](https://suporte.love/gatilhos-de-e-mail/).
+* Gatilhos: cria um gatilho de clique ou abertura. Se quiser saber mais sobre como fazer essa configuração, consulte [este material.](../../maquinas/maquina-de-email/o-que-sao-e-como-funcionam-os-gatilhos-de-e-mail.md)
 * Copiar: copia a campanha e a deixa inativa na aba “Agendados”.
 
 <figure><img src="https://legado.leadlovers.site/wp-content/uploads/2017/05/img15.png" alt="" width="188"><figcaption></figcaption></figure>
