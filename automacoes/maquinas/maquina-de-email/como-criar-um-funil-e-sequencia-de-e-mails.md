@@ -58,7 +58,7 @@ Uma nova janela se abrirá, e você deve escolher entre criar a nova mensagem ut
 
 ### **Como criar/editar um e-mail** <a href="#criar-mensagem" id="criar-mensagem"></a>
 
-[![](https://legado.leadlovers.site/wp-content/uploads/2020/09/como-criar-um-funil-e-sequncia-de-e-mails\_-360037354393\_mceclip3.png)](https://legado.leadlovers.site/wp-content/uploads/2020/09/como-criar-um-funil-e-sequncia-de-e-mails\_-360037354393\_mceclip3.png)
+[<img src="https://legado.leadlovers.site/wp-content/uploads/2020/09/como-criar-um-funil-e-sequncia-de-e-mails_-360037354393_mceclip3.png" alt="" data-size="original">](https://legado.leadlovers.site/wp-content/uploads/2020/09/como-criar-um-funil-e-sequncia-de-e-mails\_-360037354393\_mceclip3.png)
 
 **N 0 –** Ferramenta de edição de texto : Negrito e Itálico.
 
@@ -66,7 +66,7 @@ Uma nova janela se abrirá, e você deve escolher entre criar a nova mensagem ut
 
 **N 2-** Incluir links das máquinas criadas dentro do leadlovers.
 
-**N 3-** Incluir link inteligente. [**Saiba mais!**](https://suporte.love/como-criar-um-link-inteligente/)
+**N 3-** Incluir link inteligente, saiba mais [clicando aqui](../../../backlog/link-com-acoes-automatizadas-como-criar-e-utilizar.md).
 
 **N 4-** Envio teste do e-mail.
 
@@ -122,11 +122,11 @@ Nessa tela é possível alterar a conta que fará o envio e a prévia do e-mail 
 
 **N 25 –** Função Ignorar e-mail**:** Ignorar esse e-mail fará com que os leads nesse nível não recebam o e-mail e sejam enviados para o próximo e-mail ativo do funil.
 
-**N 26 –** Envio inteligente : O sistema irá fazer o envio com as contas de e-mail que têm mais chances de serem abertas pelos seus leads. [**Saiba mais!**](https://suporte.love/envio-inteligente/)
+**N 26 –** Envio inteligente : O sistema irá fazer o envio com as contas de e-mail que têm mais chances de serem abertas pelos seus leads. Clique aqui e [**Saiba mais**](../../../backlog/como-funcionam-as-funcoes-aprender-com-envio-e-envio-inteligente.md)**!**
 
 [![](https://legado.leadlovers.site/wp-content/uploads/2020/09/como-criar-um-funil-e-sequncia-de-e-mails\_-360037354393\_mceclip6.png)](https://legado.leadlovers.site/wp-content/uploads/2020/09/como-criar-um-funil-e-sequncia-de-e-mails\_-360037354393\_mceclip6.png)
 
-**N 27** – Aprender com envio: O sistema irá monitorar os envios para identificar as aberturas de emails e com isso aprender qual conta de envio cada lead está mais propenso a abrir. [**Saiba mais!**](https://suporte.love/envio-inteligente/)
+**N 27** – Aprender com envio: O sistema irá monitorar os envios para identificar as aberturas de emails e com isso aprender qual conta de envio cada lead está mais propenso a abrir. [**Saiba mais**](../../../backlog/como-funcionam-as-funcoes-aprender-com-envio-e-envio-inteligente.md)**!**
 
 **N 28 –** Rastrear leads: Concatena um parâmetro “d=” em todos os links enviados pelo e-mail\
 (Habilite esta opção somente se estiver usando uma página segura do leadlovers para captura)
@@ -141,7 +141,7 @@ Nessa tela é possível alterar a conta que fará o envio e a prévia do e-mail 
 
 **N 31 –** Enviar após : Determina um tempo para enviar o e-mail após o anterior.
 
-**N 32 –** Data Fixa : Determina uma data fixa para envio de e-mail. [**Saiba mais!**](https://suporte.love/data-fixa-para-envio-de-email/)
+**N 32 –** Data Fixa : Determina uma data fixa para envio de e-mail.[ **Saiba mais**](../../../backlog/como-enviar-um-e-mail-com-data-fixa.md)[como-enviar-um-e-mail-com-data-fixa.md](../../../backlog/como-enviar-um-e-mail-com-data-fixa.md "mention")**!**
 
 **N 33 –** Intervalo de horas : Determina o período/intervalo de horas do dia, em que o e-mail pode ser enviado.
 
@@ -155,3 +155,10 @@ N 35 – Aba anexo , para incluir anexos no corpo do e-mail.
 
 Pronto, agora o e-mail já estará criado em seu funil/sequência.
 
+
+
+
+
+&#x20;**É isso, terminamos por aqui!**\
+com amor \
+equipe **leadlovers™**
