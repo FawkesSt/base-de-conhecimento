@@ -15,6 +15,10 @@ Quais provedores o e-mail foi entregue na **Caixa de Entrada**, Quais provedores
 
 📢 Para realizar os testes é preciso ter **créditos de testes de e-mail** devido ao alto custo da ferramenta que realiza os testes. Você pode adquirir pacotes de **50**, **100** ou **500** créditos [**clicando aqui**](https://leadlovers.com/upgrade).
 
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
+
 ### Criando o Relatório de Entrega
 
 Como mencionamos acima, o teste do relatório de entrega pode ser feito em Disparos únicos ou em sequência. Logo abaixo mostraremos passo a passo de como fazer de ambas as formas.

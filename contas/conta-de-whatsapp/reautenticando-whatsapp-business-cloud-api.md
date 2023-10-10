@@ -67,7 +67,7 @@ Caso você deseje melhorar a entregabilidade do e-mail, entenda alguns critério
 * Conter pontuação, como reticências (…) ou exclamações (!) em excesso;
 * Contar muitas palavras ou frases em MAIÚSCULO. Neste caso, sugerimos que sejam utilizados o _itálico,_ **negrito** ou sublinhado para destaque.
 * Conter palavras com teor promocional como : Descontos, compre agora, vendas, promoção, grátis, dinheiro e sinônimos;
-* Não ter as chaves de autenticação que os provedores de e-mail julgam importantes ( [DKIM, SPF, MX e DMARC);](https://suporte.love/dns-de-e-mail/)
+* Não ter as chaves de autenticação que os provedores de e-mail julgam importantes ( [DKIM, SPF, MX e DMARC);](../../dns-e-dominios/dns-de-email/)
 * Quando o domínio do seu e-mail está em alguma **blacklist** (caso seja um e-mail de domínio próprio);
 * Se o lead marcou seu e-mail de disparos como **Spam**;
 * Se o lead já reportou algum e-mail de uma pessoa qualquer como **Spam**;

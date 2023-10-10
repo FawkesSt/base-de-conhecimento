@@ -178,7 +178,7 @@
   * [Contas de e-mail: O que é Reputação do E-mail?](backlog/contas-de-e-mail-o-que-e-reputacao-do-e-mail.md)
   * [Como realizar Teste AB em páginas](backlog/como-realizar-teste-ab-em-paginas.md)
   * [Como reordenar a listagem de leads na máquina?](backlog/como-reordenar-a-listagem-de-leads-na-maquina.md)
-  * [Como funciona as movimentações de leads dentro da leadlovers](backlog/como-funciona-as-movimentacoes-de-leads-dentro-da-leadlovers.md)
+  * [Copy of Como funciona as movimentações de leads dentro da leadlovers](backlog/copy-of-como-funciona-as-movimentacoes-de-leads-dentro-da-leadlovers.md)
   * [Como personalizar página de Unsub](backlog/como-personalizar-pagina-de-unsub.md)
   * [O que são contas de envio na leadlovers](backlog/o-que-sao-contas-de-envio-na-leadlovers.md)
   * [copymaker: Perguntas Frequentes (FAQ)](backlog/copymaker-perguntas-frequentes-faq.md)

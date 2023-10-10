@@ -1,4 +1,4 @@
-# Como funciona as movimentações de leads dentro da leadlovers
+# Copy of Como funciona as movimentações de leads dentro da leadlovers
 
 **Objetivo:** Esse artigo tem o intuito de te mostrar algumas das possibilidades de movimentação de leads que você tem dentro da sua conta leadlovers.\
 **Para que serve:** Validar as formas existentes de mover um lead e simplificar os processos de segmentação de leads.\
