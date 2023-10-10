@@ -5,19 +5,15 @@
 
 Existe alguns _**pontos que precisam ser verificados**_, geralmente esses são os causadores do sumiço dos leads em sua conta.
 
-[**GATILHOS | MOVIMENTAÇÕES**](broken-reference)
 
-[**LEADS COM OUTROS STATUS**](broken-reference)
 
-[**LIMITE DO PLANO**](broken-reference)
-
-[**COMPRA DO PLANO EXTRA COM EMAIL ERRADO**](broken-reference)
-
-[**PLANO EM ATRASO**](broken-reference)
-
-[**FORA DA SEQUÊNCIA DO FUNIL**](broken-reference)
-
-[**FIM DO FUNIL**](broken-reference)
+* [Gatilhos ou movimentações de leads](meus-leads-sumiram-o-que-fazer.md#gatilhos)
+* [Leads com outros Status - Desativados](meus-leads-sumiram-o-que-fazer.md#status)
+* [Limite do Plano](meus-leads-sumiram-o-que-fazer.md#plano-extra)
+* [Plano em atraso](meus-leads-sumiram-o-que-fazer.md#atrasado)&#x20;
+* [Leads fora de sequência ](meus-leads-sumiram-o-que-fazer.md#fora-sequencia)
+* [Leads no final do funil](meus-leads-sumiram-o-que-fazer.md#final-funil)
+* &#x20;[Compra de plano extra com email diferente](meus-leads-sumiram-o-que-fazer.md#plano-extra)
 
 ### **GATILHOS | MOVIMENTAÇÕES**  <a href="#gatilhos" id="gatilhos"></a>
 
@@ -46,16 +42,16 @@ _Segue exemplo :_
 
 Na leadlovers, por padrão, na **área de leads** os leads aparecerão pelo **status ATIVO.**\
 Existem outros status e através de um filtro é possível localizar os leads que estão nessa condição.\
-Atualmente em nossa ferramenta existem **10 status diferentes**, confira o que cada um significa [**nesses artigo.**](https://suporte.love/como-filtrar-leads-por-status/)
+Atualmente em nossa ferramenta existem **10 status diferentes**, confira o que cada um significa [**nesses artigo.**](../../backlog/como-filtrar-leads-por-status.md)
 
-[_**Caso queira, você também poderá remover os leads de acordo com o Status.**_](https://help.leadlovers.com/hc/pt-br/articles/360031766333-Como-excluir-leads-por-Status)
+_**Caso queira, você também poderá remover os**_[ _**leads de acordo com o Status.**_](../../backlog/como-filtrar-leads-por-status.md)
 
 #### **LIMITE DO PLANO**  <a href="#limite-plano" id="limite-plano"></a>
 
 O plano da leadlovers possui o **espaço para 5 mil leads**. Ao exceder esse limite os leads **capturados** continuarão entrando na leadlovers, porém ficarão armazenados em um status chamado “Limite do plano”.\
 Enquanto estiver nesse status não é possível fazer ações com esses leads, como movimentá-los ou disparos e-mails à eles.
 
-Para ativar os leads que estão no “limite de conta” é preciso fazer uma [**limpeza de lista**](https://suporte.love/limpeza-de-lista-de-leads/) ou contratar um [**plano extra**](https://leadlovers.app/v4/upgrade).
+Para ativar os leads que estão no “limite de conta” é preciso fazer uma[ **limpeza de lista**](como-realizar-a-limpeza-de-lista-de-leads.md) ou contratar um [**plano extra**](https://leadlovers.app/v4/upgrade).
 
 #### **COMPRA DO PLANO EXTRA COM EMAIL ERRADO** <a href="#plano-extra" id="plano-extra"></a>
 
@@ -88,9 +84,9 @@ Para verificar se isso ocorreu com você, dentro da **máquina na aba leads,** v
 
 [![](https://legado.leadlovers.site/wp-content/uploads/2020/09/meus-leads-sumiram-o-que-fazer-\_-360042242073\_mceclip3.png)](http://legado.leadlovers.site/wp-content/uploads/2020/09/meus-leads-sumiram-o-que-fazer-\_-360042242073\_mceclip3.png)
 
-De acordo com a imagem acima, no campo **todos os níveis** você consegue selecionar o nível **“Fora da sequência”.**
+De acordo com a imagem acima, no campo **todos os níveis** você consegue selecionar o nível [**“Fora da sequência”.**](meus-leads-sumiram-o-que-fazer.md#fora-sequencia)[#fora-sequencia](meus-leads-sumiram-o-que-fazer.md#fora-sequencia "mention")
 
-Assim, é possível selecionar os leads e [movimentá-los ao e-mail](https://suporte.love/lead-fora-de-sequencia/) conforme sua estratégia.
+Assim, é possível selecionar os leads e movimentá-los ao e-mail conforme sua estratégia.
 
 #### **FIM DO FUNIL** <a href="#final-funil" id="final-funil"></a>
 
