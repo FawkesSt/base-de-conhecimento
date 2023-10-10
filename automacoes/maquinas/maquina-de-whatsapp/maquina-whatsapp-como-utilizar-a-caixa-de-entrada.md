@@ -89,5 +89,5 @@ também realizar algumas ações com os leads dentro de uma janela de conversa.
 ![](https://suporte.love/wp-content/uploads/2023/05/2023-05-17\_17-35-22.jpg)
 
 **10-**  E para contas que utilizam a API OFICIAL, é possível enviar mensagens via templates.\
-Se tem dúvidas qual a diferença entre as autenticações, [clique aqui. ](https://suporte.love/indice-maquina-whatsapp/)
+Se tem dúvidas qual a diferença entre as autenticações, [clique aqui.](tudo-sobre-a-maquina-whatsapp.md)&#x20;
 
