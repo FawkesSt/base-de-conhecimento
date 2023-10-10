@@ -112,5 +112,5 @@ Deve ser realizada o quanto antes uma ação direta de vendas, como o envio para
 
 Nesse momento, é importante quebrar as objeções que o cliente ainda possa ter, por meio de um contato mais próximo.
 
-Um **CRM para acompanhamento do processo de vendas,** pode ajudar nesse caso. [**Conheça o Pipeline.** ](https://suporte.love/o-que-e-o-pipeline/)
+Um **CRM para acompanhamento do processo de vendas,** pode ajudar nesse caso. [**Conheça o Pipeline.** ](../../crm/configuracoes-iniciais/como-funciona-o-crm-da-leadlovers.md)
 

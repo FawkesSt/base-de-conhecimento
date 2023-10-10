@@ -9,9 +9,9 @@ funcional com uma rotina de envios de e-mails.
 
 Este artigo abrange os seguintes tópicos:
 
-* [Acessando a Limpeza de Lista](broken-reference)
-* [Solicitando uma Limpeza](broken-reference)
-* [Perguntas Frequentes](broken-reference)
+* [Acessando a Limpeza de Lista](como-realizar-a-limpeza-de-lista-de-leads.md#h\_01fxjbks1vh6k98svt550b3k7b)
+* [Solicitando uma Limpeza](como-realizar-a-limpeza-de-lista-de-leads.md#h\_01fxjbkx0db8qxqzd12mdmkn2v)
+* [Perguntas Frequentes](como-realizar-a-limpeza-de-lista-de-leads.md#h\_01fxjbm3580h85b52nvm4qm1v3)
 
 ### **Acessando a Limpeza de Lista** <a href="#h_01fxjbks1vh6k98svt550b3k7b" id="h_01fxjbks1vh6k98svt550b3k7b"></a>
 
@@ -229,6 +229,10 @@ diante os provedores de e-mail.
 Por esse motivo, é preciso criar uma estratégia de aquecimento antes de\
 importa-los novamente.  Isso também consiste em criar um plano de ação\
 para evitar danificar o engajamento dos seus e-mails.
+
+
+
+
 
 **Suporte**
 
