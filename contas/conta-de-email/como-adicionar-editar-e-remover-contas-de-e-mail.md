@@ -12,9 +12,9 @@ ou seja, uma conta que exista e que esteja enviando e recebendo e-mails.
 
 Este artigo abrange os seguintes tópicos:
 
-* [Como cadastrar um novo e-mail](broken-reference)
-* [Editar informações de uma conta de e-mail ](broken-reference)
-* [Como excluir uma conta de e-mail](broken-reference)
+* [Como cadastrar um novo e-mail](como-adicionar-editar-e-remover-contas-de-e-mail.md#como-cadastrar-um-novo-e-mail)
+* [Editar informações de uma conta de e-mail ](como-adicionar-editar-e-remover-contas-de-e-mail.md#h\_079bbeb9-edba-4bac-8378-96f50f1a5b05)
+* [Como excluir uma conta de e-mail](como-adicionar-editar-e-remover-contas-de-e-mail.md#h\_fcd42b5e-36e7-4ef2-83fd-8fc3135644e0)
 
 ### **Como Cadastrar um novo E-mail**
 
@@ -54,8 +54,6 @@ a indicação de status da conta e depois clicar em **Reenviar Link.**
 
 **Obs:** Note que mesmo pendente de ativação é possível ter acesso a **área de DNS de e-mail**.
 
-Para realizar essas configurações, [**acesse esse tutorial**.](https://suporte.love/dns-de-e-mail/)
-
 ### **Como editar as informações de uma conta de e-mail** <a href="#h_079bbeb9-edba-4bac-8378-96f50f1a5b05" id="h_079bbeb9-edba-4bac-8378-96f50f1a5b05"></a>
 
 Na tela de contas de e-mail, siga esses passos:
@@ -79,7 +77,7 @@ Na tela de contas de e-mail, siga esses passos:
 **Artigos Relacionados:**
 
 * [índice de Dns de e-mail](https://suporte.love/dns-de-e-mail/)
-* [O que é reputação da conta do e-mail](https://suporte.love/contas-de-e-mail-o-que-e-reputacao-do-e-mail/)
+* [O que é reputação da conta do e-mail](../../backlog/contas-de-e-mail-o-que-e-reputacao-do-e-mail.md)
 
 **Suporte**
 

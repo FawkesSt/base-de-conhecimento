@@ -57,9 +57,9 @@ Agora que você conseguiu localizar o seu domínio, sabe em qual Painel de Contr
 
 **Artigos Sugeridos**
 
-– Se você caiu aleatoriamente aqui e não sabe o que é um domínio e nem como pode usá-lo dentro do nosso sistema, veja primeiro este artigo: [o que é um domínio](https://suporte.love/o-que-e-um-dominio/).
+– Se você caiu aleatoriamente aqui e não sabe o que é um domínio e nem como pode usá-lo dentro do nosso sistema, veja primeiro este artigo: [o que é um domínio](../backlog/o-que-e-um-dominio.md).
 
-– Confira os nossos tutoriais de como fazer os apontamentos de [domínio](https://suporte.love/o-que-e-um-dominio/), ou [subdomínio](https://suporte.love/o-que-e-um-subdominio/).
+– Confira os nossos tutoriais de como fazer os apontamentos de [domínio](apontamento-de-dominio/), ou [subdomínio](../backlog/como-apontar-subdominio-no-registro.br.md).
 
-– Aprenda como realizar as configurações de [DNS de E-mail](https://suporte.love/dns-de-e-mail/).
+– Aprenda como realizar as configurações de [DNS de E-mail.](dns-de-email/)
 
