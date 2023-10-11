@@ -30,13 +30,9 @@ Caso seja seu primeiro acesso, acessando a máquina o sistema mostrará duas op�
 
 Para seguir com a importação, **selecione a primeira opção.**
 
-```
-Caso não seja seu primeiro acesso, você pode encontrar o importador em nosso menu
-```
 
-```
-superior em: Ferramentas > Gestão de contatos > Importador de Contatos
-```
+
+Caso não seja seu primeiro acesso, você pode encontrar o importador em nosso menu superior em: Ferramentas > Gestão de contatos > Importador de Contatos
 
 ![](https://suporte.love/wp-content/uploads/2023/04/2023-04-26\_17-13-13.jpg)
 
@@ -112,8 +108,10 @@ Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda duran
 
 **Artigos Relacionados**
 
-– Como formatar o arquivo para [importação em .csv](https://suporte.love/regras-importacao-csv/)?\
-– Como formatar o arquivo para [importação em .txt](https://suporte.love/regras-importacao-txt/)?
+– Como formatar o arquivo para [importação em .csv](../../../backlog/regras-de-importacao-de-leads-por-.csv.md)\
+– Como formatar o arquivo para [importação em .txt](../../../contatos/importar-contatos/regras-de-importacao-de-leads-por-.txt.md)
+
+
 
 🏁 É isso, terminamos por aqui!\
 com amor ❤\
