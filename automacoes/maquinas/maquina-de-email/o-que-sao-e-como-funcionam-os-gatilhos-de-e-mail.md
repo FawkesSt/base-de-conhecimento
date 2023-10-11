@@ -1,7 +1,9 @@
 # O que são e como funcionam os Gatilhos de E-mail
 
 **Objetivo:** Aprender o que são e como funcionam os gatilhos de e-mail.\
-**Para que serve:** Os gatilhos de e-mail são um recurso para sua estratégia pois ele **permite aplicar ações** de forma automática sobre os leads. Dispensa a necessidade de trabalhos manuais para algumas funções.\
+**Para que serve:** Os gatilhos de e-mail são um recurso para sua estratégia pois ele **permite aplicar ações** de forma automática sobre os leads. Dispensa a necessidade de trabalhos manuais para algumas funções.
+
+\
 **Requisito(s) Obrigatórios: 1.** é necessário que você tenha uma máquina e um funil criado (sequência de e-mails). Se ainda não conhece essas funções, veja nosso material [**Apresentando a Sequência de E-mails.**](../../../backlog/apresentando-a-sequencia-de-e-mails.md)
 
 É possível criar quantos funis e sequências você desejar em sua máquina. Sinta-se livre para criar sua estratégia! =)
@@ -43,9 +45,11 @@ Você pode _**realizar as seguintes ações:**_\
 **–** **Remover o lead** da maquina.
 
 **Importante:**\
-– Essas **duas opções** aparecerão apenas no funil normal, no funil double opt-in aparecerá apenas a função de click. [**Saiba mais a respeito aqui.**](https://suporte.love/o-que-e-double-opt-in-dupla-confirmacao/)\
+– Essas **duas opções** aparecerão apenas no funil normal, no funil double opt-in aparecerá apenas a função de click. [**Saiba mais a respeito aqui.**](../../../backlog/o-que-e-double-opt-in-dupla-confirmacao.md)\
 – Só é possível habilitar uma das funções \[abertura ou clique], _não é possível usar as duas_.\
 – Recomendamos sempre utilizar o gatilho de e-mail em _**um funil com UM** e-mail_ ou utilizar no **ú**_**ltimo e-mail da sequência.**_ Assim a ação ocorrerá sem erros.
+
+
 
 [![](https://legado.leadlovers.site/wp-content/uploads/2020/09/o-que-so-os-gatilhos-de-e-mail-360042162133\_mceclip4.png)](http://legado.leadlovers.site/wp-content/uploads/2020/09/o-que-so-os-gatilhos-de-e-mail-360042162133\_mceclip4.png)
 
@@ -54,12 +58,16 @@ Além das funções mencionadas acima, através da “abertura e clique” é po
 **5 – Aplicar e Remover TAGS, dos leads que passam por esse e-mail.**\
 \[Ao abrir ou clicar o e-mail o lead receberia ou seria removido a tag]
 
-**6 –** Através do Clique ou abertura é possível aplicar **Lead score.**
+**6 –** Através do Clique ou abertura é possível aplicar [**Lead score**](../../../backlog/indice-lead-score.md)**.**
 
-**7 –** Através dessa função é possível **executar** um gatilho **retroativamente** no e-mail.\
-\[**Exemplo:** caso você tenha esquecido de criar um gatilho no e-mail e vários leads passaram por esse e-mail, é possível usar essa função. Assim é possível obter os dados e fazer a ação configurada **“clique ou abertura”** até no máximo de 30 dias atrás. ]
+**7 –** Através dessa função é possível **executar** um gatilho **retroativamente** no e-mail.
+
+\
+**Exemplo:** caso você tenha esquecido de criar um gatilho no e-mail e vários leads passaram por esse e-mail, é possível usar essa função. Assim é possível obter os dados e fazer a ação configurada **“clique ou abertura”** até no máximo de 30 dias atrás.&#x20;
 
 _Além disso é possível utilizar o gatilho de fim de funil, para entender melhor o funcionamento_ [_**verifique esse conteúdo.**_](../../../backlog/como-utilizar-o-gatilho-de-fim-de-funil.md)
+
+
 
 **É isso, terminamos por aqui!**\
 com amor ❤\
