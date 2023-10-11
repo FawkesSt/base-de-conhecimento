@@ -2,7 +2,7 @@
 
 **Objetivo:** Aprender o que são e como funcionam os gatilhos de e-mail.\
 **Para que serve:** Os gatilhos de e-mail são um recurso para sua estratégia pois ele **permite aplicar ações** de forma automática sobre os leads. Dispensa a necessidade de trabalhos manuais para algumas funções.\
-**Requisito(s) Obrigatórios: 1.** é necessário que você tenha uma máquina e um funil criado (sequência de e-mails). Se ainda não conhece essas funções, veja nosso material [**Apresentando a Sequência de E-mails.**](https://suporte.love/apresentando-a-sequencia-de-e-mails/)
+**Requisito(s) Obrigatórios: 1.** é necessário que você tenha uma máquina e um funil criado (sequência de e-mails). Se ainda não conhece essas funções, veja nosso material [**Apresentando a Sequência de E-mails.**](../../../backlog/apresentando-a-sequencia-de-e-mails.md)
 
 É possível criar quantos funis e sequências você desejar em sua máquina. Sinta-se livre para criar sua estratégia! =)
 
@@ -59,7 +59,7 @@ Além das funções mencionadas acima, através da “abertura e clique” é po
 **7 –** Através dessa função é possível **executar** um gatilho **retroativamente** no e-mail.\
 \[**Exemplo:** caso você tenha esquecido de criar um gatilho no e-mail e vários leads passaram por esse e-mail, é possível usar essa função. Assim é possível obter os dados e fazer a ação configurada **“clique ou abertura”** até no máximo de 30 dias atrás. ]
 
-_Além disso é possível utilizar o gatilho de fim de funil, para entender melhor o funcionamento_ [_**verifique esse conteúdo.**_](https://suporte.love/como-utilizar-o-gatilho-de-fim-de-funil/)
+_Além disso é possível utilizar o gatilho de fim de funil, para entender melhor o funcionamento_ [_**verifique esse conteúdo.**_](../../../backlog/como-utilizar-o-gatilho-de-fim-de-funil.md)
 
 **É isso, terminamos por aqui!**\
 com amor ❤\
