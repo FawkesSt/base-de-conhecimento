@@ -1,7 +1,7 @@
 # Como fazer as configurações de DNS de E-mail na GoDaddy?
 
 **Objetivo:** Ensinar como fazer as configurações de DNS de e-mail na godaddy\
-**Para que serve:** A principal função das [**configurações de DNS**](https://suporte.love/dns-de-email/)\
+**Para que serve:** A principal função das [**configurações de DNS**](./)\
 é auxiliar na entregabilidade de suas mensagens, disparadas pela automação de sua conta.
 
 **Requisitos Obrigatórios:**
@@ -12,8 +12,8 @@
 
 Este artigo abrange os seguintes tópicos:
 
-* [Configurando o DNS de E-mail](https://suporte.love/como-fazer-o-dns-de-e-mail-no-google-domains/#configurando-dns)
-* [Validando as entradas](https://suporte.love/como-fazer-o-dns-de-e-mail-no-google-domains/#validando-entradas)
+* [Configurando o DNS de E-mail](como-fazer-as-configuracoes-de-dns-de-e-mail-na-godaddy.md#configurando-o-dns-de-e-mail)
+* [Validando as entradas](como-fazer-as-configuracoes-de-dns-de-e-mail-na-godaddy.md#validando-as-entradas)
 
 ### **Configurando o DNS de E-mail**
 
@@ -95,13 +95,20 @@ TTL: Padrão \
 \
 OBS: A configuração do redirect é extremamente importante, visto que  Isso aumenta a confiabilidade do seu link aos provedores de e-mails e passa autoridade para quem está clicando do link.  &#x20;
 
-Depois de todas as entradas realizadas, é necessário validá-las dentro da Leadlovers. Acesse o tutorial a respeito da validação, [clicando aqui.](https://suporte.love/validando-dns-no-leadlovers/)\
-
+Depois de todas as entradas realizadas, é necessário validá-las dentro da Leadlovers.&#x20;
 
 ### **Validando as entradas**
 
-Depois que criar todas as entradas, faça a sua [**validação na leadlovers**](https://suporte.love/validando-dns-no-leadlovers/).\
+Depois que criar todas as entradas, faça a sua [**validação na leadlovers**.](../../backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-builderall.md)\
 Esse passo é essencial para garantir que os registros funcionem corretamente.
 
 ![](https://suporte.love/wp-content/uploads/2022/12/download.png)
+
+
+
+**Suporte**
+
+Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante este procedimento, por favor **entre em contato com o nosso suporte**!
+
+
 
