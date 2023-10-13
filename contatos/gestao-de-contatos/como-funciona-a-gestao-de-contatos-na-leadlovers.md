@@ -44,7 +44,7 @@ Clicando em **Importar lista**, você será direcionado para a tela de Importaç
 
 #### **Capturar novos contatos** <a href="#capturar-novos-contatos" id="capturar-novos-contatos"></a>
 
-Nesta opção, abrirá um pop-up na tela com a seleção de máquinas disponíveis na sua conta. Clique sobre aquela na qual deseja fazer uma [página de captura](https://suporte.love/como-criar-e-configurar-uma-pagina-de-captura-no-editor-por-componentes/) para ser direcionado para a tela correta e começar a sua criação.
+Nesta opção, abrirá um pop-up na tela com a seleção de máquinas disponíveis na sua conta. Clique sobre aquela na qual deseja fazer uma [página de captura](../../backlog/componentes-como-criar-um-carrossel.md) para ser direcionado para a tela correta e começar a sua criação.
 
 #### **Cadastrar manualmente** <a href="#cadastrar-manualmente" id="cadastrar-manualmente"></a>
 

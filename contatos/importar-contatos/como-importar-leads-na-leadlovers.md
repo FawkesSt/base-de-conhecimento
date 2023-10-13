@@ -4,7 +4,7 @@ Objetivo: Aprender a realizar o processo de como importar leads na leadlovers.\
 Para que serve: A importação serve para inserir uma grande quantidade de leads na plataforma.\
 Requisitos obrigatórios:
 
-* Verificar se há espaço suficiente dentro da sua conta para inserir a quantidade desejada de leads. Em caso negativo, será necessário realizar uma [limpeza de lista](https://suporte.love/limpeza-de-lista-de-leads/) ou fazer um [upgrade](https://www.amoleads.com/planos).
+* Verificar se há espaço suficiente dentro da sua conta para inserir a quantidade desejada de leads. Em caso negativo, será necessário realizar uma [limpeza de lista](../gestao-de-contatos/como-realizar-a-limpeza-de-lista-de-leads.md) ou fazer um [upgrade](https://www.amoleads.com/planos).
 * Caso deseje importar por um arquivo, certificar-se que ele se encontra em CSV ou TXT e de acordo com as regras de importação da leadlovers.
 
 ### Como realizar a importação <a href="#como-realizar" id="como-realizar"></a>
@@ -114,7 +114,7 @@ Dados importantes sobre a importação:
 
 – A forma mais segura de capturar o lead com os dados certos é por Double Opt-in (se não conhece ainda, [clica aqui](https://www.youtube.com/watch?v=7IEJhEiWtYE)!).
 
-– Reforçamos estes detalhes pois a importação de leads com dados incorretos pode gerar envios para e-mails inexistentes, inválidos ou indisponíveis para uso e, por consequência, erros de entrega (como por exemplo, um hard bounce. [Clique aqui](https://suporte.love/como-filtrar-leads-por-status/) e veja nosso material sobre como filtrar leads por status e o que cada um significa). Envios para e-mails inexistentes ou inválidos podem gerar um **reflexo negativo** na reputação de seu endereço de disparo e, portanto, causar problemas em entregas futuras.
+– Reforçamos estes detalhes pois a importação de leads com dados incorretos pode gerar envios para e-mails inexistentes, inválidos ou indisponíveis para uso e, por consequência, erros de entrega (como por exemplo, um hard bounce. [Clique aqui](../../backlog/como-filtrar-leads-por-status.md) e veja nosso material sobre como filtrar leads por status e o que cada um significa). Envios para e-mails inexistentes ou inválidos podem gerar um **reflexo negativo** na reputação de seu endereço de disparo e, portanto, causar problemas em entregas futuras.
 
 **Suporte**
 
@@ -122,5 +122,5 @@ Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda duran
 
 **Artigos Relacionados**
 
-– Como formatar o arquivo para [importação em .csv](https://suporte.love/regras-importacao-csv/)\
-– Como formatar o arquivo para [importação em .txt](https://suporte.love/regras-importacao-txt/)
+– Como formatar o arquivo para [importação em .csv](regras-de-importacao-de-leads-por-.txt.md)\
+– Como formatar o arquivo para [importação em .txt](regras-de-importacao-de-leads-por-.txt.md)
