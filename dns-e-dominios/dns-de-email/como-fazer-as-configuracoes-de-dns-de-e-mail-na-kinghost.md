@@ -1,14 +1,19 @@
 # Como fazer as configurações de DNS de E-mail na KingHost?
 
 **Objetivo:**  Mostrar o passo a passo de como fazer as configurações de DNS(**DKIM**, **SPF**, **DMARC**, **MX e LINK DE REDIRECT**) na KingHost.\
-**Para que serve:** A principal função delas é auxiliar a entregabilidade de suas mensagens, disparadas pela automação de sua conta, [_**saiba mais clicando aqui.**_](https://legado.leadlovers.site/o-que-sao-as-configuracoes-de-dns-de-e-mail/)\
-**Requisito(s) Obrigatórios: 1.**Possuir uma conta de disparos de domínio próprio **2.** Acesso a hospedagem do domínio.\
+**Para que serve:** A principal função delas é auxiliar a entregabilidade de suas mensagens, disparadas pela automação de sua conta.\
+\
+**Requisito(s) Obrigatórios:** \
+**1.**Possuir uma conta de disparos de domínio próprio \
+**2.** Acesso a hospedagem do domínio.\
 
 
 **–** Estas entradas não substituem nenhuma informação ou configuração que já existem na Zona DNS de seu domínio.\
 Caso tenha alguma dúvida no momento de inseri-las, por favor [**entre em contato com o nosso suporte**](https://app.leadlovers.com/atendimento)!
 
 **– Siga exatamente a ordem das etapas descritas neste material**. A inversão de qualquer etapa pode causar falha na validação dos dados.
+
+
 
 ### **Acessando a conta no KingHost**
 
@@ -128,8 +133,14 @@ _Sobre o link de redirect: O link de redirect serve para ser aplicado em todos o
 
 ### **Validando as entradas** <a href="#validando-entradas" id="validando-entradas"></a>
 
-Depois que criar todas as entradas, faça a sua [**validação na leadlovers**](https://suporte.love/validando-dns-no-leadlovers/).\
+Depois que criar todas as entradas, faça a sua [**validação na leadlovers**.](../../backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-builderall.md)\
 Esse passo é essencial para garantir que os registros funcionem corretamente.
 
 ![](https://suporte.love/wp-content/uploads/2022/12/download.png)
+
+
+
+**Suporte**
+
+Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante este procedimento, por favor **entre em contato com o nosso suporte**!
 

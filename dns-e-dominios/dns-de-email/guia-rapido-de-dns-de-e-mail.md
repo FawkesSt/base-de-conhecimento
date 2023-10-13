@@ -11,7 +11,7 @@ Se você ainda não sabe qual é a sua, você poderá consultar onde seu dominio
 
 
 1. [Como fazer as configurações de DNS de E-mail no Hostgator](como-fazer-as-configuracoes-de-dns-de-e-mail-no-hostgator.md)
-2. [Como fazer o DNS de e-mail no Google Domains](../../backlog/como-fazer-dns-de-e-mail-no-registro.br.md)
+2. Como fazer o DNS de e-mail no Google Domains
 3. [Como fazer o DNS de e-mail na Registro.br](como-fazer-o-dns-de-e-mail-na-registro.br.md)
 4. [Como fazer as configurações de DNS de E-mail no CloudFlare](como-fazer-as-configuracoes-de-dns-de-e-mail-no-cloudflare.md)
 5. [Como fazer as configurações de DNS de E-mail no RedeHost](como-fazer-as-configuracoes-de-dns-de-e-mail-no-redehost.md)

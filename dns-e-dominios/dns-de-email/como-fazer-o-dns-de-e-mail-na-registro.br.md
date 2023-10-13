@@ -1,19 +1,20 @@
 # Como fazer o DNS de e-mail na Registro.br
 
 **Objetivo:** Ensinar como fazer as configurações de DNS de e-mail na registro.br\
-**Para que serve:** A principal função das [**configurações de DNS**](https://suporte.love/dns-de-email/)\
-é auxiliar na entregabilidade de suas mensagens, disparadas pela automação de sua conta.
+**Para que serve:** A principal função das [**configurações de DNS**](o-que-sao-as-configuracoes-de-dns-de-e-mail.md) é auxiliar na \
+entregabilidade de suas mensagens, disparadas pela automação de sua conta.
 
 **Requisitos Obrigatórios:**
 
 1\. Possuir uma conta de e-mail feita com um domínio próprio.
 
-2\. Ter acesso à zona DNS do seu domínio. Confira [**aqui**](https://suporte.love/descobrir-cpanel/) como descobrir onde ele está sendo administrado.
+2\. Ter acesso à zona DNS do seu domínio. \
+
 
 Este artigo abrange os seguintes tópicos:
 
-* [Configurando o DNS de E-mail](https://suporte.love/como-fazer-o-dns-de-e-mail-no-google-domains/#configurando-dns)
-* [Validando as entradas](https://suporte.love/como-fazer-o-dns-de-e-mail-no-google-domains/#validando-entradas)
+* [Configurando o DNS de E-mail](como-fazer-o-dns-de-e-mail-na-registro.br.md#configurando-dns)
+* [Validando as entradas](como-fazer-o-dns-de-e-mail-na-registro.br.md#validando-entradas)
 
 ### **Configurando o DNS de E-mail** <a href="#configurando-dns" id="configurando-dns"></a>
 
@@ -88,7 +89,7 @@ Preencha os campos da seguinte forma:
 
 ### **Validando as entradas** <a href="#validando-entradas" id="validando-entradas"></a>
 
-Depois que criar todas as entradas, faça a sua [**validação na leadlovers**](https://suporte.love/validando-dns-no-leadlovers/).\
+Depois que criar todas as entradas, faça a sua [**validação na leadlovers**.](../../backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-builderall.md)\
 Esse passo é essencial para garantir que os registros funcionem corretamente.
 
 ![](https://suporte.love/wp-content/uploads/2022/12/download.png)
@@ -121,7 +122,7 @@ você pode inserir qualquer palavra que desejar. Neste tutorial, escolhemos a pa
 &#x20;
 
 &#x20; **Depois de todas as entradas realizadas, é necessário validá-las dentro da Leadlovers.**\
-**Acesse o tutorial a respeito da validação,** [**clicando aqui.**](https://suporte.love/validando-dns-no-leadlovers/)
+**Acesse o tutorial a respeito da validação,** [**clicando aqui.**](../../backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-builderall.md)
 
 
 
@@ -131,9 +132,5 @@ você pode inserir qualquer palavra que desejar. Neste tutorial, escolhemos a pa
 
 **Suporte**
 
-Se surgir qualquer dúvida ou se precisar de qualquer ajuda durante este procedimento\
-por favor, **entre em contato com o nosso suporte**!
+Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante este procedimento, por favor **entre em contato com o nosso suporte**!
 
-🏁 **É isso, terminamos por aqui!**\
-com amor ❤\
-equipe **leadlovers™**

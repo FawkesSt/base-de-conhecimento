@@ -1,8 +1,12 @@
 # O que são as configurações de DNS de E-mail?
 
 **Objetivo:** Explicar o que são as configurações de DNS de e-mail e apresentar uma visão geral de como criar cada uma das entradas.\
+\
 **Para que serve:** A principal função dessas configurações é auxiliar a entregabilidade de suas mensagens, disparadas pela automação de sua conta. A ausência das entradas pode causar diversos comportamentos indesejados no momento do envio dos e-mails. Entre eles, os principais são: seus e-mails serem entregues como spam ou até mesmo não chegarem aos destinatários.\
-**Requisitos obrigatórios:** **1.** Ter uma conta de e-mail profissional. **2.** Ter essa conta [cadastrada e ativa](https://suporte.love/adicionar-e-ativar-e-mail-para-disparos/) nas Contas de E-mail na leadlovers.
+\
+**Requisitos obrigatórios:** \
+**1.** Ter uma conta de e-mail profissional.\
+&#x20;**2.** Ter essa conta [cadastrada e ativa](https://suporte.love/adicionar-e-ativar-e-mail-para-disparos/) nas Contas de E-mail na leadlovers.
 
 ### **O que são as configurações de DNS de E-mail?** <a href="#o-que-e" id="o-que-e"></a>
 
@@ -42,7 +46,9 @@ Nós chamamos de e-mail de domínio público todo aquele que é possível criar 
 
 ### **Como usar meu e-mail profissional como conta remetente na leadlovers?** <a href="#conta-remetente-leadlovers" id="conta-remetente-leadlovers"></a>
 
-Para usar o seu e-mail profissional como conta remetente na leadlovers, primeiramente é necessário adicioná-lo em **Contas de E-mail**. Se ainda não sabe como fazer esse procedimento, [consulte esse material](https://suporte.love/adicionar-e-ativar-e-mail-para-disparos/). Depois que adicionar e fazer as configurações de DNS, basta escolher a conta de disparo antes de fazer o envio dos seus e-mails.
+Para usar o seu e-mail profissional como conta remetente na leadlovers, primeiramente é necessário adicioná-lo em **Contas de E-mail**. Se ainda não sabe como fazer esse procedimento, [consulte esse material.](../../contas/conta-de-email/como-adicionar-editar-e-remover-contas-de-e-mail.md) \
+\
+Depois que adicionar e fazer as configurações de DNS, basta escolher a conta de disparo antes de fazer o envio dos seus e-mails.
 
 É possível escolher a conta **a nível de máquina**, nas **Configurações** da mesma:
 
@@ -58,33 +64,13 @@ E por último, mas não menos importante, no formato de **Automação**:
 
 ### **Passo a passo das configurações** <a href="#tutoriais" id="tutoriais"></a>
 
-Temos materiais com instruções específicas para várias hospedagens diferentes, e sempre estamos criando artigos novos. Se você não tem certeza de qual é o Painel de Controle do seu domínio, [confira esse material aqui onde te ensinamos como descobrir isso.](https://suporte.love/descobrir-cpanel/)
+Temos materiais com instruções específicas para várias hospedagens diferentes, e sempre estamos criando artigos novos. Se você não tem certeza de qual é o Painel de Controle do seu domínio, [confira esse material aqui onde te ensinamos como descobrir isso.](../como-descobrir-onde-o-dominio-esta-sendo-administrado.md)
 
-#### **Índice** <a href="#indice" id="indice"></a>
 
-Verifique, se dentre os links abaixo sua hospedagem já está listada:
 
-[**Registro.br**](https://suporte.love/dns-registrobr/)
+Verifique em nosso [Guia rápido](guia-rapido-de-dns-de-e-mail.md), se  a sua hospedagem encontra-se  listada.
 
-[**cPanel**](https://suporte.love/configurar-dkim-spf-mx-no-cpanel/)
 
-[**Cloudflare**](https://suporte.love/configurar-dkim-spf-mx-no-cloudflare/)
-
-[**Hostgator**](https://suporte.love/configurar-dkim-spf-mx-no-hostgator/)
-
-[**GoDaddy**](https://suporte.love/configurar-dkim-spf-mx-no-godaddy/)
-
-[**Locaweb**](https://suporte.love/como-fazer-as-configuracoes-de-dns-de-e-mail-na-locaweb/)
-
-[**Hostinger**](https://suporte.love/como-fazer-as-configuracoes-de-dns-de-e-mail-no-hostinger/)
-
-[**KingHost**](https://suporte.love/como-fazer-as-configuracoes-de-dns-de-e-mail-na-kinghost/)
-
-[**UolHost**](https://suporte.love/como-fazer-as-configuracoes-de-dns-de-e-mail-na-uolhost/)
-
-[**WiX**](https://suporte.love/dns-de-email-wix/)
-
-[**Umbler**](https://suporte.love/como-fazer-as-configuracoes-de-dns-de-e-mail-no-umbler/)
 
 ### **Realizando as configurações** <a href="#configuracoes" id="configuracoes"></a>
 
@@ -108,10 +94,11 @@ Se você não encontrou o Painel de Controle do seu domínio na lista acima, aba
 
 **Dados, valor ou aponta para:** mx.sendgrid.net
 
-<img src="https://s.w.org/images/core/emoji/13.0.0/svg/26a0.svg" alt="⚠" data-size="line"> **ATENÇÃO:**\
 
 
-**–** Algumas hospedagens não permitem a inserção da entrada **MX**. Se esse for o caso, é necessário fazer as entradas por **CNAME**, então pode prosseguir para o tópico: [**Utilizando as entradas em formato CNAME**](broken-reference).
+<img src="https://s.w.org/images/core/emoji/13.0.0/svg/26a0.svg" alt="⚠" data-size="line"> **ATENÇÃO:**
+
+**–** Algumas hospedagens não permitem a inserção da entrada **MX**. Se esse for o caso, é necessário fazer as entradas por **CNAME.** Para prosseguir para o tópico: [**Utilizando as entradas em formato CNAME**.](../../backlog/como-alterar-de-mx-para-cname.md)
 
 Confira as informações e salve!
 
@@ -149,6 +136,8 @@ Conferiu se está tudo certo? Já pode salvar!
 
 **Dados, valor ou aponta para:** v=DMARC1; p=none; rua=mailto:\[email protected]
 
+
+
 <img src="https://s.w.org/images/core/emoji/13.0.0/svg/26a0.svg" alt="⚠" data-size="line"> **ATENÇÃO:**\
 
 
@@ -170,18 +159,18 @@ Se certifique de que os dados foram inseridos corretamente – especialmente se 
 
 Confira os dados e salve!
 
+
+
 **Observação:** As informações inseridas na sua zona DNS podem levar **até 24 horas** para propagarem totalmente.
 
-Após inserir estas cinco entradas, você deve [validá-las em sua conta leadlovers.](broken-reference)
+Após inserir estas cinco entradas, você deve validá-las em sua conta leadlovers.
 
 #### **Utilizando as entradas em formato CNAME** <a href="#via-cname" id="via-cname"></a>
 
 <img src="https://s.w.org/images/core/emoji/13.0.0/svg/1f4e2.svg" alt="📢" data-size="line"> **IMPORTANTE:**\
+**–** Se você **já criou as entradas por MX** seguindo as orientações anteriores, vá direto até o tópico **Próximos Passos**. As próximas entradas devem ser criadas **somente se na zona DNS do seu domínio não tenha sido possível criar as entradas por MX.**
 
-
-**–** Se você **já criou as entradas por MX** seguindo as orientações anteriores, vá direto até o tópico [**Próximos Passos**](broken-reference). As próximas entradas devem ser criadas **somente se na zona DNS do seu domínio não tenha sido possível criar as entradas por MX.**
-
-Algumas hospedagens não permitem, de forma alguma, a inclusão de uma entrada do tipo **MX**. Nestes casos, utilizamos três das entradas no formato **CNAME** (o DMARC continua sendo em formato TXT). Para poder validá-las mais tarde, é necessário alterar aqui na plataforma essas entradas na sua Conta de E-mail. [Acesse esse tutorial](https://suporte.love/como-alterar-de-mx-para-cname/) para saber como fazer esse procedimento e então retorne aqui para criar os apontamentos.
+Algumas hospedagens não permitem, de forma alguma, a inclusão de uma entrada do tipo **MX**. Nestes casos, utilizamos três das entradas no formato **CNAME** (o DMARC continua sendo em formato TXT). Para poder validá-las mais tarde, é necessário alterar aqui na plataforma essas entradas na sua Conta de E-mail. [Acesse esse tutorial ](../../backlog/como-alterar-de-mx-para-cname.md)para saber como fazer esse procedimento e então retorne aqui para criar os apontamentos.
 
 Segue abaixo as informações de como inserir cada uma das entradas.
 
@@ -227,9 +216,9 @@ Conferiu se está tudo certo? Já pode salvar!
 
 **Dados, valor ou aponta para:** v=DMARC1; p=none; rua=mailto:\[email protected]
 
+
+
 <img src="https://s.w.org/images/core/emoji/13.0.0/svg/26a0.svg" alt="⚠" data-size="line"> **ATENÇÃO:**\
-
-
 **–** Substitua a parte **seudominio.com** pelo domínio o qual é usado pelo seu e-mail profissional e no qual você está inserindo estas informações. No exemplo das imagens, o domínio usado é **wikilovers.com.br.** Por isso, a entrada ficou:
 
 **v=DMARC1; p=none; rua=mailto:\[email protected]**
@@ -248,7 +237,7 @@ Confira os dados e salve!
 
 **Observação:** As informações inseridas na sua zona DNS podem levar **até 24 horas** para propagarem totalmente.
 
-Após inserir estas cinco entradas, você deve [validá-las em sua conta leadlovers.](broken-reference)
+Após inserir estas cinco entradas, você deve validá-las em sua conta leadlovers.
 
 ### **Arquivos com as entradas** <a href="#arquivos" id="arquivos"></a>
 
@@ -257,11 +246,13 @@ Se quiser solicitar para que o suporte da hospedagem do seu domínio faça as co
 * [Entradas MX](https://legado.leadlovers.site/wp-content/uploads/2017/06/Entradas-MX.txt)
 * [Entradas CNAME (Utilize somente se não for possível criar as entradas por MX)](https://legado.leadlovers.site/wp-content/uploads/2017/06/Entradas-CNAME.txt)
 
-Mesmo solicitando que a criação das entradas seja feita por terceiros, não esqueça de [validá-las aqui na leadlovers](https://legado.leadlovers.site/validando-dns-no-leadlovers) assim que forem concluídas.
+Mesmo solicitando que a criação das entradas seja feita por terceiros, não esqueça de validá-las aqui na leadlovers assim que forem concluídas.
 
 ### **Próximos passos** <a href="#proximos-passos" id="proximos-passos"></a>
 
-Depois de feitas as configurações, é necessário fazer a validação de cada uma delas. [Clique aqui e siga este passo a passo!](https://suporte.love/validando-dns-no-leadlovers/)
+Depois de feitas as configurações, é necessário fazer a validação de cada uma delas. [Clique aqui e siga este passo a passo!](o-que-sao-as-configuracoes-de-dns-de-e-mail.md#configuracoes)
+
+
 
 **Suporte**
 
@@ -269,7 +260,7 @@ Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda duran
 
 **Artigos relacionados**
 
-– Como [validar as configurações de DNS de E-mail](https://suporte.love/validando-dns-no-leadlovers/) na leadlovers?\
-–[ O que é um domínio?](https://suporte.love/o-que-e-um-dominio/)\
-– Como[ descobrir o Painel de Controle](https://suporte.love/descobrir-cpanel/) do seu domínio?
+[– Como validar as configurações de DNS de E-mail na leadlovers?\
+](o-que-sao-as-configuracoes-de-dns-de-e-mail.md#configuracoes)[– O que é um domínio?\
+](../../backlog/o-que-e-um-dominio.md)[– Como descobrir o Painel de Controle do seu domínio?](../como-descobrir-onde-o-dominio-esta-sendo-administrado.md)
 
