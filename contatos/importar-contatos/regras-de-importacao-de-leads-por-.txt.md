@@ -69,6 +69,5 @@ Veja os exemplos abaixo:
 
 #### Artigos Relacionados
 
-* [Regras importação em .CSV](https://suporte.love/regras-importacao-csv/)
 * [Como importar uma lista\
-  ](https://suporte.love/como-importar-lista-de-leads-na-leadlovers/)
+  ](../importar-contatos.md)
