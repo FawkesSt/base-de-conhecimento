@@ -4,7 +4,7 @@ Objetivo: Explicar por que todas as páginas de uma máquina abrem com o mesmo d
 
 ### Como funciona quando eu adiciono um domínio ou subdomínio em uma máquina? <a href="#como-funciona" id="como-funciona"></a>
 
-Quando você [adiciona um domínio ou subdomínio na sua máquina](https://suporte.love/como-cadastrar-dominio-maquina/), por padrão do sistema todas as páginas que estão nela abrirão com ele. Para ilustrar melhor como isso acontece, vamos supor que seja adicionado o domínio _seudominio.com_ nos **“**Domínios e Rotas” da sua máquina e tenha duas páginas construídas nela intituladas: _nomedapagina1_ e _nomedapagina2._&#x20;
+Quando você adiciona um [domínio ou subdomínio na sua máquina](../../backlog/como-cadastrar-um-dominio-ou-subdominio-em-uma-maquina-ou-produto.md), por padrão do sistema todas as páginas que estão nela abrirão com ele. Para ilustrar melhor como isso acontece, vamos supor que seja adicionado o domínio _seudominio.com_ nos **“**Domínios e Rotas” da sua máquina e tenha duas páginas construídas nela intituladas: _nomedapagina1_ e _nomedapagina2._&#x20;
 
 Quando clicar sobre os seus nomes na aba **“**Páginas”, ambas abrirão com o mesmo domínio, mudando somente o caminho no final da URL. Elas ficarão da seguinte forma:&#x20;
 
@@ -14,7 +14,7 @@ _seudominio.com/nomedapagina2_&#x20;
 
 Nesse caso, o domínio ou subdomínio adicionado na sua máquina será como um **endereço** que foi reservado para ela. Já o nome das páginas será o **caminho**, que indica qual está sendo acessada e aparece depois da barra no final do domínio.&#x20;
 
-Pensando nisso, se quiser utilizar o mesmo domínio ou subdomínio em todas as páginas da sua máquina, basta adicioná-lo nos “Domínios e Rotas” dela! Caso ainda não saiba como fazer isso, confira o nosso material sobre [como cadastrar um domínio ou subdomínio em uma máquina.](https://suporte.love/como-cadastrar-dominio-maquina/)&#x20;
+Pensando nisso, se quiser utilizar o mesmo domínio ou subdomínio em todas as páginas da sua máquina, basta adicioná-lo nos “Domínios e Rotas” dela! Caso ainda não saiba como fazer isso, confira o nosso material sobre como [cadastrar um domínio ou subdomínio em uma máquina. ](../../backlog/como-cadastrar-um-dominio-ou-subdominio-em-uma-maquina-ou-produto.md)
 
 #### Vendo na prática <a href="#na-pratica" id="na-pratica"></a>
 
@@ -36,7 +36,7 @@ Lembrando que isso somente definirá qual é o domínio adicionado que deverá a
 
 ### E se eu quiser colocar um domínio somente em uma página de máquina? <a href="#dominio-em-uma-pagina" id="dominio-em-uma-pagina"></a>
 
-Por padrão do sistema, todas as páginas da máquina abrirão com o mesmo domínio, mas é possível configurar para uma página da sua máquina abrir por primeiro configurando a sua rota, se quiser. Para aprender como fazer isso, basta acessar [esse tutorial](https://suporte.love/dominios-e-rotas/).&#x20;
+Por padrão do sistema, todas as páginas da máquina abrirão com o mesmo domínio, mas é possível configurar para uma página da sua máquina abrir por primeiro configurando a sua rota.
 
 **Suporte**
 
@@ -44,9 +44,11 @@ Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda duran
 
 **Artigos relacionados**
 
-– O que é um [domínio](https://suporte.love/o-que-e-um-dominio/) e [subdomínio](https://suporte.love/o-que-e-um-subdominio/)?\
-– Como [cadastrar um Domínio ou Subdomínio](https://suporte.love/como-cadastrar-dominio-maquina/) em uma Máquina ou Produto?\
-– Como [pegar o link](https://suporte.love/link-pagina/) de uma página?
+– [O que é um domínio e subdomínio?](../../ead/dominios.md)\
+[– Como cadastrar um Domínio ou Subdomínio em uma Máquina ou Produto?\
+](../../backlog/como-cadastrar-um-dominio-ou-subdominio-em-uma-maquina-ou-produto.md)– [Como pegar o link de uma página?](../../backlog/como-pegar-o-link-de-uma-pagina.md)
+
+
 
 🏁 **É isso, terminamos por aqui!**\
 com amor ❤\

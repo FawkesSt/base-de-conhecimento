@@ -2,13 +2,17 @@
 
 **Objetivo:** Mostrar o passo a passo de como utilizar o seu domínio que está no **Umbler** dentro da leadlovers.\
 **Para que serve:** O apontamento permite utilizar o seu domínio como endereço de acesso as páginas e/ou área de membro criadas dentro do sistema.\
-**Requisito(s) necessário(s):** **1.** Ter um domínio próprio já comprado e **2.** ter acesso a Zona DNS do seu Umbler.
+\
+**Requisito(s) necessário(s):** \
+**1.** Ter um domínio próprio já comprado e \
+**2.** ter acesso a Zona DNS do seu Umbler.\
+
 
 <img src="https://s.w.org/images/core/emoji/13.0.0/svg/1f4e2.svg" alt="📢" data-size="line"> **IMPORTANTE:**\
 
 
 **–** Os passos à seguir devem ser feitos **somente se o seu domínio for administrado pelo Umbler**.\
-Se ele estiver sob administração de outro serviço, é preciso que as configurações sejam realizadas no Painel de Controle específico deste segundo serviço. Nesse [artigo aqui](https://suporte.love/descobrir-cpanel/) nós mostramos como você pode confirmar qual é o painel do seu domínio.
+Se ele estiver sob administração de outro serviço, é preciso que as configurações sejam realizadas no Painel de Controle específico deste segundo serviço. [Nesse artigo aqui ](../como-descobrir-onde-o-dominio-esta-sendo-administrado.md)nós mostramos como você pode confirmar qual é o painel do seu domínio.
 
 **–** Caso seu domínio já seja utilizado para abrir um site feito em outra plataforma, apontá-lo para o nosso IP fará com que ele não abra mais estas páginas. **Seu site externo sairá do ar**.\
 Se deseja manter seu domínio principal na forma como está, você pode criar uma entrada do tipo **subdomínio**. **Clique aqui e veja nosso passo a passo, ensinando a criar um subdomínio! \[em breve]**
@@ -63,7 +67,7 @@ Então vou salvar o nome dela (**ftp**).
 
 Faça isso com **todas** as entradas do tipo **CNAME** que estejam nesse padrão.
 
-_**Observação:**_ Caso não tenha localizado nenhuma entrada que se encaixe nos critérios informados pule essa etapa e vá para o [apontamento do domínio](broken-reference).
+_**Observação:**_ Caso não tenha localizado nenhuma entrada que se encaixe nos critérios informados pule essa etapa e [vá para o apontamento do domínio.](apontamento-de-dominio-no-kinghost.md#apontamento)
 
 ### **Excluindo entradas** <a href="#excluir" id="excluir"></a>
 
@@ -97,7 +101,7 @@ Os dados da nova entrada devem ser preenchidos com as seguintes informações:
 
 **Nome:** coloque o **nome da entrada** que você está recriando (exemplo: **ftp**).
 
-**Dados:** cole o número de IP que você salvou, lá no [passo **04**](broken-reference).
+**Dados:** cole o número de IP que você salvou, lá no passo **04**.
 
 **TTL:** este campo virá automaticamente como **1 hora**. Caso tenha alguma informação diferente, altere para 1 hora.
 
@@ -112,7 +116,7 @@ Os dados da nova entrada devem ser preenchidos com as seguintes informações:
 
 Agora sim, iremos fazer o apontamento do seu domínio para o nosso servidor. Atualmente, **o apontamento para leadlovers é feito para **_**2 IPs**_.
 
-**Nº12–** Localize a entrada do seu domínio principal, aquela do [passo 04](broken-reference), passe o mouse em cima da mesma e clique no **ícone de lápis para editar**.
+**Nº12–** Localize a entrada do seu domínio principal, aquela do passo 04, passe o mouse em cima da mesma e clique no **ícone de lápis para editar**.
 
 ![](https://legado.leadlovers.site/wp-content/uploads/2020/12/ub12.png)
 
@@ -126,7 +130,7 @@ A entrada deve ser alterada da seguinte forma:
 
 ![](https://legado.leadlovers.site/wp-content/uploads/2020/12/ub13.png)
 
-**Nº14–** Ache novamente o botão de **+ Adicionar** (o do [passo **09**](broken-reference)) no topo da página.
+**Nº14–** Ache novamente o botão de **+ Adicionar** (o do passo **09**) no topo da página.
 
 E para inserir o nosso IP secundário (redundância/backup) basta repetir o processo.\
 A diferença está na informação que você irá inserir no campo Dados.
@@ -153,9 +157,9 @@ Se essa entrada já estiver na sua Zona de DNS você só precisa editá-la, agor
 
 Muito provavelmente no seu Umbler já existirá essa entrada do www.\
 Localize a entrada cujo Nome é **www** e confirme se os Dados estão com o seu domínio sem o www.\
-Se a entrada já estiver configurada dessa forma, pule para conferir o [Resultado](broken-reference).
+Se a entrada já estiver configurada dessa forma, pule para conferir o [Resultado.](apontamento-de-dominio-no-kinghost.md#resultado)
 
-_Observação:_ Caso o Tipo da entrada esteja como tipo A, exclua a entrada e prossiga para criar o registro igual mostramos abaixo para o pessoal que [não tem a entrada](broken-reference).
+_Observação:_ Caso o Tipo da entrada esteja como tipo A, exclua a entrada e prossiga para criar o registro igual mostramos abaixo para o pessoal que não tem a entrada.
 
 Agora, se nos Dados estiver com qualquer outra informação, apenas edite a entrada.
 
@@ -200,19 +204,13 @@ Pronto! Agora seu domínio está corretamente apontado para o nosso servidor!
 
 ### **Cadastrando o domínio na máquina** <a href="#cadastrando-dominio" id="cadastrando-dominio"></a>
 
-O próximo passo é adicionar este domínio na sua máquina! [**Clique aqui e veja o passo a passo**](https://suporte.love/como-cadastrar-dominio-maquina/).
+O próximo passo é adicionar este domínio na sua máquina! [**Clique aqui e veja o passo a passo**.](../../backlog/como-cadastrar-um-dominio-ou-subdominio-em-uma-maquina-ou-produto.md)
 
-**Artigos sugeridos**
 
-– Se você caiu aleatoriamente aqui e não sabe o que é um domínio e nem como pode usá-lo dentro do nosso sistema, confira primeiro este artigo: [**o que é um domínio**](https://suporte.love/o-que-e-um-dominio/).
-
-– Caso deseje entender melhor como funciona as entradas de uma Zona DNS **temos esse material aqui \[em breve]**.
 
 **Suporte**
 
 Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante este procedimento, por favor, **entre em contato com o nosso suporte**!
-
-
 
 **É isso, terminamos por aqui!**\
 com amor ❤\
