@@ -1,8 +1,7 @@
 # Como fazer as configurações de DNS de E-mail no CloudFlare?
 
 **Objetivo:** Ensinar como fazer as configurações de DNS de e-mail na Cloudflare\
-**Para que serve:** A principal função das [**configurações de DNS**](https://suporte.love/dns-de-email/)\
-é auxiliar na entregabilidade de suas mensagens, disparadas pela automação de sua conta.
+**Para que serve:** A principal função das [**configurações de DNS**](./) é auxiliar na entregabilidade de suas mensagens, disparadas pela automação de sua conta.
 
 **Requisitos Obrigatórios:**
 
@@ -12,8 +11,8 @@
 
 Este artigo abrange os seguintes tópicos:
 
-* [Configurando o DNS de E-mail](https://suporte.love/como-fazer-o-dns-de-e-mail-no-google-domains/#configurando-dns)
-* [Validando as entradas](https://suporte.love/como-fazer-o-dns-de-e-mail-no-google-domains/#validando-entradas)
+* [Configurando o DNS de E-mail](como-fazer-as-configuracoes-de-dns-de-e-mail-no-cloudflare.md#configurando-dns)
+* [Validando as entradas](como-fazer-as-configuracoes-de-dns-de-e-mail-no-cloudflare.md#validando-entradas)
 
 ### **Configurando o DNS de E-mail** <a href="#configurando-dns" id="configurando-dns"></a>
 
@@ -104,7 +103,7 @@ Portanto nosso link de redirect ficará:**click.wikilovers.com.br**\
 
 OBS: A configuração do redirect é extremamente importante**,** visto que  Isso aumenta a confiabilidade do seu link aos provedores de e-mails e passa autoridade para quem está clicando do link.
 
-**Depois de todas as entradas realizadas, é necessário validá-las dentro da Leadlovers. Acesse o tutorial a respeito da validação,** [**clicando aqui.**](https://suporte.love/validando-dns-no-leadlovers/)
+**Depois de todas as entradas realizadas, é necessário validá-las dentro da Leadlovers. Acesse o tutorial a respeito da validação,** [**clicando aqui.**](../../backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-builderall.md)
 
 
 

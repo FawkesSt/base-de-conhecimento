@@ -121,16 +121,14 @@ você pode inserir qualquer palavra que desejar. Neste tutorial, escolhemos a pa
 
 &#x20;
 
-&#x20; **Depois de todas as entradas realizadas, é necessário validá-las dentro da Leadlovers.**\
+### **Validando as entradas**
+
+**📢 ✅ Depois de todas as entradas realizadas, é necessário validá-las dentro da Leadlovers.**\
 **Acesse o tutorial a respeito da validação,** [**clicando aqui.**](../../backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-builderall.md)
 
 
 
-
-
-
-
-**Suporte**
-
-Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante este procedimento, por favor **entre em contato com o nosso suporte**!
+&#x20;🏁 É isso, terminamos por aqui!\
+com amor ❤\
+equipe leadlovers™
 

@@ -135,14 +135,14 @@ _Sobre o link de redirect: O link de redirect serve para ser aplicado em todos o
 
 **29 –** Confira todos os dados e clique em **Adicionar entradas.**
 
-### **Validando as entradas** <a href="#validando-entradas" id="validando-entradas"></a>
+### **Validando as entradas**
 
-Depois que criar todas as entradas, faça a sua[ **validação na leadlovers**](../../backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-builderall.md).\
-Esse passo é essencial para garantir que os registros funcionem corretamente.
+**📢 ✅ Depois de todas as entradas realizadas, é necessário validá-las dentro da Leadlovers.**\
+**Acesse o tutorial a respeito da validação,** [**clicando aqui.**](../../backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-builderall.md)
 
-![](https://suporte.love/wp-content/uploads/2022/12/download.png)
 
-**Suporte**
 
-Se surgir qualquer dúvida ou situação, ou se precisar de qualquer ajuda durante este procedimento, por favor **entre em contato com o nosso suporte**!
+&#x20;🏁 É isso, terminamos por aqui!\
+com amor ❤\
+equipe leadlovers™
 

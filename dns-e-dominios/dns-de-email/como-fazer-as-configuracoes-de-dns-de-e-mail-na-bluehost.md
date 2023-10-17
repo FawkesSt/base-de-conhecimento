@@ -1,8 +1,16 @@
 # Como fazer as configurações de DNS de E-mail na Bluehost?
 
 **Objetivo:**  Mostrar o passo a passo de como fazer as configurações de DNS(**DKIM**, **SPF**, **DMARC**, **MX e LINK DE REDIRECT**) na Bluehost.\
-**Para que serve:** A principal função delas é auxiliar a entregabilidade de suas mensagens, disparadas pela automação de sua conta, [_**saiba mais clicando aqui.**_](https://suporte.love/dns-de-e-mail/)\
-**Requisito(s) Obrigatórios: 1.**Possuir uma conta de disparos de domínio próprio **2.** Acesso a hospedagem do domínio.\
+**Para que serve:** A principal função delas é auxiliar a entregabilidade de suas mensagens, disparadas pela automação de sua conta.
+
+\
+**Requisito(s) Obrigatórios:**
+
+&#x20;**1.**Possuir uma conta de disparos de domínio próprio&#x20;
+
+**2.** Acesso a hospedagem do domínio.
+
+\
 **–** Estas entradas não substituem nenhuma informação ou configuração que já existem na Zona DNS de seu domínio. Caso tenha alguma dúvida no momento de inseri-las, por favor [**entre em contato com o nosso suporte**](https://app.leadlovers.com/atendimento)!\
 **– Siga exatamente a ordem das etapas descritas neste material**. A inversão de qualquer etapa pode causar falha na validação dos dados.
 
@@ -133,7 +141,7 @@ _Sobre o link de redirect: O link de redirect serve para ser aplicado em todos o
 Confira todos os dados e clique em **Adicionar entradas/Save.**
 
 **📢 ✅ Depois de todas as entradas realizadas, é necessário validá-las dentro da Leadlovers.**\
-**Acesse o tutorial a respeito da validação,** [**clicando aqui.**](https://suporte.love/validando-dns-no-leadlovers/)
+**Acesse o tutorial a respeito da validação,** [**clicando aqui.**](../../backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-builderall.md)
 
 \
 &#x20;🏁 É isso, terminamos por aqui!\

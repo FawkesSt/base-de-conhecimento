@@ -1,21 +1,23 @@
 # Como fazer as configurações de DNS de E-mail no Hostgator?
 
 **Objetivo:** Ensinar como fazer as configurações de DNS de e-mail na Hostgator\
-**Para que serve:** A principal função das [**configurações de DNS**](https://suporte.love/dns-de-email/)\
+**Para que serve:** A principal função das [**configurações de DNS**](./)\
 é auxiliar na entregabilidade de suas mensagens, disparadas pela automação de sua conta.
 
 **Requisitos Obrigatórios:**
 
 1\. Possuir uma conta de e-mail feita com um domínio próprio.
 
-2\. Ter acesso à zona DNS do seu domínio. Confira [**aqui**](https://suporte.love/descobrir-cpanel/) como descobrir onde ele está sendo administrado.
+2\. Ter acesso à zona DNS do seu domínio. Confira [**aqui** ](../como-descobrir-onde-o-dominio-esta-sendo-administrado.md)como descobrir onde ele está sendo administrado.
 
 Este artigo abrange os seguintes tópicos:
 
-* [Configurando o DNS de E-mail](https://suporte.love/como-fazer-o-dns-de-e-mail-no-google-domains/#configurando-dns)
-* [Validando as entradas](https://suporte.love/como-fazer-o-dns-de-e-mail-no-google-domains/#validando-entradas)
+* [Configurando o DNS de E-mail](como-fazer-as-configuracoes-de-dns-de-e-mail-no-hostgator.md#configurando-dns)
+* [Validando as entradas](como-fazer-as-configuracoes-de-dns-de-e-mail-no-hostgator.md#validando-entradas)
 
 ### **Configurando o DNS de E-mail** <a href="#configurando-dns" id="configurando-dns"></a>
+
+
 
 **1.** [**Acesse a área do cliente no Hostgator**](https://financeiro.hostgator.com.br/)
 
@@ -119,10 +121,14 @@ Para criar uma nova entrada é preciso clicar novamente em  [![](https://legado.
 
 **35 –** Verifique todos os dados inseridos, e clique em **Adicionar Registro**.
 
-### **Validando as entradas** <a href="#validando-entradas" id="validando-entradas"></a>
 
-Depois que criar todas as entradas, faça a sua [**validação na leadlovers**](https://suporte.love/validando-dns-no-leadlovers/).\
-Esse passo é essencial para garantir que os registros funcionem corretamente.
 
-![](https://suporte.love/wp-content/uploads/2022/12/download.png)
+&#x20;**📢 ✅ Depois de todas as entradas realizadas, é necessário validá-las dentro da Leadlovers.**\
+**Acesse o tutorial a respeito da validação,** [**clicando aqui.**](../../backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-builderall.md)
+
+
+
+&#x20;🏁 É isso, terminamos por aqui!\
+com amor ❤\
+equipe leadlovers™
 

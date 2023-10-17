@@ -99,15 +99,13 @@ A nova entrada ficará salva, junto com as outras que já existem em sua Zona DN
 
 OBS: A configuração do redirect é extremamente importante, visto que  Isso aumenta a confiabilidade do seu link aos provedores de e-mails e passa autoridade para quem está clicando do link.
 
-Depois de todas as entradas realizadas, é necessário validá-las dentro da Leadlovers. Acesse o tutorial a respeito da validação, [clicando aqui.](../../backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-builderall.md)
+
+
+**📢 ✅ Depois de todas as entradas realizadas, é necessário validá-las dentro da Leadlovers.**\
+**Acesse o tutorial a respeito da validação,** [**clicando aqui.**](../../backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-builderall.md)
 
 
 
-
-
-
-
-**Suporte**
-
-Se surgir qualquer dúvida ou se precisar de qualquer ajuda durante este procedimento\
-por favor, **entre em contato com o nosso suporte**!
+&#x20;🏁 É isso, terminamos por aqui!\
+com amor ❤\
+equipe leadlovers™

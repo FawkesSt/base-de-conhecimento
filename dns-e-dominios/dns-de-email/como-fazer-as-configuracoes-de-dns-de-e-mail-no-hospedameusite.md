@@ -143,7 +143,7 @@ _Sobre o link de redirect: O link de redirect serve para ser aplicado em todos o
 34 – Clique em Save Changes.
 
 📢 ✅ Depois de todas as entradas realizadas, é necessário validá-las dentro da Leadlovers.\
-Acesse o tutorial a respeito da validação, [clicando aqui.](https://suporte.love/validando-dns-no-leadlovers/)
+Acesse o tutorial a respeito da validação, [clicando aqui.](../../backlog/como-fazer-as-configuracoes-de-dns-de-e-mail-no-builderall.md)
 
 **É isso, terminamos por aqui!**\
 com amor ❤\
