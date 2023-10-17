@@ -77,7 +77,7 @@ Na tela de contas de e-mail, siga esses passos:
 **Artigos Relacionados:**
 
 * índice de Dns de e-mail
-* [O que é reputação da conta do e-mail](../../backlog/contas-de-e-mail-o-que-e-reputacao-do-e-mail.md)
+* [O que é reputação da conta do e-mail](contas-de-e-mail-o-que-e-reputacao-do-e-mail.md)
 
 **Suporte**
 

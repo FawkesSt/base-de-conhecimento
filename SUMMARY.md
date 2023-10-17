@@ -21,7 +21,8 @@
   * [Outras Máquinas](automacoes/maquinas/outras-maquinas/README.md)
     * [Telegram](automacoes/maquinas/outras-maquinas/telegram.md)
     * [SMS](automacoes/maquinas/outras-maquinas/sms.md)
-    * [Voz](automacoes/maquinas/outras-maquinas/voz.md)
+    * [Voz](automacoes/maquinas/outras-maquinas/voz/README.md)
+      * [Máquina de Voz](automacoes/maquinas/outras-maquinas/voz/maquina-de-voz.md)
 * [Envio pontual](automacoes/envio-pontual/README.md)
   * [Email Marketing](automacoes/envio-pontual/email-marketing/README.md)
     * [Disparo único – Como criar, editar e configurar as Campanhas na leadlovers](automacoes/envio-pontual/email-marketing/disparo-unico-como-criar-editar-e-configurar-as-campanhas-na-leadlovers.md)
@@ -31,6 +32,7 @@
 
 * [Conta de Email](contas/conta-de-email/README.md)
   * [Como adicionar, editar e remover Contas de E-mail](contas/conta-de-email/como-adicionar-editar-e-remover-contas-de-e-mail.md)
+  * [Contas de e-mail: O que é Reputação do E-mail?](contas/conta-de-email/contas-de-e-mail-o-que-e-reputacao-do-e-mail.md)
 * [Conta de WhatsApp](contas/page-1.md)
   * [Reautenticando WhatsApp Business Cloud API](contas/conta-de-whatsapp/reautenticando-whatsapp-business-cloud-api.md)
 * [Contas de Telegram](contas/contas-de-telegram.md)
@@ -67,12 +69,12 @@
   * [Como fazer as configurações de DNS de E-mail na Bluehost?](dns-e-dominios/dns-de-email/como-fazer-as-configuracoes-de-dns-de-e-mail-na-bluehost.md)
   * [Como fazer as configurações de DNS de E-mail no HospedameuSite?](dns-e-dominios/dns-de-email/como-fazer-as-configuracoes-de-dns-de-e-mail-no-hospedameusite.md)
 * [Apontamento de domínio](dns-e-dominios/apontamento-de-dominio/README.md)
-  * [Como criar uma entrada de subdomínio no UolHost ?](dns-e-dominios/apontamento-de-dominio/como-criar-uma-entrada-de-subdominio-no-uolhost.md)
   * [Como usar meu domínio ou subdomínio em todas as páginas da máquina?](dns-e-dominios/apontamento-de-dominio/como-usar-meu-dominio-ou-subdominio-em-todas-as-paginas-da-maquina.md)
   * [Apontamento de domínio no KingHost](dns-e-dominios/apontamento-de-dominio/apontamento-de-dominio-no-kinghost.md)
   * [Como criar uma entrada de subdomínio na GoDaddy?](dns-e-dominios/apontamento-de-dominio/como-criar-uma-entrada-de-subdominio-na-godaddy.md)
   * [Como criar uma entrada de subdomínio na Kinghost?](dns-e-dominios/apontamento-de-dominio/como-criar-uma-entrada-de-subdominio-na-kinghost.md)
   * [Como criar uma entrada de subdomínio no Hostgator?](dns-e-dominios/apontamento-de-dominio/como-criar-uma-entrada-de-subdominio-no-hostgator.md)
+  * [Como criar uma entrada de subdomínio na Uolhost?](dns-e-dominios/apontamento-de-dominio/como-criar-uma-entrada-de-subdominio-na-uolhost.md)
 
 ## Páginas
 
@@ -102,6 +104,7 @@
   * [Como instalar o Pixel do Facebook?](paginas/analytics/como-instalar-o-pixel-do-facebook.md)
   * [O que é e como utilizar o Pixel Externo do leadlovers](paginas/analytics/o-que-e-e-como-utilizar-o-pixel-externo-do-leadlovers.md)
   * [O que é Pixel do Facebook?](paginas/analytics/o-que-e-pixel-do-facebook.md)
+  * [Como realizar Teste AB em páginas](paginas/analytics/como-realizar-teste-ab-em-paginas.md)
 
 ## Integrações
 
@@ -176,8 +179,6 @@
   * [Relatório de Entregabilidade](backlog/relatorio-de-entregabilidade.md)
   * [Como criar campos dinâmicos e como criar formulário dinâmico.](backlog/como-criar-campos-dinamicos-e-como-criar-formulario-dinamico..md)
   * [Como funciona a leadlovers](backlog/como-funciona-a-leadlovers.md)
-  * [Contas de e-mail: O que é Reputação do E-mail?](backlog/contas-de-e-mail-o-que-e-reputacao-do-e-mail.md)
-  * [Como realizar Teste AB em páginas](backlog/como-realizar-teste-ab-em-paginas.md)
   * [Como reordenar a listagem de leads na máquina?](backlog/como-reordenar-a-listagem-de-leads-na-maquina.md)
   * [Copy of Como funciona as movimentações de leads dentro da leadlovers](backlog/copy-of-como-funciona-as-movimentacoes-de-leads-dentro-da-leadlovers.md)
   * [Como personalizar página de Unsub](backlog/como-personalizar-pagina-de-unsub.md)
@@ -189,7 +190,6 @@
   * [Como gerar relatórios na máquina e na conta?](backlog/como-gerar-relatorios-na-maquina-e-na-conta.md)
   * [Avançando na segurança de e-mails: Gmail e BIMI](backlog/avancando-na-seguranca-de-e-mails-gmail-e-bimi.md)
   * [Programa de proteção de privacidade Apple Mail: O que você precisa saber](backlog/programa-de-protecao-de-privacidade-apple-mail-o-que-voce-precisa-saber.md)
-  * [Máquina de Voz](backlog/maquina-de-voz.md)
   * [Aba Compromisso nos e-mails.](backlog/aba-compromisso-nos-e-mails..md)
   * [Como pegar o link de uma página](backlog/como-pegar-o-link-de-uma-pagina.md)
   * [99Webinar: Integração plataformas externas e 99webinar](backlog/99webinar-integracao-plataformas-externas-e-99webinar.md)
@@ -259,7 +259,6 @@
   * [Componentes: Como usar fontes do Google Fonts no editor](backlog/componentes-como-usar-fontes-do-google-fonts-no-editor.md)
   * [\[EDITORES ANTIGOS\] Blocos e Modelos Prontos: Como incluir um formulário dinâmico](backlog/editores-antigos-blocos-e-modelos-prontos-como-incluir-um-formulario-dinamico.md)
   * [\[EDITORES ANTIGOS\] Blocos e Modelos Prontos: Como inserir um Formulário de Contato](backlog/editores-antigos-blocos-e-modelos-prontos-como-inserir-um-formulario-de-contato.md)
-  * [Como criar uma entrada de subdomínio na Uolhost?](backlog/como-criar-uma-entrada-de-subdominio-na-uolhost.md)
   * [Máquina de Instagram: Como permitir o acesso a mensagens em minha conta do Instagram?](backlog/maquina-de-instagram-como-permitir-o-acesso-a-mensagens-em-minha-conta-do-instagram.md)
   * [Máquina de Instagram: Primeiros passos](backlog/maquina-de-instagram-primeiros-passos.md)
   * [Máquina de Instagram: Como deixar a conta do Instagram profissional?](backlog/maquina-de-instagram-como-deixar-a-conta-do-instagram-profissional.md)
