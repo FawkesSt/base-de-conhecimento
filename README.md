@@ -19,7 +19,7 @@ layout:
 
 ## Acesse materiais por categoria
 
-<table data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Contas</strong></td><td>Configure suas contas de envio na plataforma.</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/banner card gitbook.png">banner card gitbook.png</a></td></tr><tr><td><strong>Máquinas</strong></td><td>Crie sua estratégia de marketing.</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/banner card gitbook.png">banner card gitbook.png</a></td></tr><tr><td><strong>Integrações</strong></td><td>Integre plataformas externas com a leadlovers.</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/banner card gitbook.png">banner card gitbook.png</a></td></tr><tr><td><strong>DNS e Domínios</strong></td><td>Configure o DNS para os seus domínios e contas de emails.</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/banner card gitbook.png">banner card gitbook.png</a></td></tr><tr><td><strong>Páginas</strong></td><td>Crie landing pages responsívas para a captura de contatos.</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/banner card gitbook.png">banner card gitbook.png</a></td></tr><tr><td><strong>CRM</strong></td><td>Faça a gestão de contatos de forma simples.</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/banner card gitbook.png">banner card gitbook.png</a></td></tr><tr><td><strong>EAD</strong></td><td>Crie e disponibilize um curso online.</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/banner card gitbook.png">banner card gitbook.png</a></td></tr><tr><td><strong>Minha Conta</strong></td><td>Gerencie sua assinatura leadlovers e dados da conta.</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/banner card gitbook.png">banner card gitbook.png</a></td></tr><tr><td><strong>Configurações Gerais</strong></td><td>Configurações básicas de sua conta leadlovers.</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/banner card gitbook.png">banner card gitbook.png</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Contas</strong></td><td>Configure suas contas de envio na plataforma.</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Frame 990.png">Frame 990.png</a></td></tr><tr><td><strong>Máquinas</strong></td><td>Crie sua estratégia de marketing.</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Frame 991.png">Frame 991.png</a></td></tr><tr><td><strong>Integrações</strong></td><td>Integre plataformas externas com a leadlovers.</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Frame 992.png">Frame 992.png</a></td></tr><tr><td><strong>DNS e Domínios</strong></td><td>Configure o DNS para os seus domínios e contas de emails.</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Frame 993.png">Frame 993.png</a></td></tr><tr><td><strong>Páginas</strong></td><td>Crie landing pages responsívas para a captura de contatos.</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Frame 994.png">Frame 994.png</a></td></tr><tr><td><strong>CRM</strong></td><td>Faça a gestão de contatos de forma simples.</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Frame 995.png">Frame 995.png</a></td></tr><tr><td><strong>EAD</strong></td><td>Crie e disponibilize um curso online.</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Frame 996.png">Frame 996.png</a></td></tr><tr><td><strong>Minha Conta</strong></td><td>Gerencie sua assinatura leadlovers e dados da conta.</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Frame 997.png">Frame 997.png</a></td></tr><tr><td><strong>Configurações Gerais</strong></td><td>Configurações básicas de sua conta leadlovers.</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Frame 998.png">Frame 998.png</a></td></tr></tbody></table>
 
 ***
 
@@ -46,30 +46,6 @@ layout:
 <details>
 
 <summary>Há limite de envios diários?</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Lorem ipsum</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Lorem ipsum</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Lorem ipsum</summary>
 
 
 
